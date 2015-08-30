@@ -2,13 +2,15 @@ footer
     .foot
         .container
             .left
-                span.copyright &copy; by {{ site.name }}
+                span.copyright #[i.fa.fa-copyright] {{ site.name }}
+                &nbsp;&middot;&nbsp;
+                span.copyright Webdesign and #[i.fa.fa-code] by #[a(href="http://halfapx.com") &frac12; a px&period;]
                 &nbsp;&middot;&nbsp;
                 span.year 2015
             .right
                 a(href="#")
                     i.fa.fa-facebook
-                {% if page.title != "Home" %}
+                {% if page.layout == "post" %}
                 &nbsp;
                 span.backtotop back to top
                 {% endif %}

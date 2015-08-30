@@ -14,4 +14,6 @@ Die Fotografie ist für mich Leidenschaft, Inspiration und Motivation. Es ist me
 
 Eine weitere Leidenschaft von mir sind Pferde. Ohne sie könnte ich mir ein Leben nicht mehr vorstellen. Deshalb geraten diese wunderschönen Tiere immer wieder vor meine Kamera. 
 
-Viele wissen nicht, was sie für eine tolle Ausstrahlung haben. Mein Ziel ist es die innerste Schönheit heraus zu kitzeln und für die Ewigkeit festzuhalten. Sei stolz auf dich und fühl dich schön.
+Viele wissen nicht, was sie für eine tolle Ausstrahlung haben. Mein Ziel ist es die innerste Schönheit heraus zu kitzeln und für die Ewigkeit festzuhalten. 
+
+> Sei stolz auf dich und fühl dich schön.

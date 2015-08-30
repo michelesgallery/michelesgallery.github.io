@@ -34,11 +34,11 @@ $(document).ready(function () {
         });
 
         // dissapearing .header based on nav state
-        /* $(window).scroll(function (event) {
+        $(window).scroll(function (event) {
             if ($(window).scrollTop() > (headerHeight + navbarHeight)) {
                 didScroll = true;
             }
-        }); */
+        });
 
         function hasScrolled() {
             var st = $(window).scrollTop();
@@ -68,7 +68,7 @@ $(document).ready(function () {
 
         // make it so, that content fills at least whole window
         $('.wrapper').css({
-            'min-height': $(window).height() - $('.header').outerHeight() - $('footer').height() - $('.menu').height() // because 13 is the magic number
+            'min-height': $(window).height() - $('.header').outerHeight() - $('footer').outerHeight() - $('.menu').outerHeight() * 2
         });
 
 
