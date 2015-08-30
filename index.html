@@ -1,13 +1,11 @@
 ---
 layout: index
 title: Home
-lang: de
-id: index
 description: ½ a px. Ein Blog über Frontend Development mit Fokus auf jekyll und Blogger.
 ---
 <h1>Neuste Posts</h1>
 <div class="posts-container">
-{% assign posts = site.posts | where:"lang", page.lang %}
+{% assign posts = site.posts %}
 {% for post in posts limit: 3 %}
     {% include article_index.html %}
 {% endfor %}
@@ -21,7 +19,7 @@ description: ½ a px. Ein Blog über Frontend Development mit Fokus auf jekyll u
 
 <h1>Neuste Portfolio Einträge</h1>
 <div class="portfolio-wrapper" id="container">
-    {% assign portfolio = site.portfolio | sort: "date" | reverse | where:"lang", page.lang %}
+    {% assign portfolio = site.portfolio | sort: "date" | reverse %}
     {% for item in portfolio limit: 3 %}
         <div class="item-wrapper mix {{ item.category }}">
             {% if item.title and item.gallery %}

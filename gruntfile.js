@@ -190,7 +190,7 @@ module.exports = function(grunt) {
 
         open : {
             build: {
-                path: 'http://localhost:4000/jekyll-starter/',
+                path: 'http://localhost:4000/',
                 app: 'Firefox'
             }
         },
@@ -249,7 +249,7 @@ module.exports = function(grunt) {
                 tasks: ["shell:jekyllBuild", "copy"]
             },
             images: {
-                files: ["img/{,*/}{,*/}*.{png,jpg,gif}", "!img/compressed/{,*/}*.*"],
+                files: ["img/{,*/}{,*/}*.{png,jpg,gif}"],
                 tasks: ["responsive_images", "newer:imagemin", "shell:jekyllBuild", "copy"]
             }
         }

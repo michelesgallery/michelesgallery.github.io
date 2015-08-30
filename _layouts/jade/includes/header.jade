@@ -1,19 +1,10 @@
 header.header(style="background-image: {% if page.header-pic %}url({{ site.img_dir | prepend: base }}/{{ page.header-pic }}){% else %}none{% endif %}")
     .container
         h1(style="{% if page.site-title-display == false %}opacity: 0{% else %}opacity: 1{% endif %}")
-            {% if page.lang == "de" %}
             {% if page.layout == "index" %}
-            span {{ site.name }}                
+            img(src="{{ site.img_dir }}/michele-dekker-logo.png", alt="michèle dekker logo")                
             {% else %}
-            a(href="{{ base }}/", class="homelink") {{ site.name }}
+            a(href="{{ base }}/", class="homelink") #[img(src="{{ site.img_dir }}/michele-dekker-logo.png", alt="michèle dekker logo")]
             {% endif %}
-            {% else %}
-            {% if page.layout == "index" %}
-            span {{ site.name }}                
-            {% else %}
-            a(href="{{ base }}/en", class="homelink") {{ site.name }}
-            {% endif %}
-            {% endif %}
-        
     // .container end
 // header end

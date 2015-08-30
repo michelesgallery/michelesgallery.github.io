@@ -40,11 +40,7 @@
         {{ post.content | markdownify | strip_html | truncatewords: 50 }}
         <br>
         <a href="{{ post.url | prepend: base }}" class="btn rm">
-            {% if page.lang == "en" %}
-                Read More
-            {% else %}
-                Weiterlesen
-            {% endif %}
+            Weiterlesen
         </a>
     </div>
 </article>

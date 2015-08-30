@@ -18,8 +18,8 @@
   <body class="page {% if page.bodyclass %}{{ page.bodyclass }}{% endif %} {{ page.lang | prepend: 'lang-' }}">
     <nav class="open">
       <div class="menu">
-        <div class="left">{% if page.lang == "de" %}<a href="{{ base }}/" class="homelink"><span>Logo here</span></a>{% else %}<a href="{{ base }}/en" class="homelink"><span>Logo here</span></a>{% endif %}
-          <div class="responsive"><span class="toggle"><i class="fa fa-close"></i></span>{% assign pages_list = site.pages | sort:"group" | where:"lang", page.lang %}
+        <div class="left"><a href="{{ base }}/" class="homelink"><span>Home</span></a>
+          <div class="responsive"><span class="toggle"><i class="fa fa-close"></i></span>{% assign pages_list = site.pages | sort:"group" %}
             {% assign group = 'navigation' %}{% for item in pages_list %}
   {% if group == null or item.group contains group %}
     {% if page.url == item.url %}
@@ -36,40 +36,14 @@
           <!-- .responsive end-->
         </div>
         <div class="center"><span class="toggle">Menu</span></div>
-        <div class="right">{% assign pages = site.pages | where:"id", page.id | sort: 'path' %}
-{% for page in pages %}
-    <a href="{{ page.url | replace: 'index.html', '' | prepend: base }}" class="{{ page.lang }}">
-        {{ page.lang }}
-    </a>
-{% endfor %}
-
-{% assign portfolio = site.portfolio | where:"id", page.id | sort: 'path' %}
-{% for item in portfolio %}
-    <a href="{{ item.url | replace: 'index.html', '' | prepend: base }}" class="{{ item.lang }}">
-        {{ item.lang }}
-    </a>
-{% endfor %}       
-
-{% assign posts = site.posts | where:"name", page.name %}
-{% for post in posts %}
-    <a href="{{ post.url | replace: 'index.html', '' | prepend: base }}" class="{{  post.lang }}">
-        {{ post.lang }}
-    </a>
-{% endfor %}
-        </div>
+        <div class="right"><span>social media icons?</span></div>
       </div>
       <!-- .menu end-->
     </nav>
     <!-- nav end-->
     <header style="background-image: {% if page.header-pic %}url({{ site.img_dir | prepend: base }}/{{ page.header-pic }}){% else %}none{% endif %}" class="header">
       <div class="container">
-        <h1 style="{% if page.site-title-display == false %}opacity: 0{% else %}opacity: 1{% endif %}">
-          {% if page.lang == "de" %}
-          {% if page.layout == "index" %}<span>{{ site.name }}                </span>{% else %}<a href="{{ base }}/" class="homelink">{{ site.name }}</a>{% endif %}
-          {% else %}
-          {% if page.layout == "index" %}<span>{{ site.name }}                </span>{% else %}<a href="{{ base }}/en" class="homelink">{{ site.name }}</a>{% endif %}
-          {% endif %}
-        </h1>
+        <h1 style="{% if page.site-title-display == false %}opacity: 0{% else %}opacity: 1{% endif %}">{% if page.layout == "index" %}<img src="{{ site.img_dir }}/michele-dekker-logo.png" alt="michèle dekker logo">{% else %}<a href="{{ base }}/" class="homelink"><img src="{{ site.img_dir }}/michele-dekker-logo.png" alt="michèle dekker logo"></a>{% endif %}</h1>
       </div>
       <!-- .container end-->
     </header>

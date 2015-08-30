@@ -2,8 +2,6 @@
 title: 3D Blooms
 subtitle: fractal art
 category: [fractal, floral, 3d]
-lang: de
-id: 3dblooms
 header-pic: gold-beam.png 
 gallery: 
     - images:

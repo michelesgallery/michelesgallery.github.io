@@ -8,11 +8,10 @@
         position: center;
     }
     .container {
-        padding: 150px 0;
+        padding: 50px 0;
     }
 
     h1{
-        border: 1px solid $black;
         font-size: 4.5em;
         font-weight: normal;
         border-radius: 3px;
@@ -20,5 +19,9 @@
         display: inline-block;
         padding: 10px;
         background: $background-color;
+        
+        img{ 
+            max-width: 650px;
+        }
     }
 }

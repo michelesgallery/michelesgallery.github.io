@@ -1,9 +1,9 @@
 doctype html
-html(lang="{{page.lang}}")
+html(lang="de")
 
     include includes/head.jade
 
-    body.index(class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %} {{ page.lang | prepend: 'lang-' }}")
+    body.index(class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %}")
         
         include includes/nav.jade
         

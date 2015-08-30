@@ -2,7 +2,7 @@
 //-----------
 $noborder: 0 solid transparent;
 
-$roboto: 'Roboto', 'Open Sans', 'Calibri', sans-serif;
+$gudea: 'Gudea', 'Open Sans', 'Calibri', sans-serif;
 $source-code-pro: 'Source Code Pro', 'Courier New', monospace;
 
 // SETTINGS FOR BASE-STYLE
@@ -52,10 +52,10 @@ $link-hover-color: black;
 // String Variables (use strings as values | for Font Variables: Don't forget to include the fonts)
 //------------------------------------------
 
-$main-font: $roboto;
+$main-font: $gudea;
 
 // set to $main-font if you don't want your headings to use another font
-$headings-font: 'Work Sans', 'Calibri', sans-serif;
+$headings-font: $gudea;
 
 // use values from text-transform [none|capitalize|uppercase|lowercase|initial|inherit]
 $headings-text-transform: none;

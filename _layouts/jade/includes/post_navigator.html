@@ -1,4 +1,4 @@
-{% assign  document = site.posts | sort: "date" | reversed | where:"lang", page.lang %}
+{% assign  document = site.posts | sort: "date" | reversed %}
 {% for links in document %}
     {% if links.title == page.title %}
         {% unless forloop.first %}
