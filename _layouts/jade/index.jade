@@ -7,17 +7,10 @@ html(lang="de")
         
         include includes/nav.jade
         
-        include includes/header.jade
+        .head
+            img(src="{{ site.img_dir }}/michele-dekker-logo.png", alt="michèle dekker logo")                
         
-        .wrapper
-            section.main_container
-                .container
-                    .content
-                        {{content}}
-                    // .content end
-                // .container end
-            // section end
-        // .wrapper end
+        {{ content }}
         
         include includes/footer.jade
         

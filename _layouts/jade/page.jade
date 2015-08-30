@@ -11,7 +11,6 @@ html(lang="{{page.lang}}")
             section.main_container
                 .container
                     article
-                        
                         {% if page.page-title == "yes" %}
                         h1.title {{ page.title }}
                         {% endif %}
@@ -20,7 +19,14 @@ html(lang="{{page.lang}}")
                         h2.subtitle {{ page.subtitle }}
                         {% endif %}
                         
-                        .content {{ content }}
+                        div(class="content {% if page.side-img == true %}has-side-img{%endif%}")
+                            {% if page.side-img == true %}
+                            .side-content {{ content }}
+                            .side-img
+                                img(src="{{ site.img_dir }}/{{ page.side-img-file }}", alt="{{ page.side-img-file }}")
+                            {% else %}
+                            {{ content }}
+                            {% endif %}
                     // article end
                 // .container end
             // section end

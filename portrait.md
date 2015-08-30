@@ -2,6 +2,8 @@
 group: "navigation-01"
 title: Portrait
 description: Ein paar Worte über mich.
+side-img: true
+side-img-file: michele-dekker.jpg
 ---
 Mein Name ist Michèle Dekker und ich bin am 15.6.93 geboren.
 Seit 2014 studiere ich an der Universität Luzern Rechtswissenschaften. 

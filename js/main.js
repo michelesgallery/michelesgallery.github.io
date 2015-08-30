@@ -34,11 +34,11 @@ $(document).ready(function () {
         });
 
         // dissapearing .header based on nav state
-        $(window).scroll(function (event) {
+        /* $(window).scroll(function (event) {
             if ($(window).scrollTop() > (headerHeight + navbarHeight)) {
                 didScroll = true;
             }
-        });
+        }); */
 
         function hasScrolled() {
             var st = $(window).scrollTop();

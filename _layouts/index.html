@@ -18,8 +18,8 @@
   <body class="index {% if page.bodyclass %}{{ page.bodyclass }}{% endif %}">
     <nav class="open">
       <div class="menu">
-        <div class="left"><a href="{{ base }}/" class="homelink"><span>Home</span></a>
-          <div class="responsive"><span class="toggle"><i class="fa fa-close"></i></span>{% assign pages_list = site.pages | sort:"group" %}
+        <div class="left"><span class="toggle menu-toggle">Menu</span>
+          <div class="responsive"><span class="toggle"><i class="fa fa-close"></i></span><a href="{{ base }}/" class="homelink {% if page.title == 'Home' %}active{% endif %}"><span>Home</span></a>{% assign pages_list = site.pages | sort:"group" %}
             {% assign group = 'navigation' %}{% for item in pages_list %}
   {% if group == null or item.group contains group %}
     {% if page.url == item.url %}
@@ -35,35 +35,17 @@
           </div>
           <!-- .responsive end-->
         </div>
-        <div class="center"><span class="toggle">Menu</span></div>
-        <div class="right"><span>social media icons?</span></div>
       </div>
       <!-- .menu end-->
     </nav>
     <!-- nav end-->
-    <header style="background-image: {% if page.header-pic %}url({{ site.img_dir | prepend: base }}/{{ page.header-pic }}){% else %}none{% endif %}" class="header">
-      <div class="container">
-        <h1 style="{% if page.site-title-display == false %}opacity: 0{% else %}opacity: 1{% endif %}">{% if page.layout == "index" %}<img src="{{ site.img_dir }}/michele-dekker-logo.png" alt="michèle dekker logo">{% else %}<a href="{{ base }}/" class="homelink"><img src="{{ site.img_dir }}/michele-dekker-logo.png" alt="michèle dekker logo"></a>{% endif %}</h1>
-      </div>
-      <!-- .container end-->
-    </header>
-    <!-- header end-->
-    <div class="wrapper">
-      <section class="main_container">
-        <div class="container">
-          <div class="content">{{content}}</div>
-          <!-- .content end-->
-        </div>
-        <!-- .container end-->
-      </section>
-      <!-- section end-->
-    </div>
-    <!-- .wrapper end-->
+    <div class="head"><img src="{{ site.img_dir }}/michele-dekker-logo.png" alt="michèle dekker logo"></div>{{ content }}
     <footer>
       <div class="foot">
         <div class="container">
           <div class="left"><span class="copyright">&copy; by {{ site.name }}</span>&nbsp;&middot;&nbsp;<span class="year">2015</span></div>
-          <div class="right"><a href="https://github.com/mynimi"> <i class="fa fa-github"></i></a><a href="http://codepen.io/mynimi/"><i class="fa fa-codepen"></i></a>&nbsp;<span class="backtotop">back to top</span>
+          <div class="right"><a href="#"><i class="fa fa-facebook"></i></a>{% if page.title != "Home" %}
+            &nbsp;<span class="backtotop">back to top</span>{% endif %}
           </div>
         </div>
         <!-- .container end-->

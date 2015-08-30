@@ -25,21 +25,22 @@ nav{
     transition: .3s all ease-in-out;
     color: $nav-color;
     line-height: 2;
-
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
 
     a{
-        margin-right: 20px;
+        padding: 5px 10px;
+        margin: 4px;
         color: $nav-color;
 
         &:hover{
-            color: $nav-color;
-            opacity: .8;
+            color: $nav-color-hover;
         }
         
         &.active{
-            &:before{
-                content: 'ᐅ ';
-            }
+            color: $nav-color-hover;
+            border-bottom: 2px solid currentColor;
         }
     }
 
@@ -62,8 +63,8 @@ nav{
 
     .left,
     .right {
-        @include flexbox(row, wrap, flex-start, center);
-        
+        @include flexbox(row, wrap, center, center);
+        width: 100%;
         li{
             list-style: none;
             display: inline;
@@ -118,7 +119,7 @@ nav{
             }
         }
     }
-    .center{
+    .menu-toggle{
         @media screen and (max-width: $nav-toggle){
 
         }

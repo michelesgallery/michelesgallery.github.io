@@ -276,3 +276,26 @@ p + {
         }
     }
 }
+
+%head-color{
+    color: $darkgreen;    
+}
+
+@for $i from 1 through 6 {    
+    h#{$i} {
+        @extend %head-color;
+    }
+}
+
+
+.has-side-img{
+    @media screen and (min-width: 100px ){
+        @include flexbox(row-reverse, wrap, space-between, flex-start);
+        .side-content{
+            width: 70%;
+        }
+        .side-img{
+            width: 28%;
+        }
+    }
+}

@@ -1,19 +1,19 @@
 nav.open
     .menu
         .left
-            a(href="{{ base }}/", class="homelink")
-                span Home
+            span.toggle.menu-toggle
+                | Menu
             .responsive
                 span.toggle
                     i.fa.fa-close
+                a(href="{{ base }}/", class="homelink {% if page.title == 'Home' %}active{% endif %}")
+                    span Home
                 {% assign pages_list = site.pages | sort:"group" %}
                 {% assign group = 'navigation' %}
                 include menu_content.html
             // .responsive end
-        .center
-            span.toggle
-                | Menu
-        .right
+        //- .center
+        //- .right
             span social media icons?
     // .menu end
 // nav end
