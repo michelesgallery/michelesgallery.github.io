@@ -1,0 +1,44 @@
+doctype html
+html(lang="{{page.lang}}")
+
+    include includes/head.jade
+
+    body.page.portfolio.has-sidebar.post(class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %} {{ page.lang | prepend: 'lang-' }}")
+    
+        include includes/nav.jade
+        
+        include includes/header.jade
+
+        .wrapper
+            section.main_container
+                .container
+                    article
+                    
+                        .title
+                            h1 {{ page.title }}
+                            {% if page.subtitle %}
+                            h2.subtitle {{ page.subtitle }}
+                            {% endif %}
+                            
+                        // - 
+                            .meta
+                                here would be the place for things like date, category, tags or other info
+                        
+                        .content {{ content }}
+                            {% include gallery.html %}
+
+                        include includes/disqus.html
+                        
+                        include includes/post_navigator.html
+
+                    // article end
+                    
+                    include includes/sidebar.html
+                // .container end
+            // section end
+        // .wrapper end
+        
+        include includes/footer.jade
+
+    // body end
+// html end

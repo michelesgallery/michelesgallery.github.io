@@ -1,0 +1,80 @@
+full_rebuild: true
+name: initium;
+url: http://halfapx.com
+baseurl: /jekyll-starter
+encoding: utf-8
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  # german version: smart_quotes: ["ldquo", "rsquo", "bdquo", "ldquo"]
+  # Guillemets version smart_quotes: ["laquo", "rsquo", "raquo", "laquo"]
+relative_permalinks: false
+destination: jekyllbuild
+gems: [jekyll-paginate]
+excerpt_separator: "<!-- more -->"
+# paginate: 10
+# paginate_path: /blog/page/:num/
+# paginate_per_category: true
+permalink: /:categories/:title/
+tag_dir: /tag
+img_dir: /media/compressed
+collections:
+    portfolio:
+        output: true
+        permalink: /portfolio/:path/
+defaults:
+  -
+    scope:
+      path: ""
+      type: ""
+    values:
+      lang: de
+  -
+    scope:
+      path: /en
+      type: ""
+    values:
+      lang: en
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      page-title: "yes"
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      lang: de
+  -
+    scope:
+      path: _posts/en
+    values:
+      lang: en
+  -
+    scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: portfolio
+  -
+    scope:
+      path: ""
+      type: themes
+    values:
+      layout: theme
+      
+exclude: [
+.git,
+.gitignore,
+sass,
+.sass-cache,
+package.json,
+gruntfile.js,
+node_modules,
+jekyllbuild
+]

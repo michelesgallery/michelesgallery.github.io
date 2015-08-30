@@ -1,0 +1,11 @@
+{% for item in pages_list %}
+  {% if group == null or item.group contains group %}
+    {% if page.url == item.url %}
+      <a href="{{item.url  | remove: '/index.html' | prepend: base }}" class="active">{{item.title}}</a>
+    {% else %}
+      <a href="{{item.url  | remove: '/index.html' | prepend: base }}">{{item.title}}</a>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+{% assign pages_list = nil %}
+{% assign group = nil %}

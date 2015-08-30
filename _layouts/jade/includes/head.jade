@@ -1,0 +1,17 @@
+{% if site.baseurl != '' or null %}
+{% assign base = site.baseurl %}
+{% else %}
+{% assign base = '' %}
+{% endif %}
+
+head
+    meta(charset='UTF-8')
+    title {{ site.name }}{% if page.title %} - {{ page.title }} {% endif%}
+    {% if page.description %}
+    meta(name="description" content="{{ page.description }}")
+    {% endif %}
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    meta(name='author', content='Myriam Frisano')
+    link(rel='stylesheet', href='{{ base }}/css/main.css')
+    link(rel="alternate", type="application/rss+xml", title="{{ site.name }}", href="{{ site.url | append: base }}/feed.xml")
+// head end

@@ -1,0 +1,35 @@
+{% assign  document = site.posts | sort: "date" | reversed | where:"lang", page.lang %}
+{% for links in document %}
+    {% if links.title == page.title %}
+        {% unless forloop.first %}
+            {% assign prevurl = prev.url %}
+            {% assign prevtitle = prev.title %}
+        {% endunless %}
+
+        {% unless forloop.last %}
+            {% assign next = document[forloop.index] %}
+            {% assign nexturl = next.url %}
+            {% assign nexttitle = next.title %}
+        {% endunless %}
+    {% endif %}
+    
+    {% assign prev = links %}
+{% endfor %}
+
+{% if prevurl or nexturl %}
+    <div class="pagination">
+        {% if prevurl %}
+            <a href="{{ prevurl | prepend: base }}" class="prev">
+                <i class="fa fa-angle-left"></i> 
+                {{ prevtitle }}
+            </a>
+        {% endif %}                    
+        
+        {% if nexturl %}
+            <a href="{{ nexturl | prepend: base }}" class="next">
+                {{ nexttitle }}
+                <i class="fa fa-angle-right"></i>
+            </a>
+        {% endif %}
+    </div>
+{% endif %}

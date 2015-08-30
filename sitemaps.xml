@@ -1,0 +1,38 @@
+---
+layout: null
+permalink: /sitemaps.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  {% for post in site.posts %}
+  <url>
+    <loc>{{ site.url }}{{ post.url }}</loc>
+    {% assign versions=site.posts|where:"name",post.name %}
+    {% for version in versions %}
+      <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{ site.url }}{{ version.url }}" />
+    {% endfor %}
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  {% endfor %}
+  {% for page in site.pages %}
+  <url>
+    <loc>{{ site.url }}{{ page.url }}</loc>
+    {% assign versions=site.pages|where:"id",page.id %}
+    {% for version in versions %}
+      <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{ site.url }}{{ version.url }}" />
+    {% endfor %}
+  </url>
+  {% endfor %}
+  {% for theme in site.themes %}
+  <url>
+    <loc>{{ site.url }}{{ theme.url }}</loc>
+    {% assign versions=site.themes|where:"id",theme.id %}
+    {% for version in versions %}
+      <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{ site.url }}{{ version.url }}" />
+    {% endfor %}
+    <lastmod>{{ theme.date | date_to_xmlschema }}</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  {% endfor %}
+</urlset>

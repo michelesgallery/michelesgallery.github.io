@@ -1,0 +1,149 @@
+.toggle {
+    margin-right: 20px;
+    
+    &:hover{
+        opacity: .8;
+        cursor: pointer;
+    }
+}
+
+.backtotop{
+    @extend a;
+    opacity: 1;
+
+    &:hover{
+        cursor: pointer;
+    }
+}
+
+nav{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 5;
+    transition: .3s all ease-in-out;
+    color: $nav-color;
+    line-height: 2;
+
+
+    a{
+        margin-right: 20px;
+        color: $nav-color;
+
+        &:hover{
+            color: $nav-color;
+            opacity: .8;
+        }
+        
+        &.active{
+            &:before{
+                content: 'ᐅ ';
+            }
+        }
+    }
+
+    .menu{
+        @include flexbox(row, wrap, space-between, center);
+        background: $nav-bg;
+        padding: 10px 20px;
+        box-sizing: border-box;
+        width: 100%;
+        position: relative;
+        top: 0;
+        left: 0;
+        z-index: 10;
+
+        .homelink{
+            line-height: 1;
+            margin-right: 0;
+        }
+    }
+
+    .left,
+    .right {
+        @include flexbox(row, wrap, flex-start, center);
+        
+        li{
+            list-style: none;
+            display: inline;
+        }
+    }
+
+    .responsive{
+        @media screen and (min-width: $nav-toggle + 1){
+            .toggle{
+                display: none;
+            }
+
+            a:first-of-type{
+                margin-left: 20px;
+            }
+        }
+
+        @media screen and (max-width: $nav-toggle){
+            @include flexbox(column, nowrap, flex-start, center);
+            position: fixed;
+            z-index: 11;
+            left: -320px;
+            top: 0;
+            height: 100%;
+            width: 320px;
+            background: $responsive-nav-bg;
+            transition: .3s all ease;
+
+            &.active{
+                transform: translate(320px, 0);
+            }
+
+            a{
+                width: 100%;
+                text-align: center;
+                border-bottom: 1px solid rgba(white, .1);
+                padding: 10px 5px;
+                box-sizing: border-box;
+                margin: 0;
+                position: relative;
+
+                &:hover{
+                    background: rgba(white, .2);
+                }
+            }
+
+            .toggle{
+                text-align: right;
+                width: 100%;
+                padding: 5px;
+                box-sizing: border-box;
+            }
+        }
+    }
+    .center{
+        @media screen and (max-width: $nav-toggle){
+
+        }
+        @media screen and (min-width: $nav-toggle + 1){
+            display: none;
+        }
+    }
+}
+
+.lang-de {
+    .menu {
+        .de {
+            &:before{
+                content: 'ᐅ ';
+            }
+        }
+    }    
+}
+
+.lang-en {
+    .menu {
+        .en {
+            &:before{
+                content: 'ᐅ ';
+            }
+        }
+    }    
+}

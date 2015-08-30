@@ -1,0 +1,36 @@
+footer {
+    position: relative;
+    padding-top: 35px;
+    .foot {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        background: $footer-bg;
+        color: $footer-color;
+        width: 100%;
+        
+        a {
+            color: darken($footer-color, 20%);
+            &:hover {
+                color: $footer-color;
+                opacity: .8;
+            }
+        }
+        .backtotop {
+            &.hidden {
+                display: inline-block;
+                opacity: 1;
+            }
+            &:hover {
+                opacity: .8;
+            }
+        }
+        .fa {
+            font-size: 2em;
+            margin-right: 10px;
+        }
+        .container {
+            @include flexbox(row, wrap, space-between, center);
+        }
+    }
+}

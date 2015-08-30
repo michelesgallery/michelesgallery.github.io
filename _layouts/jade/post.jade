@@ -1,0 +1,54 @@
+doctype html
+html(lang="{{page.lang}}")
+
+    include includes/head.jade
+
+    body.page.post.has-sidebar(class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %} {{ page.lang | prepend: 'lang-' }}")
+    
+        include includes/nav.jade
+        
+        include includes/header.jade
+
+        .wrapper
+            section.main_container
+                .container
+                    article
+                    
+                        .title
+                            h1 {{ page.title }}
+                            {% if page.subtitle %}
+                            h2.subtitle {{ page.subtitle }}
+                            {% endif %}
+                            
+                        .meta
+                            span.date {% include date.html %}
+                                
+                            {% if post.tags %}
+                            &nbsp;&bull;&nbsp; 
+                            {% endif %}
+                                
+                            {% if page.tags %}
+                            span.tags
+                                 i.fa.fa-tags
+                                 {% for tag in page.tags limit:10 offset:0 %}
+                                 a(href="{{ site.tag_dir | prepend: base }}/{{ tag }}") {{ tag }}
+                                 {% endfor %}
+                            {% endif %}
+                        
+                        .content {{ content }}
+
+                        include includes/disqus.html
+                        
+                        include includes/post_navigator.html
+
+                    // article end
+                    
+                    include includes/sidebar.html
+                // .container end
+            // section end
+        // .wrapper end
+        
+        include includes/footer.jade
+
+    // body end
+// html end

@@ -1,0 +1,24 @@
+nav.open
+    .menu
+        .left
+            {% if page.lang == "de" %}
+            a(href="{{ base }}/", class="homelink")
+                span Logo here
+            {% else %}
+            a(href="{{ base }}/en", class="homelink")
+                span Logo here
+            {% endif %}
+            .responsive
+                span.toggle
+                    i.fa.fa-close
+                {% assign pages_list = site.pages | sort:"group" | where:"lang", page.lang %}
+                {% assign group = 'navigation' %}
+                include menu_content.html
+            // .responsive end
+        .center
+            span.toggle
+                | Menu
+        .right
+            include language_switcher.html
+    // .menu end
+// nav end

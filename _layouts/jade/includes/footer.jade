@@ -1,0 +1,22 @@
+footer
+    .foot
+        .container
+            .left
+                span.copyright &copy; by {{ site.name }}
+                &nbsp;&middot;&nbsp;
+                span.year 2015
+            .right
+                //- TODO: create a file for social media accounts
+                a(href="https://github.com/mynimi") 
+                    i.fa.fa-github
+                a(href="http://codepen.io/mynimi/")
+                    i.fa.fa-codepen
+                &nbsp;
+                span.backtotop back to top
+        // .container end
+    // .foot end
+// footer end
+
+script(src="{{ base }}/js/build/main.min.js")
+
+include analytics.html

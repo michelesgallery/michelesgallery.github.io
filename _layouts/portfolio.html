@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="{{page.lang}}">
+  {% if site.baseurl != '' or null %}
+  {% assign base = site.baseurl %}
+  {% else %}
+  {% assign base = '' %}
+  {% endif %}
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ site.name }}{% if page.title %} - {{ page.title }} {% endif%}</title>{% if page.description %}
+    <meta name="description" content="{{ page.description }}">{% endif %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Myriam Frisano">
+    <link rel="stylesheet" href="{{ base }}/css/main.css">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url | append: base }}/feed.xml">
+  </head>
+  <!-- head end-->
+  <body class="page portfolio has-sidebar post {% if page.bodyclass %}{{ page.bodyclass }}{% endif %} {{ page.lang | prepend: 'lang-' }}">
+    <nav class="open">
+      <div class="menu">
+        <div class="left">{% if page.lang == "de" %}<a href="{{ base }}/" class="homelink"><span>Logo here</span></a>{% else %}<a href="{{ base }}/en" class="homelink"><span>Logo here</span></a>{% endif %}
+          <div class="responsive"><span class="toggle"><i class="fa fa-close"></i></span>{% assign pages_list = site.pages | sort:"group" | where:"lang", page.lang %}
+            {% assign group = 'navigation' %}{% for item in pages_list %}
+  {% if group == null or item.group contains group %}
+    {% if page.url == item.url %}
+      <a href="{{item.url  | remove: '/index.html' | prepend: base }}" class="active">{{item.title}}</a>
+    {% else %}
+      <a href="{{item.url  | remove: '/index.html' | prepend: base }}">{{item.title}}</a>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+{% assign pages_list = nil %}
+{% assign group = nil %}
+
+          </div>
+          <!-- .responsive end-->
+        </div>
+        <div class="center"><span class="toggle">Menu</span></div>
+        <div class="right">{% assign pages = site.pages | where:"id", page.id | sort: 'path' %}
+{% for page in pages %}
+    <a href="{{ page.url | replace: 'index.html', '' | prepend: base }}" class="{{ page.lang }}">
+        {{ page.lang }}
+    </a>
+{% endfor %}
+
+{% assign portfolio = site.portfolio | where:"id", page.id | sort: 'path' %}
+{% for item in portfolio %}
+    <a href="{{ item.url | replace: 'index.html', '' | prepend: base }}" class="{{ item.lang }}">
+        {{ item.lang }}
+    </a>
+{% endfor %}       
+
+{% assign posts = site.posts | where:"name", page.name %}
+{% for post in posts %}
+    <a href="{{ post.url | replace: 'index.html', '' | prepend: base }}" class="{{  post.lang }}">
+        {{ post.lang }}
+    </a>
+{% endfor %}
+        </div>
+      </div>
+      <!-- .menu end-->
+    </nav>
+    <!-- nav end-->
+    <header style="background-image: {% if page.header-pic %}url({{ site.img_dir | prepend: base }}/{{ page.header-pic }}){% else %}none{% endif %}" class="header">
+      <div class="container">
+        <h1 style="{% if page.site-title-display == false %}opacity: 0{% else %}opacity: 1{% endif %}">
+          {% if page.lang == "de" %}
+          {% if page.layout == "index" %}<span>{{ site.name }}                </span>{% else %}<a href="{{ base }}/" class="homelink">{{ site.name }}</a>{% endif %}
+          {% else %}
+          {% if page.layout == "index" %}<span>{{ site.name }}                </span>{% else %}<a href="{{ base }}/en" class="homelink">{{ site.name }}</a>{% endif %}
+          {% endif %}
+        </h1>
+      </div>
+      <!-- .container end-->
+    </header>
+    <!-- header end-->
+    <div class="wrapper">
+      <section class="main_container">
+        <div class="container">
+          <article>
+            <div class="title">
+              <h1>{{ page.title }}</h1>{% if page.subtitle %}
+              <h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
+            </div>
+            <!-- - 
+            .meta
+                here would be the place for things like date, category, tags or other info
+            
+            -->
+            <div class="content">
+              {{ content }}
+              {% include gallery.html %}
+            </div><!-- include your disqus code here for comments -->{% assign  document = site.posts | sort: "date" | reversed | where:"lang", page.lang %}
+{% for links in document %}
+    {% if links.title == page.title %}
+        {% unless forloop.first %}
+            {% assign prevurl = prev.url %}
+            {% assign prevtitle = prev.title %}
+        {% endunless %}
+
+        {% unless forloop.last %}
+            {% assign next = document[forloop.index] %}
+            {% assign nexturl = next.url %}
+            {% assign nexttitle = next.title %}
+        {% endunless %}
+    {% endif %}
+    
+    {% assign prev = links %}
+{% endfor %}
+
+{% if prevurl or nexturl %}
+    <div class="pagination">
+        {% if prevurl %}
+            <a href="{{ prevurl | prepend: base }}" class="prev">
+                <i class="fa fa-angle-left"></i> 
+                {{ prevtitle }}
+            </a>
+        {% endif %}                    
+        
+        {% if nexturl %}
+            <a href="{{ nexturl | prepend: base }}" class="next">
+                {{ nexttitle }}
+                <i class="fa fa-angle-right"></i>
+            </a>
+        {% endif %}
+    </div>
+{% endif %}
+          </article>
+          <!-- article end--><div class="sidebar">
+    <span>I am the sidebar</span>
+</div>
+        </div>
+        <!-- .container end-->
+      </section>
+      <!-- section end-->
+    </div>
+    <!-- .wrapper end-->
+    <footer>
+      <div class="foot">
+        <div class="container">
+          <div class="left"><span class="copyright">&copy; by {{ site.name }}</span>&nbsp;&middot;&nbsp;<span class="year">2015</span></div>
+          <div class="right"><a href="https://github.com/mynimi"> <i class="fa fa-github"></i></a><a href="http://codepen.io/mynimi/"><i class="fa fa-codepen"></i></a>&nbsp;<span class="backtotop">back to top</span>
+          </div>
+        </div>
+        <!-- .container end-->
+      </div>
+      <!-- .foot end-->
+    </footer>
+    <!-- footer end-->
+    <script src="{{ base }}/js/build/main.min.js"></script><!-- add google analytics or other tracking code here -->
+  </body>
+  <!-- body end-->
+</html>
+<!-- html end-->

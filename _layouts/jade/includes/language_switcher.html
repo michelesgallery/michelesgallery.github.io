@@ -1,0 +1,20 @@
+{% assign pages = site.pages | where:"id", page.id | sort: 'path' %}
+{% for page in pages %}
+    <a href="{{ page.url | replace: 'index.html', '' | prepend: base }}" class="{{ page.lang }}">
+        {{ page.lang }}
+    </a>
+{% endfor %}
+
+{% assign portfolio = site.portfolio | where:"id", page.id | sort: 'path' %}
+{% for item in portfolio %}
+    <a href="{{ item.url | replace: 'index.html', '' | prepend: base }}" class="{{ item.lang }}">
+        {{ item.lang }}
+    </a>
+{% endfor %}       
+
+{% assign posts = site.posts | where:"name", page.name %}
+{% for post in posts %}
+    <a href="{{ post.url | replace: 'index.html', '' | prepend: base }}" class="{{  post.lang }}">
+        {{ post.lang }}
+    </a>
+{% endfor %}

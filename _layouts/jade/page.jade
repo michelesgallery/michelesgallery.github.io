@@ -1,0 +1,32 @@
+doctype html
+html(lang="{{page.lang}}")
+    include includes/head.jade
+
+    body.page(class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %} {{ page.lang | prepend: 'lang-' }}")
+        include includes/nav.jade
+        
+        include includes/header.jade
+
+        .wrapper
+            section.main_container
+                .container
+                    article
+                        
+                        {% if page.page-title == "yes" %}
+                        h1.title {{ page.title }}
+                        {% endif %}
+                        
+                        {% if page.subtitle %}
+                        h2.subtitle {{ page.subtitle }}
+                        {% endif %}
+                        
+                        .content {{ content }}
+                    // article end
+                // .container end
+            // section end
+        // .wrapper end
+
+        include includes/footer.jade
+
+    // body end
+// html end
