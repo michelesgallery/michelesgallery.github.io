@@ -103,7 +103,7 @@ module.exports = function(grunt) {
             },
             pages: {
                 options: {
-                    remote: 'git@github.com:mynimi/mynimi.github.io.git',
+                    remote: 'git@github.com:michelesgallery/michelesgallery.github.io.git',
                     branch: 'master'
                 }
             }

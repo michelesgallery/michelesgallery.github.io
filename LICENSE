@@ -1,17 +1,17 @@
 Copyright (c) 2015 Myriam Frisano
 
 The contents of this website, which consists of the files in
- * _drafts
  * _posts
  * _portfolio
- * _themes
- * (all of the index.html files, within named folders )
+ * img
+ * media
+ * as well as the named markdown files in the root of the site
  
-are copyrighted and sole property of its author Myriam Frisano. It may not be
+are copyrighted and sole property of its author Michèle Dekker. It may not be
 used, modified, syndicated or distributed without expressed permission from
 the author.
 
-However, the rest of the website is licensed under the MIT License
+However, the code/design of the website is licensed under the MIT License
 
 The MIT License (MIT)
 

@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mynimi/mynimi.github.io"
+    "url": "https://github.com/michelesgallery/michelesgallery.github.io"
   },
   "devDependencies": {
     "autoprefixer-core": "^5.2.1",
