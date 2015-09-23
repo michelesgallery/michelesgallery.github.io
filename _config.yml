@@ -32,6 +32,7 @@ defaults:
       layout: page
       page-title: "yes"
       site-title-display: true
+      header: true
   -
     scope:
       path: ""
@@ -45,6 +46,7 @@ defaults:
       type: portfolio
     values:
       layout: portfolio
+      header: true
 exclude: [
 .git,
 .gitignore,
