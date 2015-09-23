@@ -1,4 +1,4 @@
-header.header(style="background-image: {% if page.header-pic %}url({{ site.img_dir | prepend: base }}/{{ page.header-pic }}){% else %}none{% endif %}")
+header.header(style="background-image: {% if page.header-pic and page.header == true %}url({{ site.img_dir | prepend: base }}/{{ page.header-pic }}){% else %}none{% endif %}")
     .container
         h1(style="{% if page.site-title-display == false %}opacity: 0{% else %}opacity: 1{% endif %}")
             a(href="{{ base }}/", class="homelink") #[img(src="{{ site.img_dir }}/michele-dekker-logo.png", alt="michèle dekker logo")]

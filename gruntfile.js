@@ -20,6 +20,7 @@ module.exports = function(grunt) {
                         'img/featured-imgs/*.{jpg,gif,png}',
                         'img/needs-crops/*.{jpg,gif,png}',
                         'img/portfolio/**/*.{jpg,gif,png}',
+                        'img/content/*.{jpg,gif,png}',
                     ],
                     cwd: '',
                     dest: 'img/crops/450x450/'
@@ -40,6 +41,7 @@ module.exports = function(grunt) {
                         'img/featured-imgs/*.{jpg,gif,png}',
                         'img/needs-crops/*.{jpg,gif,png}',
                         'img/portfolio/**/*.{jpg,gif,png}',
+                        'img/content/*.{jpg,gif,png}',
                     ],
                     cwd: '',
                     dest: 'img/crops/450x253/'

@@ -23,19 +23,8 @@ html(lang="{{page.lang}}")
                         .meta
                             span.date {% include date.html %}
                                 
-                            {% if post.tags %}
-                            &nbsp;&bull;&nbsp; 
-                            {% endif %}
-                                
-                            {% if page.tags %}
-                            span.tags
-                                 i.fa.fa-tags
-                                 {% for tag in page.tags limit:10 offset:0 %}
-                                 a(href="{{ site.tag_dir | prepend: base }}/{{ tag }}") {{ tag }}
-                                 {% endfor %}
-                            {% endif %}
-                        
                         .content {{ content }}
+                            {% include gallery_basic.html %}
 
                         include includes/disqus.html
                         

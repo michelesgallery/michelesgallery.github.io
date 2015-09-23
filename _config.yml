@@ -1,6 +1,7 @@
 full_rebuild: true
 name: Michèle Dekker
 url: http://micheledekker.ch
+description: Der Fotografie Blog von Michèle Dekker
 encoding: utf-8
 markdown: kramdown
 kramdown:
@@ -37,6 +38,7 @@ defaults:
       type: posts
     values:
       layout: post
+      header: true
   -
     scope:
       path: ""

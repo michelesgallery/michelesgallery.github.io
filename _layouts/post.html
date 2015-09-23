@@ -7,10 +7,10 @@
   {% endif %}
   <head>
     <meta charset="UTF-8">
-    <title>{{ site.name }}{% if page.title %} - {{ page.title }} {% endif%}</title>{% if page.description %}
-    <meta name="description" content="{{ page.description }}">{% endif %}
+    <title>{{ site.name }}{% if page.title %} - {{ page.title }} {% endif%}</title>
+    <meta name="description" content="{{ site.description }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="Myriam Frisano">
+    <meta name="author" content="Michèle Dekker">
     <link rel="stylesheet" href="{{ base }}/css/main.css">
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url | append: base }}/feed.xml">
   </head>
@@ -39,7 +39,7 @@
       <!-- .menu end-->
     </nav>
     <!-- nav end-->
-    <header style="background-image: {% if page.header-pic %}url({{ site.img_dir | prepend: base }}/{{ page.header-pic }}){% else %}none{% endif %}" class="header">
+    <header style="background-image: {% if page.header-pic and page.header == true %}url({{ site.img_dir | prepend: base }}/{{ page.header-pic }}){% else %}none{% endif %}" class="header">
       <div class="container">
         <h1 style="{% if page.site-title-display == false %}opacity: 0{% else %}opacity: 1{% endif %}"><a href="{{ base }}/" class="homelink"><img src="{{ site.img_dir }}/michele-dekker-logo.png" alt="michèle dekker logo"></a></h1>
       </div>
@@ -54,12 +54,11 @@
               <h1>{{ page.title }}</h1>{% if page.subtitle %}
               <h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
             </div>
-            <div class="meta"><span class="date">{% include date.html %}</span>{% if post.tags %}
-              &nbsp;&bull;&nbsp; 
-              {% endif %}
-              {% if page.tags %}<span class="tags"><i class="fa fa-tags"></i>{% for tag in page.tags limit:10 offset:0 %}<a href="{{ site.tag_dir | prepend: base }}/{{ tag }}">{{ tag }}</a>{% endfor %}</span>{% endif %}
-            </div>
-            <div class="content">{{ content }}</div><!-- include your disqus code here for comments -->{% assign  document = site.posts | sort: "date" | reversed %}
+            <div class="meta"><span class="date">{% include date.html %}</span></div>
+            <div class="content">
+              {{ content }}
+              {% include gallery_basic.html %}
+            </div><!-- include your disqus code here for comments -->{% assign  document = site.posts | sort: "date" | reversed %}
 {% for links in document %}
     {% if links.title == page.title %}
         {% unless forloop.first %}
