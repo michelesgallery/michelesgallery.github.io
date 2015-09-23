@@ -15,7 +15,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url | append: base }}/feed.xml">
   </head>
   <!-- head end-->
-  <body class="page portfolio has-sidebar post {% if page.bodyclass %}{{ page.bodyclass }}{% endif %} {{ page.lang | prepend: 'lang-' }}">
+  <body class="page portfolio post {% if page.bodyclass %}{{ page.bodyclass }}{% endif %} {{ page.lang | prepend: 'lang-' }}">
     <nav class="open">
       <div class="menu">
         <div class="left"><span class="toggle menu-toggle">Menu</span>
@@ -98,9 +98,7 @@
     </div>
 {% endif %}
           </article>
-          <!-- article end--><div class="sidebar">
-    <span>I am the sidebar</span>
-</div>
+          <!-- article end-->
         </div>
         <!-- .container end-->
       </section>

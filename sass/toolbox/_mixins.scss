@@ -3,14 +3,13 @@
 @mixin generate-slide-keyframes($pics){
     @for $i from 0 to $pics{
         $img-width: (100 / $pics);
-        $dur: (100 / ($pics - 1))-(100 / $pics );
-        $p: (($i * $img-width) + ($i * $dur)) * 1%;
-        $l: ($i * 100 * -1%);
+        $dur: (100% * ($pics - ($pics - 1))) / ($pics * ($pics - 1));
+        $p: (($i * $img-width) + ($i * $dur));
+        $l: ($i * 100% * -1);
         $s: $p + $img-width;
         
-        @if $p <= 100% {
-           #{$p} { left: $l; }
-        }
+        #{$p} { left: $l; }
+        
         @if $s <= 100% {
             #{$s} { left: $l; }
         }

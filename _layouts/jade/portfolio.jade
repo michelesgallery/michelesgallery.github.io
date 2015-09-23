@@ -3,7 +3,7 @@ html(lang="{{page.lang}}")
 
     include includes/head.jade
 
-    body.page.portfolio.has-sidebar.post(class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %} {{ page.lang | prepend: 'lang-' }}")
+    body.page.portfolio.post(class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %} {{ page.lang | prepend: 'lang-' }}")
     
         include includes/nav.jade
         
@@ -32,8 +32,6 @@ html(lang="{{page.lang}}")
                         include includes/post_navigator.html
 
                     // article end
-                    
-                    include includes/sidebar.html
                 // .container end
             // section end
         // .wrapper end

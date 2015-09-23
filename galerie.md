@@ -2,11 +2,11 @@
 title: Galerie
 group: navigation-02
 ---
-<div class="filtering">
+<!-- <div class="filtering">
     <span class="filter" data-filter="all">Alle Anzeigen</span> &bull;
     <span class="filter" data-filter=".fractal">Fractal</span> &bull;
     <span class="filter" data-filter=".floral">Floral</span>
-</div>
+</div> -->
 
 {% if site.baseurl != '' or null %}
     {% assign base = site.baseurl %}

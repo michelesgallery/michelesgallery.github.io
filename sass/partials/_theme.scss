@@ -80,7 +80,7 @@
 .portfolio-wrapper{
     @include flexbox(row, wrap, flex-start, stretch);
     
-    .theme-wrapper{
+    .item-wrapper{
         text-align: center;
         @include rowMachine(3, 30px);
         
