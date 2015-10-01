@@ -27,6 +27,10 @@ gallery:
         alttext: motocross
       - filename: motocross11.jpg
         alttext: motocross
+      - filename: motocross12.jpg
+        alttext: motocross
+      - filename: motocross13.jpg
+        alttext: motocross
 ---
 
 beschreibender Text hier
