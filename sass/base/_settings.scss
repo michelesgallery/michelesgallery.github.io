@@ -45,7 +45,7 @@ $inlcude-WordPress-kit: no;
 
 // color variables (use colors as values)
 //----------------------------------------
-$main-color: $darkpurple;
+$main-color: saturate($darkpurple, 20%);
 $link-color: $mauve;
 $link-hover-color: $darkpurple;
 

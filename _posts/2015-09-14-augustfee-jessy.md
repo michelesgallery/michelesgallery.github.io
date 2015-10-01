@@ -1,7 +1,7 @@
 ---
 date: 2015-09-14 10:38:00
 title: Augustfee Jessy
-header-pic: augustfee10.jpg
+# header-pic: augustfee10.jpg
 # site-title-display: false
 # header: false
 gallery: 

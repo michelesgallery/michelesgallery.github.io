@@ -21,9 +21,9 @@ html(lang="{{page.lang}}")
                         
                         div(class="content {% if page.side-img == true %}has-side-img{%endif%}")
                             {% if page.side-img == true %}
-                            .side-content {{ content }}
                             .side-img
                                 img(src="{{ site.img_dir }}/{{ page.side-img-file }}", alt="{{ page.side-img-file }}")
+                            .side-content {{ content }}
                             {% else %}
                             {{ content }}
                             {% endif %}
@@ -33,6 +33,6 @@ html(lang="{{page.lang}}")
         // .wrapper end
 
         include includes/footer.jade
-
+        
     // body end
 // html end

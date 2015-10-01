@@ -4,10 +4,11 @@ title: Angebot/Preise
 ---
 Was | Dauer | Preis | Anzahl Fotos
 ---|---|---|---
-Portraits Pferd und Mensch | ca. 2 h | 200.- | ca. 50 Bilder
+Portraits Tier und Mensch | ca. 2 h | 200.- | ca. 50 Bilder
 Portraits Mensch/Paar | ca. 1.5 h | 150.- | ca. 35 Bilder
-Portraits Menschengruppe ab 2 P. | ab 2 h | 200.- p.P.| ca. 50 Bilder
+Portraits Menschengruppe ab 2 P. | ab 2 h | 200.- | ca. 50 Bilder
 
+<br>
 Styling von mir:	20.- (30 min)
 Styling von Kosmetikerin:	---.-
 

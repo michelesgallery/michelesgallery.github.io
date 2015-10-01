@@ -54,8 +54,8 @@
             {% if page.subtitle %}
             <h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
             <div class="content {% if page.side-img == true %}has-side-img{%endif%}">{% if page.side-img == true %}
-              <div class="side-content">{{ content }}</div>
-              <div class="side-img"><img src="{{ site.img_dir }}/{{ page.side-img-file }}" alt="{{ page.side-img-file }}"></div>{% else %}
+              <div class="side-img"><img src="{{ site.img_dir }}/{{ page.side-img-file }}" alt="{{ page.side-img-file }}"></div>
+              <div class="side-content">{{ content }}</div>{% else %}
               {{ content }}
               {% endif %}
             </div>

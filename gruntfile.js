@@ -29,9 +29,7 @@ module.exports = function(grunt) {
             thumbs:{
                 options: {
                     sizes: [{
-                        width: 450,
-                        height: 253,
-                        aspectRatio: false,
+                        width: 450
                     }]
                 },
                 files: [{
@@ -44,7 +42,7 @@ module.exports = function(grunt) {
                         'img/content/*.{jpg,gif,png}',
                     ],
                     cwd: '',
-                    dest: 'img/crops/450x253/'
+                    dest: 'img/crops/450/'
                 }]
             }
         },

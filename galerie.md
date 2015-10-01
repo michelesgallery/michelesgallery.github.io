@@ -24,10 +24,10 @@ group: navigation-02
                         {% for image in gallery.images limit: 1%}
                             {% if image.filename contains '.png'%}
                                 {% assign thumb = image.filename | replace: '.png', '' %}
-                                <img src="{{ site.img_dir | prepend: base }}/{{ thumb | append: '-450x450.png' }}" alt="{{ image.alttext }}">
+                                <img src="{{ site.img_dir | prepend: base }}/{{ thumb | append: '-450.png' }}" alt="{{ image.alttext }}">
                             {% elsif image.filename contains '.jpg'%}
                                 {% assign thumb = image.filename | replace: '.jpg', '' %}
-                                <img src="{{ site.img_dir | prepend: base }}/{{ thumb | append: '-450x450.jpg' }}" alt="{{ image.alttext }}">
+                                <img src="{{ site.img_dir | prepend: base }}/{{ thumb | append: '-450.jpg' }}" alt="{{ image.alttext }}">
                             {% endif %}
                         {% endfor %}
                     {% endfor %}

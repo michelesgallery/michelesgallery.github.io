@@ -10,10 +10,10 @@
         <a href="{{ post.url | prepend: base }}">
             {% if post.header-pic contains '.png'%}
                 {% assign featimg = post.header-pic | replace: '.png', '' %}
-                <img src="{{ site.img_dir | prepend: base }}/{{ featimg | append: '-450x450.png' }}" alt="{{ image.alttext }}">
+                <img src="{{ site.img_dir | prepend: base }}/{{ featimg | append: '-450.png' }}" alt="{{ image.alttext }}">
             {% elsif post.header-pic contains '.jpg'%}
                 {% assign featimg = post.header-pic | replace: '.jpg', '' %}
-                <img src="{{ site.img_dir | prepend: base }}/{{ featimg | append: '-450x450.jpg' }}" alt="{{ image.alttext }}">
+                <img src="{{ site.img_dir | prepend: base }}/{{ featimg | append: '-450.jpg' }}" alt="{{ image.alttext }}">
             {% endif %}
         </a>
     </div>

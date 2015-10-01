@@ -1,4 +1,4 @@
-$amount-slider-imgs: 6;
+$amount-slider-imgs: 9;
 
 #slider{
     overflow: hidden;
@@ -45,7 +45,7 @@ $amount-slider-imgs: 6;
 }
 
 @keyframes slidy {
-    @include generate-slide-keyframes($amount-slider-imgs + 1);
+    @include generate-slide-keyframes($amount-slider-imgs);
 }
 
 .index{
@@ -65,9 +65,13 @@ $amount-slider-imgs: 6;
         text-align: right;
         background: $nav-bg;
         img{
-            max-width: 300px;
+            max-width: 400px;
             margin-right: 5%;
             width: 80%;
+            
+            @media screen and (max-width: 400px){
+                max-width: 300px;
+            }
         }
     }
     footer{
