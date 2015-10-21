@@ -51,10 +51,6 @@ gallery:
         alttext: fee
       - filename: fee23.jpg
         alttext: fee
-      - filename: fee24.jpg
-        alttext: fee
-      - filename: fee25.jpg
-        alttext: fee
 ---
 
 beschreibender Text hier

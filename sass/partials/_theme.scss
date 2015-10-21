@@ -78,11 +78,14 @@
 
 
 .portfolio-wrapper{
-    @include flexbox(row, wrap, flex-start, stretch);
+    // @include flexbox(row, wrap, flex-start, stretch);
+    column-count: 3;
+    column-gap: 10px;
     
     .item-wrapper{
         text-align: center;
-        @include rowMachine(3, 30px);
+        // @include rowMachine(3, 30px);
+        width: 100%;
         
         h3, h6{
             font:{

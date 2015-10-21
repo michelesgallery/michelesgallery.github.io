@@ -39,7 +39,7 @@ defaults:
       type: posts
     values:
       layout: post
-      header: true
+      header: false
   -
     scope:
       path: ""

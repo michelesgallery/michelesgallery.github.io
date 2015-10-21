@@ -219,20 +219,24 @@
 }
 
 .masonry{
-    @include flexbox(row, wrap, flex-start, flex-start);
+    // @include flexbox(row, wrap, flex-start, flex-start);
     width: 100%;
     max-width: 1200px;
     margin: 50px auto;
     box-sizing: border-box;
     // background: $darkgray;
     padding: 15px;
+    column-count: 3;
+    column-gap: 7px;
     
     a{
-        width: calc((100% / 3) - 20px );
+        // width: calc((100% / 3) - 20px );
+        width: 100%;
         padding: 0;
-        margin: 10px;
+        // margin: 10px;
         line-height: 0;
         font-size: 0;
+        box-sizing: border-box;
 
         img{
             width: 100%;
