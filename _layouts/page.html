@@ -19,20 +19,29 @@
     <nav class="open">
       <div class="menu">
         <div class="left"><span class="toggle menu-toggle">Menu</span>
-          <div class="responsive"><span class="toggle"><i class="fa fa-close"></i></span><a href="{{ base }}/" class="homelink {% if page.title == 'Home' %}active{% endif %}"><span>Home</span></a>{% assign pages_list = site.pages | sort:"group" %}
+          <ul class="responsive">
+            <li><span class="toggle"><i class="fa fa-close"></i></span></li>
+            <li>       <a href="{{ base }}/" class="homelink {% if page.title == 'Home' %}active{% endif %}"><span>Home</span></a></li>{% assign pages_list = site.pages | sort:"group" %}
             {% assign group = 'navigation' %}{% for item in pages_list %}
-  {% if group == null or item.group contains group %}
-    {% if page.url == item.url %}
-      <a href="{{item.url  | remove: '/index.html' | prepend: base }}" class="active">{{item.title}}</a>
-    {% else %}
-      <a href="{{item.url  | remove: '/index.html' | prepend: base }}">{{item.title}}</a>
+    {% if group == null or item.group contains group %}
+        <li>
+            <a href="{% if item.is-parent %}#{% else %}{{item.url  | remove: '/index.html' | prepend: base }}{% endif %}" {% if page.url == item.url  or item.is-parent %}class="{% if page.url == item.url %}active{% endif %} {% if item.is-parent %}is-parent{% endif %}"{% endif %} {% if item.is-parent %}id="{{ item.page-id }}"{% endif %}>{{item.title}}</a>
+                {% if item.is-parent %}
+                    <ul class="children">
+                        {% assign level-2 = site.portfolio | where: "parent-id", item.page-id | sort: "number" %}
+                        {% for child in level-2 %}
+                            <li class="child">
+                                <a href="{{child.url  | remove: '/index.html' | prepend: base }}">{{ child.title }}</a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}  
+        </li>
     {% endif %}
-  {% endif %}
 {% endfor %}
 {% assign pages_list = nil %}
 {% assign group = nil %}
-
-          </div>
+          </ul>
           <!-- .responsive end-->
         </div>
       </div>

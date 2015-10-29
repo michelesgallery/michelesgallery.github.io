@@ -3,11 +3,13 @@ nav.open
         .left
             span.toggle.menu-toggle
                 | Menu
-            .responsive
-                span.toggle
-                    i.fa.fa-close
-                a(href="{{ base }}/", class="homelink {% if page.title == 'Home' %}active{% endif %}")
-                    span Home
+            ul.responsive
+                li
+                    span.toggle
+                        i.fa.fa-close
+                li        
+                    a(href="{{ base }}/", class="homelink {% if page.title == 'Home' %}active{% endif %}")
+                        span Home
                 {% assign pages_list = site.pages | sort:"group" %}
                 {% assign group = 'navigation' %}
                 include menu_content.html

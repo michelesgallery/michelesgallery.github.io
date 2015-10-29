@@ -1,6 +1,8 @@
 ---
 title: Galerie
 group: navigation-02
+page-id: galerie
+is-parent: true
 ---
 <!-- <div class="filtering">
     <span class="filter" data-filter="all">Alle Anzeigen</span> &bull;

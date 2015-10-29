@@ -1,4 +1,6 @@
 ---
+parent-id: galerie
+number: 2
 title: Portraits
 subtitle: Modeportraits
 category: [portrait, mensch]

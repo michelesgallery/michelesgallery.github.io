@@ -1,4 +1,6 @@
 ---
+parent-id: galerie
+number: 1
 title: Fantasy
 subtitle: Das Feen Projekt
 category: [fee, mensch, fantasy]
