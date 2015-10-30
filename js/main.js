@@ -6,6 +6,10 @@ $(document).ready(function () {
     // open external links in new window
     $("a[href^='http']").attr("target", "_blank");
 
+    $('.is-parent').click( function(){
+        $(this).next('.children').slideToggle();
+    });
+    
     $(window).resize(function () {
         // Variables
         var didScroll,
