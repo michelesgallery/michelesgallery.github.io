@@ -190,8 +190,7 @@ module.exports = function(grunt) {
 
         open : {
             build: {
-                path: 'http://localhost:4000/',
-                app: 'Firefox'
+                path: 'http://localhost:4000/'
             }
         },
 
@@ -262,6 +261,7 @@ module.exports = function(grunt) {
     grunt.registerTask("default", ["responsive_images", "newer:imagemin", "uglify", "sass", "postcss", "jade", "shell:jekyllBuild", "copy", "open", "watch"]);
     grunt.registerTask("serve", ["shell:jekyllServe"]);
     grunt.registerTask("build", ["responsive_images", "newer:imagemin", "uglify", "sass", "postcss", "jade", "shell:jekyllBuild", "copy"]);
+    grunt.registerTask("blogpost", ["responsive_images", "newer:imagemin", "shell:jekyllBuild", "open", "watch"]);
     grunt.registerTask("deploy", ["minifyHtml", "buildcontrol:pages"]);
     grunt.registerTask("deploy-pretty", ["prettify", "buildcontrol:pages"]);
 };
