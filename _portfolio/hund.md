@@ -5,7 +5,7 @@ title: Hunde
 subtitle: der beste Freund des Menschen
 category: [hund, mensch, tier]
 # header-pic: hund3.jpg
-gallery: 
+gallery:
     - images:
       - filename: hund1.jpg
         alttext: hund
@@ -20,5 +20,4 @@ gallery:
       - filename: hund6.jpg
         alttext: hund
 ---
-
-beschreibender Text hier
+<!-- beschreibender Text hier -->

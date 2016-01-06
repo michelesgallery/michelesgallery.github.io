@@ -4,19 +4,18 @@ title: Angebot/Preise
 ---
 Was | Dauer | Preis | Anzahl Fotos
 ---|---|---|---
-Portraits Tier und Mensch | ca. 2 h | 200.- | ca. 50 Bilder
-Portraits Mensch/Paar | ca. 1.5 h | 150.- | ca. 35 Bilder
-Portraits Menschengruppe ab 2 P. | ab 2 h | 200.- | ca. 50 Bilder
+Portraits 1 Tier und 1 Person | ca. 1.5 h | 160.- | ca. 50 Bilder
+Portraits 2-3 Tiere & 1 Person | ca. 2 h | 190.- | ca. 70 Bilder
+Portraits 1-2 Personen | ca. 1.5 h | 160.- | ca. 50 Bilder
+Portraits Personengruppe | ca. 2 h | 190.- | ca. 70 Bilder
 
 <br>
-Styling von mir:	20.- (30 min)
-Styling von Kosmetikerin:	---.-
+Styling: auf Anfrage
 
-Zzgl. Anfahrtskosten: -.80 pro km
+Zzgl. Fahrtkosten von -.80/km ab 5 km
 
-1 CD mit Fotos in hochauflösender Qualität ohne Signatur
-Nachbearbeitung der Bilder inbegriffen (ca 2-3 h)
-Die ca 5 besten Fotos mit Photoshop Retusche (für jedes weitere 10.- pro Bild)
+Fotos auf einem Stick in hochauflösender Qualität ohne Signatur der Fotografin.
+Nachbearbeitung der Bilder ist im Preis inbegriffen (2-4 h).
+Die ca. 5 besten Fotos mit Photoshop Retusche (für jedes weitere 10.- pro Bild).
 
-Für jede weitere halbe Stunde: 50.-
-Besondere Wünsche: unverbindlich anfragen
+Für besondere Wünsche können Sie mich unverbindlich anfragen.

@@ -5,7 +5,7 @@ title: Portraits
 subtitle: Modeportraits
 category: [portrait, mensch]
 # header-pic: portrait12.jpg
-gallery: 
+gallery:
     - images:
       - filename: portrait1.jpg
         alttext: portrait
@@ -56,5 +56,4 @@ gallery:
       - filename: portrait24.jpg
         alttext: portrait
 ---
-
-beschreibender Text hier
+<!-- beschreibender Text hier -->

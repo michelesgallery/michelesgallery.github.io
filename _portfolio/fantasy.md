@@ -5,7 +5,7 @@ title: Fantasy
 subtitle: Das Feen Projekt
 category: [fee, mensch, fantasy]
 # header-pic: fee3.jpg
-gallery: 
+gallery:
     - images:
       - filename: fee1.jpg
         alttext: fee
@@ -54,5 +54,4 @@ gallery:
       - filename: fee23.jpg
         alttext: fee
 ---
-
-beschreibender Text hier
+<!-- beschreibender Text hier -->

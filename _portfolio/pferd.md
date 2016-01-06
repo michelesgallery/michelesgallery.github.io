@@ -5,7 +5,7 @@ title: Pferde
 subtitle: majestätische Vierbeiner
 category: [pferd, mensch, tier]
 # header-pic: pferd12.jpg
-gallery: 
+gallery:
     - images:
       - filename: pferd1.jpg
         alttext: pferd
@@ -44,5 +44,4 @@ gallery:
       - filename: pferd18.jpg
         alttext: pferd
 ---
-
-beschreibender Text hier
+<!-- beschreibender Text hier -->
