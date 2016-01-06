@@ -1,6 +1,6 @@
 .toggle {
     margin-right: 20px;
-    
+
     &:hover{
         opacity: .8;
         cursor: pointer;
@@ -37,7 +37,7 @@ nav{
         &:hover{
             color: $nav-color-hover;
         }
-        
+
         &.active{
             color: $nav-color-hover;
             border-bottom: 2px solid currentColor;
@@ -72,6 +72,7 @@ nav{
     }
 
     .responsive{
+        box-sizing: border-box;
         @media screen and (min-width: $nav-toggle + 1){
             .toggle{
                 display: none;
@@ -85,14 +86,14 @@ nav{
         li{
             position: relative;
         }
-        
+
         .children{
             width: 100%;
             margin: 0;
             padding: 0;
             background: $nav-color-hover;
             display: none;
-            
+
             @media screen and (min-width: $nav-toggle + 1){
                 position: absolute;
                 top: calc(100% + 7px);
@@ -100,20 +101,20 @@ nav{
                 width: auto;
                 text-align: left;
             }
-            
+
             .child{
                 display: block;
-                
+
                 a{
                     color: white;
-                    
+
                     &:hover{
                         color: rgba(white, .7);
                     }
                 }
             }
         }
-        
+
         @media screen and (max-width: $nav-toggle){
             @include flexbox(column, nowrap, flex-start, center);
             position: fixed;
@@ -168,7 +169,7 @@ nav{
                 content: 'ᐅ ';
             }
         }
-    }    
+    }
 }
 
 .lang-en {
@@ -178,5 +179,5 @@ nav{
                 content: 'ᐅ ';
             }
         }
-    }    
+    }
 }
