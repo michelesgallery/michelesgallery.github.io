@@ -7,13 +7,13 @@
 <div class="masonry">
     {% for gallery in page.gallery %}
         {% for image in gallery.images %}
-            <a href="{{ site.img_dir | prepend: base }}/{{ image.filename }}" data-imagelightbox="f" class="noline">
+            <a href="{{ site.img_dir | prepend: base }}/{{ page.folder | append: '/' }}{{ image.filename }}" data-imagelightbox="f" class="noline">
                 {% if image.filename contains '.png'%}
                     {% assign thumb = image.filename | replace: '.png', '' %}
-                    <img src="{{ site.img_dir | prepend: base }}/{{ thumb | append: '-450.png' }}" alt="{{ image.alttext }}">
+                    <img src="{{ site.img_dir | prepend: base }}/{{ page.folder | append: '/' }}{{ thumb | append: '-450.png' }}" alt="{{ image.alttext }}">
                 {% elsif image.filename contains '.jpg'%}
                     {% assign thumb = image.filename | replace: '.jpg', '' %}
-                    <img src="{{ site.img_dir | prepend: base }}/{{ thumb | append: '-450.jpg' }}" alt="{{ image.alttext }}">
+                    <img src="{{ site.img_dir | prepend: base }}/{{ page.folder | append: '/' }}{{ thumb | append: '-450.jpg' }}" alt="{{ image.alttext }}">
                 {% endif %}
             </a>
         {% endfor %}
