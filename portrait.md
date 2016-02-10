@@ -5,7 +5,7 @@ description: Ein paar Worte über mich.
 side-img: true
 side-img-file: michele-dekker.jpg
 ---
-Ich heisste Michèle Dekker.
+Ich heisse Michèle Dekker.
 
 Fotografieren ist meine grosse Leidenschaft.
 Fotografie bedeutet für mich Kunst, Inspiration Und Motivation in Einem. Fotos übermitteln mehr als nur Bilder – sie lassen Gefühle und Träume entstehen. Sie vermögen uns in eine Wunderwelt zu entführen.

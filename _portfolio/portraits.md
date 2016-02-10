@@ -5,6 +5,7 @@ title: Portraits
 subtitle: Modeportraits
 category: [portrait, mensch]
 # header-pic: portrait12.jpg
+folder: galerie-portraits
 gallery:
     - images:
       - filename: portrait1.jpg

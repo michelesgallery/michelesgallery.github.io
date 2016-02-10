@@ -1,4 +1,5 @@
 ---
+folder: blog-rina-sina-foxy
 date: 2015-09-10 10:38:00
 title: Rina und Sina und Foxy im Zauberlicht
 header-pic: rinasinafoxy10.jpg

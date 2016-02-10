@@ -5,6 +5,7 @@ title: Motocross
 subtitle: Action auf zwei Rädern
 category: [motocross, mensch, sport]
 # header-pic: motocross11.jpg
+folder: galerie-motocross
 gallery:
     - images:
       - filename: motocross1.jpg
