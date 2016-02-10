@@ -1,4 +1,4 @@
-full_rebuild: true
+# full_rebuild: true
 name: Michèle Dekker
 url: http://micheledekker.ch
 description: Der Fotografie Blog von Michèle Dekker
@@ -11,12 +11,13 @@ kramdown:
   # Guillemets version smart_quotes: ["laquo", "rsquo", "raquo", "laquo"]
 relative_permalinks: false
 destination: jekyllbuild
+keep_files: [css/main.css, js/build/main.min.js]
 gems: [jekyll-paginate]
 excerpt_separator: "<!-- more -->"
-paginate: 10
-paginate_path: /blog/page/:num/
-paginate_per_category: true
-permalink: /:categories/:title/
+# paginate: 10
+# paginate_path: /blog/page/:num/
+# paginate_per_category: true
+permalink: /:title/
 tag_dir: /tag
 img_dir: /media/compressed
 collections:
@@ -55,5 +56,6 @@ sass,
 package.json,
 gruntfile.js,
 node_modules,
-jekyllbuild
+css,
+js
 ]

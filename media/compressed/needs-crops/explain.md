@@ -1,0 +1,1 @@
+copy files you want to have crops in here, delete after cropping is done
