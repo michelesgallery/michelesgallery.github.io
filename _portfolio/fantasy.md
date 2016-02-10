@@ -34,8 +34,6 @@ gallery:
         alttext: fee
       - filename: fee13.jpg
         alttext: fee
-      - filename: fee14.jpg
-        alttext: fee
       - filename: fee15.jpg
         alttext: fee
       - filename: fee16.jpg
