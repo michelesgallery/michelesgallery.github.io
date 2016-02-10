@@ -17,7 +17,7 @@ module.exports = function(grunt) {
                     expand: true,
                     flatten: true,
                     src: [
-                        'media/needs-crops/*.{jpg,gif,png}'
+                        'media/compressed/needs-crops/*.{jpg,gif,png}'
                     ],
                     cwd: '',
                     dest: 'media/compressed/'
@@ -33,7 +33,7 @@ module.exports = function(grunt) {
                     expand: true,
                     flatten: true,
                     src: [
-                        'media/needs-crops/*.{jpg,gif,png}'
+                        'media/compressed/needs-crops/*.{jpg,gif,png}'
                     ],
                     cwd: '',
                     dest: 'media/compressed/'
@@ -180,7 +180,7 @@ module.exports = function(grunt) {
                 tasks: ["sass", "postcss"]
             },
             img: {
-                files: ["media/needs-crops/*.{jpg,gif,png}"],
+                files: ["media/compressed/needs-crops/*.{jpg,gif,png}"],
                 tasks: ["responsive_images"]
             },
             site: {
