@@ -4,6 +4,7 @@ title: Augustfee Jessy
 header-pic: augustfee10.jpg
 # header: true
 # site-title-display: false
+folder: blog-augustfee-jessy
 gallery: 
     - images:
       - filename: augustfee1.jpg

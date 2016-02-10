@@ -3,6 +3,7 @@ title: Ploy und Maurice
 header-pic: PM10.jpg
 # header: true
 # site-title-display: false
+folder: blog-ploy-und-maurice
 gallery: 
     - images:
       - filename: PM1.jpg
