@@ -4,10 +4,10 @@ title: Angebot/Preise
 ---
 Was | Dauer | Preis | Anzahl Fotos
 ---|---|---|---
-Portraits 1 Tier und 1 Person | ca. 1.5 h | 160.- | ca. 50 Bilder
-Portraits 2-3 Tiere & 1 Person | ca. 2 h | 190.- | ca. 70 Bilder
-Portraits 1-2 Personen | ca. 1.5 h | 160.- | ca. 50 Bilder
-Portraits Personengruppe | ca. 2 h | 190.- | ca. 70 Bilder
+Portraits 1 Tier und 1 Person | ca. 1.5 h | 160.- | ca. 25 Bilder
+Portraits 2-3 Tiere & 1 Person | ca. 2 h | 190.- | ca. 40 Bilder
+Portraits 1-2 Personen | ca. 1.5 h | 160.- | ca. 25 Bilder
+Portraits Personengruppe | ca. 2 h | 190.- | ca. 40 Bilder
 
 <br>
 Styling: auf Anfrage
