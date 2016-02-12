@@ -55,6 +55,19 @@ gallery:
       - filename: portrait23.jpg
         alttext: portrait
       - filename: portrait24.jpg
+        alttext: portrait      
+      - filename: portrait25.jpg
         alttext: portrait
+      - filename: portrait26.jpg
+        alttext: portrait      
+      - filename: portrait27.jpg
+        alttext: portrait
+      - filename: portrait28.jpg
+        alttext: portrait
+      - filename: portrait29.jpg
+        alttext: portrait
+      - filename: portrait30.jpg
+        alttext: portrait
+        
 ---
 <!-- beschreibender Text hier -->
