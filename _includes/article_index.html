@@ -8,13 +8,7 @@
     {% if post.header-pic %}
     <div class="feat-img">
         <a href="{{ post.url | prepend: base }}">
-            {% if post.header-pic contains '.png'%}
-                {% assign featimg = post.header-pic | replace: '.png', '' %}
-                <img src="{{ site.img_dir | prepend: base }}/{{ post.folder | append: '/' }}{{ featimg | append: '-450.png' }}" alt="{{ image.alttext }}">
-            {% elsif post.header-pic contains '.jpg'%}
-                {% assign featimg = post.header-pic | replace: '.jpg', '' %}
-                <img src="{{ site.img_dir | prepend: base }}/{{ post.folder | append: '/' }}{{ featimg | append: '-450.jpg' }}" alt="{{ image.alttext }}">
-            {% endif %}
+            <img src="{{ site.img_dir | prepend: base }}/crops/{{ post.header-pic }}" alt="{{ image.alttext }}">
         </a>
     </div>
     {% endif %}
@@ -28,7 +22,7 @@
         </h2>
         {% endif %}
         <p class="meta">
-            <span class="date">{% include date.html %}</span> 
+            <span class="date">{% include date.html %}</span>
         </p>
         {% if post.content contains site.excerpt_separator %}
             {{ post.excerpt | markdownify }}

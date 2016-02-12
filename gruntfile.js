@@ -5,38 +5,17 @@ module.exports = function(grunt) {
         pkg: grunt.file.readJSON('package.json'),
 
         responsive_images: {
-            square:{
+            thumbs: {
                 options: {
                     sizes: [{
                         width: 450,
-                        height: 450,
-                        aspectRatio: false,
                     }]
                 },
                 files: [{
                     expand: true,
-                    flatten: true,
-                    src: [
-                        'media/compressed/needs-crops/*.{jpg,gif,png}'
-                    ],
-                    cwd: '',
-                    dest: 'media/compressed/'
-                }]
-            },
-            thumbs:{
-                options: {
-                    sizes: [{
-                        width: 450
-                    }]
-                },
-                files: [{
-                    expand: true,
-                    flatten: true,
-                    src: [
-                        'media/compressed/needs-crops/*.{jpg,gif,png}'
-                    ],
-                    cwd: '',
-                    dest: 'media/compressed/'
+                    src: ['**/*.{jpg,gif,png}'],
+                    cwd: 'media/compressed/',
+                    custom_dest: 'media/compressed/crops/'
                 }]
             }
         },
@@ -180,7 +159,7 @@ module.exports = function(grunt) {
                 tasks: ["sass", "postcss"]
             },
             img: {
-                files: ["media/compressed/needs-crops/*.{jpg,gif,png}"],
+                files: ["media/compressed/{,*/}*.{jpg,gif,png}"],
                 tasks: ["responsive_images", "shell:jekyllBuild"]
             },
             site: {
@@ -189,7 +168,6 @@ module.exports = function(grunt) {
             },
         }
     });
-
 
     require('load-grunt-tasks')(grunt);
 
