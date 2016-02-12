@@ -7,9 +7,14 @@ side-img-file: michele-dekker.jpg
 ---
 Ich heisse Michèle Dekker.
 
-Fotografieren ist meine grosse Leidenschaft.
-Fotografie bedeutet für mich Kunst, Inspiration Und Motivation in Einem. Fotos übermitteln mehr als nur Bilder – sie lassen Gefühle und Träume entstehen. Sie vermögen uns in eine Wunderwelt zu entführen.
+Fotografieren ist meine grosse Leidenschaft. 
+Fotografie bedeutet für mich Kunst, Inspiration und Motivation in Einem. 
+Fotos übermitteln mehr als nur Bilder. Sie lassen Gefühle und Träume 
+entstehen und entführen uns in eine Wunderwelt.
 
-Pferde – eine weitere Leidenschaft. Das Gefühl der Freiheit auf ihrem Rücken fasziniert mich gleichermassen, wie ihre majestätische Ausstrahlung, die sie auf den Bildern zum Ausdruck bringen.
+Pferde – eine weitere Leidenschaft von mir. 
+Auf dem Rücken eines Pferdes zu sitzen, lässt ein Gefühl der Freiheit entstehen. Das fasziniert mich gleichermassen, wie ihre majestätische Ausstrahlung, die sie auch auf den Bildern zum Ausdruck bringen.
 
-Neben dem Fotografieren studiere ich zur Zeit Rechtswissenschaften an der Universität Luzern.
+Neben dem Fotografieren studiere ich zur Zeit Rechtswissenschaften 
+an der Universität Luzern.
+
