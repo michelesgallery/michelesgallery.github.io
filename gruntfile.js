@@ -181,7 +181,7 @@ module.exports = function(grunt) {
             },
             img: {
                 files: ["media/compressed/needs-crops/*.{jpg,gif,png}"],
-                tasks: ["responsive_images"]
+                tasks: ["responsive_images", "shell:jekyllBuild"]
             },
             site: {
                 files: ["{,*/}{,*/}{,*/}*.html", "{,*/}{,*/}{,*/}*.md", "{,*/}*.yml", "!jekyllbuild/**"],
