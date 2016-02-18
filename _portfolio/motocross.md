@@ -41,6 +41,6 @@ gallery:
       - filename: motocross16.jpg
         alttext: motocross
       - filename: motocross17.jpg
-        alttext: motocross
+        alttext: motocros
 ---
 <!-- beschreibender Text hier -->
