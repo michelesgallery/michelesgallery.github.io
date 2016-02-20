@@ -54,9 +54,5 @@ gallery:
         alttext: hochzeit
       - filename: hochzeit23.jpg
         alttext: hochzeit
-      - filename: hochzeit24.jpg
-        alttext: hochzeit
-      - filename: hochzeit25.jpg
-        alttext: hochzeit
 ---
 <!-- beschreibender Text hier -->
