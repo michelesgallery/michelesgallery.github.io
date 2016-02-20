@@ -77,6 +77,5 @@ gallery:
       - filename: portrait34.jpg
         alttext: portrait
         lttext: portrait
-    
 ---
 <!-- beschreibender Text hier -->
