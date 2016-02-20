@@ -1,14 +1,14 @@
 ---
 parent-id: galerie
 number: 6
-title: Fantasy
+title: Hochzeit
 subtitle: Der schönste Tag im Leben
 category: [hochzeit, mensch, reportage]
 # header-pic: hochzeit21.jpg
 folder: galerie-hochzeit
 gallery:
     - images:
-      - filename: hochzeit.jpg
+      - filename: hochzeit1.jpg
         alttext: hochzeit
       - filename: hochzeit2.jpg
         alttext: hochzeit
@@ -33,6 +33,8 @@ gallery:
       - filename: hochzeit12.jpg
         alttext: hochzeit
       - filename: hochzeit13.jpg
+        alttext: hochzeit
+      - filename: hochzeit14.jpg
         alttext: hochzeit
       - filename: hochzeit15.jpg
         alttext: hochzeit
