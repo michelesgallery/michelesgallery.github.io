@@ -1,24 +1,39 @@
 ---
-title: Alessio
-header-pic: ale7a.jpg
+title: Ploy und Maurice
+header-pic: PM10.jpg
 # header: true
 # site-title-display: false
-folder: blog-ale
+folder: blog-ploy-und-maurice
 gallery: 
     - images:
-      - filename: ale1a.jpg
-        alttext: ale
-      - filename: ale2a.jpg
-        alttext: ale
-      - filename: ale3a.jpg
-        alttext: ale
-      - filename: ale4a.jpg
-        alttext: ale
-      - filename: ale5a.jpg
-        alttext: ale
-      - filename: ale6a.jpg
-        alttext: ale
-      - filename: ale7a.jpg
-        alttext: ale
+      - filename: PM1.jpg
+        alttext: PM
+      - filename: PM2.jpg
+        alttext: PM
+      - filename: PM3.jpg
+        alttext: PM
+      - filename: PM4.jpg
+        alttext: PM
+      - filename: PM5.jpg
+        alttext: PM
+      - filename: PM6.jpg
+        alttext: PM
+      - filename: PM7.jpg
+        alttext: PM
+      - filename: PM8.jpg
+        alttext: PM
+      - filename: PM9.jpg
+        alttext: PM
+      - filename: PM10.jpg
+        alttext: PM
+      - filename: PM11.jpg
+        alttext: PM
+      - filename: PM12.jpg
+        alttext: PM
+      - filename: PM13.jpg
+        alttext: PM
+      - filename: PM14.jpg
+        alttext: PM
 ---
-Endlich hatte ich wiedereinmal einen Mann vor meiner Kamera. Da ich in naher Zukunft gerne meine Fotografiebereiche auf "Homeshootings" und "Streetstyle" ausbauen möchte, war das mein erster richtiger Versuch. 
+Ploy und Maurice
+&lt;3
