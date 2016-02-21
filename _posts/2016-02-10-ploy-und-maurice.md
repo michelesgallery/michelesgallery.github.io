@@ -3,7 +3,7 @@ title: Alessio
 header-pic: ale7a.jpg
 # header: true
 # site-title-display: false
-folder: blog-100221-ale
+folder: blog-ale
 gallery: 
     - images:
       - filename: ale1a.jpg
