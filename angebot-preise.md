@@ -19,3 +19,4 @@ Nachbearbeitung der Bilder ist im Preis inbegriffen (2-4 h).
 Die ca. 5 besten Fotos mit Photoshop Retusche (für jedes weitere 10.- pro Bild).
 
 Für besondere Wünsche können Sie mich unverbindlich anfragen.
+Die Preisliste für Hochzeitsreportagen sende ich Ihnen auf Wunsch gerne zu.
