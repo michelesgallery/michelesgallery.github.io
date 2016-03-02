@@ -20,17 +20,11 @@ gallery:
         alttext: fee
       - filename: fee6.jpg
         alttext: fee
-      - filename: fee7.jpg
-        alttext: fee
-      - filename: fee8.jpg
-        alttext: fee
       - filename: fee9.jpg
         alttext: fee
       - filename: fee10.jpg
         alttext: fee
       - filename: fee11.jpg
-        alttext: fee
-      - filename: fee12.jpg
         alttext: fee
       - filename: fee13.jpg
         alttext: fee
