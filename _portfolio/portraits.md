@@ -76,6 +76,5 @@ gallery:
         alttext: portrait
       - filename: portrait32.jpg
         alttext: portrait
-        lttext: portrait
 ---
 <!-- beschreibender Text hier -->
