@@ -10,9 +10,9 @@ Portraits 1-2 Personen | ca. 1.5 h | 160.- | ca. 25 Bilder
 Portraits Personengruppe | ca. 2 h | 190.- | ca. 40 Bilder
 
 <br>
-Styling: auf Anfrage
-
 Zzgl. Fahrtkosten von -.80/km 
+
+Styling: auf Anfrage
 
 Fotos auf einem Stick in hochauflösender Qualität ohne Signatur der Fotografin.
 Nachbearbeitung der Bilder ist im Preis inbegriffen (2-4 h).
