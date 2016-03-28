@@ -2,7 +2,7 @@
 parent-id: galerie
 number: 1
 title: Fantasy
-subtitle: Das Feen Projekt
+subtitle: Das "Feen Projekt" war ein Projekt, vom Jahr 2015. Anfangs 2015 begann ich Shootings zu machen und wollte anhand schön/speziell geschminkter Modellen mit jeweils einem Thema, das mittels Kleidung und Kopfschmuck umgesetzt wurde, verschiedene Lichtverhältnisse und Locationsituationen üben. 
 category: [fee, mensch, fantasy]
 # header-pic: fee4.jpg
 folder: galerie-fee
