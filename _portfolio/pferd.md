@@ -10,25 +10,11 @@ gallery:
     - images:
       - filename: pferd1.jpg
         alttext: pferd
-      - filename: pferd2.jpg
-        alttext: pferd
-      - filename: pferd3.jpg
-        alttext: pferd
-      - filename: pferd4.jpg
-        alttext: pferd
       - filename: pferd5.jpg
-        alttext: pferd
-      - filename: pferd6.jpg
-        alttext: pferd
-      - filename: pferd7.jpg
         alttext: pferd
       - filename: pferd8.jpg
         alttext: pferd
-      - filename: pferd9.jpg
-        alttext: pferd
       - filename: pferd10.jpg
-        alttext: pferd
-      - filename: pferd11.jpg
         alttext: pferd
       - filename: pferd12.jpg
         alttext: pferd
