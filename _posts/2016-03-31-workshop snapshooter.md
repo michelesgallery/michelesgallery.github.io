@@ -6,7 +6,7 @@ header-pic: franzi1.jpg
 folder: blog-workshop-snapshooter-franzi
 gallery: 
     - images:
-      - filename: franzi.jpg
+      - filename: franzi1.jpg
         alttext: franzi
       - filename: franzi2.jpg
         alttext: franzi
