@@ -2,8 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://micheledekker.ch/workshop%20snapshooter/</loc>
+    
+    
+      <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/workshop%20snapshooter/" />
+    
+      <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/alexandra-bauchtanz/" />
+    
+      <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/ale/" />
+    
+      <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/hochzeit-1/" />
+    
+      <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/ploy-und-maurice/" />
+    
+      <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/augustfee-jessy/" />
+    
+      <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/rina-und-sina-und-foxy-im-zauberlicht/" />
+    
+    <lastmod>2016-03-31T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
     <loc>http://micheledekker.ch/alexandra-bauchtanz/</loc>
     
+    
+      <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/workshop%20snapshooter/" />
     
       <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/alexandra-bauchtanz/" />
     
@@ -25,6 +49,8 @@
     <loc>http://micheledekker.ch/ale/</loc>
     
     
+      <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/workshop%20snapshooter/" />
+    
       <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/alexandra-bauchtanz/" />
     
       <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/ale/" />
@@ -44,6 +70,8 @@
   <url>
     <loc>http://micheledekker.ch/hochzeit-1/</loc>
     
+    
+      <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/workshop%20snapshooter/" />
     
       <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/alexandra-bauchtanz/" />
     
@@ -65,6 +93,8 @@
     <loc>http://micheledekker.ch/ploy-und-maurice/</loc>
     
     
+      <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/workshop%20snapshooter/" />
+    
       <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/alexandra-bauchtanz/" />
     
       <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/ale/" />
@@ -85,6 +115,8 @@
     <loc>http://micheledekker.ch/augustfee-jessy/</loc>
     
     
+      <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/workshop%20snapshooter/" />
+    
       <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/alexandra-bauchtanz/" />
     
       <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/ale/" />
@@ -104,6 +136,8 @@
   <url>
     <loc>http://micheledekker.ch/rina-und-sina-und-foxy-im-zauberlicht/</loc>
     
+    
+      <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/workshop%20snapshooter/" />
     
       <xhtml:link rel="alternate" hreflang="" href="http://micheledekker.ch/alexandra-bauchtanz/" />
     
