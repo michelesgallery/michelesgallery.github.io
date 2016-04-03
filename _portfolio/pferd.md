@@ -4,7 +4,7 @@ number: 3
 title: Pferde
 subtitle: majestätische Vierbeiner
 category: [pferd, mensch, tier]
-# header-pic: pferd1.jpg
+# header-pic: pferd2.jpg
 folder: galerie-pferd
 gallery:
     - images:
