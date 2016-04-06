@@ -1,6 +1,6 @@
 ---
 parent-id: galerie
-number: 6
+number: 4
 title: Hochzeit
 subtitle: Der schönste Tag im Leben
 category: [hochzeit, mensch, reportage]
