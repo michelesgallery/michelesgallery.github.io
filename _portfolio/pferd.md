@@ -1,6 +1,6 @@
 ---
 parent-id: galerie
-number: 3
+number: 1s
 title: Pferde
 subtitle: majestätische Vierbeiner
 category: [pferd, mensch, tier]
