@@ -1,6 +1,6 @@
 ---
 parent-id: galerie
-number: 5
+number: 2
 title: Hunde
 subtitle: der beste Freund des Menschen
 category: [hund, mensch, tier]
