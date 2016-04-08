@@ -20,4 +20,4 @@ Für besondere Wünsche können Sie mich unverbindlich anfragen.
 
 Die Preisliste für Hochzeitsreportagen sende ich Ihnen auf Wunsch gerne zu.
 
-Immer ein schönes Geschenkt ist es, Erinnerungen zu verschenken. Kontaktieren Sie mich für einen Geschenkgutschein für bestimmten Betrag oder ein spezifisches Shooting.
+Immer ein schönes Geschenkt ist es, Erinnerungen zu verschenken. Kontaktieren Sie mich für einen Geschenkgutschein für einen bestimmten Betrag oder ein spezifisches Shooting.
