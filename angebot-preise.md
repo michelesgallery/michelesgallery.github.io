@@ -5,7 +5,7 @@ title: Angebot/Preise
 Was | Dauer | Preis | Anzahl Fotos
 ---|---|---|---
 Pferd/Hund mit Zweibeiner | ca. 1.5 h | 160.- | 15 Bilder
-Portraits | ca. 1.5 h | 160.- | 15 Bilder
+Sinnliche Portraits | ca. 1.5 h | 160.- | 15 Bilder
 
 <br>
 Zzgl. Fahrtkosten von -.80/km 
