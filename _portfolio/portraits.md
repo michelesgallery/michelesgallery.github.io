@@ -2,9 +2,9 @@
 parent-id: galerie
 number: 3
 title: Portraits
-subtitle: Modeportraits
+subtitle: Sinnliche Portraits
 category: [portrait, mensch]
-# header-pic: portrait12.jpg
+# header-pic: portrait2.jpg
 folder: galerie-portraits
 gallery:
     - images:
@@ -66,7 +66,5 @@ gallery:
         alttext: portrait
       - filename: portrait29.jpg
         alttext: portrait
-    
-    
 ---
 <!-- beschreibender Text hier -->
