@@ -66,15 +66,5 @@ gallery:
         alttext: portrait
       - filename: portrait29.jpg
         alttext: portrait
-      - filename: portrait30.jpg
-        alttext: portrait
-      - filename: portrait31.jpg
-        alttext: portrait
-      - filename: portrait32.jpg
-        alttext: portrait
-      - filename: portrait31.jpg
-        alttext: portrait
-      - filename: portrait32.jpg
-        alttext: portrait
 ---
 <!-- beschreibender Text hier -->
