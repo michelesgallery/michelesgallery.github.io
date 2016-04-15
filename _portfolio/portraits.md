@@ -67,5 +67,6 @@ gallery:
       - filename: portrait29.jpg
         alttext: portrait
     
+    
 ---
 <!-- beschreibender Text hier -->
