@@ -24,27 +24,13 @@ gallery:
         alttext: portrait
       - filename: portrait8.jpg
         alttext: portrait
-      - filename: portrait9.jpg
-        alttext: portrait
       - filename: portrait10.jpg
-        alttext: portrait
-      - filename: portrait11.jpg
-        alttext: portrait
-      - filename: portrait12.jpg
         alttext: portrait
       - filename: portrait13.jpg
         alttext: portrait
-      - filename: portrait14.jpg
-        alttext: portrait
       - filename: portrait15.jpg
         alttext: portrait
-      - filename: portrait16.jpg
-        alttext: portrait
       - filename: portrait17.jpg
-        alttext: portrait
-      - filename: portrait18.jpg
-        alttext: portrait
-      - filename: portrait19.jpg
         alttext: portrait
       - filename: portrait20.jpg
         alttext: portrait
@@ -53,18 +39,11 @@ gallery:
       - filename: portrait22.jpg
         alttext: portrait
       - filename: portrait23.jpg
-        alttext: portrait
-      - filename: portrait24.jpg
-        alttext: portrait      
+        alttext: portrait    
       - filename: portrait25.jpg
         alttext: portrait
       - filename: portrait26.jpg
         alttext: portrait      
-      - filename: portrait27.jpg
-        alttext: portrait
-      - filename: portrait28.jpg
-        alttext: portrait
-      - filename: portrait29.jpg
-        alttext: portrait
+
 ---
 <!-- beschreibender Text hier -->
