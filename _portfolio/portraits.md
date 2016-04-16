@@ -43,7 +43,7 @@ gallery:
       - filename: portrait25.jpg
         alttext: portrait
       - filename: portrait26.jpg
-        alttext: portrait      
-
+        alttext: portrait
+        
 ---
 <!-- beschreibender Text hier -->
