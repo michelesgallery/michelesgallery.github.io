@@ -8,7 +8,6 @@ Fotoshooting People Outdoor | Mini | 160.- | 7 Bilder
 Fotoshooting People/Tiere Outdoor | S | 200.- | 12 Bilder
 Fotoshooting People/Tiere Outdoor | M | 250.- | 20 Bilder
 Fotoshooting People/Tiere Outdoor | L | 280.- | 25 Bilder
-
 Bewerbungsfotos Outdoor | CV | 90.- | 7 Bilder
 
 <br>
