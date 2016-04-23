@@ -2,9 +2,9 @@
 group: navigation-03
 title: Angebot/Preise
 ---
-Peoplefotografie - Tierfotografie - Reportagen
+Peoplefotografie - Pferde- und Hundefotografie - Reportagen
 
-Die Fotoshootings und Bewerbungsfotos finden Outdoor oder in einer passenden Location statt.
+Alle Fotoshootings (inkl. Bewerbungsfotos) finden Outdoor oder in einer passenden Location statt.
 
 Schenken Sie Erinnerungen!
 Für besondere Wünsche und Geschenkgutscheine können Sie mich unverbindlich anfragen.
