@@ -12,16 +12,11 @@ Bewerbungsfotos Outdoor | CV | 90.- | 7 Bilder
 Reportagen: Hochzeit, Taufe, Geburtstag etc. |  | auf Anfrage | 
 
 <br>
+Bearbeitete Fotos in hochauflösender Qualität ohne Signatur der Fotografin.
+
 Zzgl. Fahrtkosten von -.80/km 
 
 Styling: auf Anfrage
 
-Fotos auf einem Stick in hochauflösender Qualität ohne Signatur der Fotografin.
-Nachbearbeitung der Bilder ist im Preis inbegriffen.
-Für jedes weitere Bild 20.-
-
-Für besondere Wünsche können Sie mich unverbindlich anfragen.
-
-Die Preisliste für Hochzeitsreportagen sende ich Ihnen auf Wunsch gerne zu.
-
-Immer ein schönes Geschenkt ist es, Erinnerungen zu verschenken. Kontaktieren Sie mich für einen Geschenkgutschein für einen bestimmten Betrag oder ein spezifisches Shooting.
+Schenken Sie Erinnerungen!
+Für besondere Wünsche und Geschenkgutscheine können Sie mich unverbindlich anfragen.
