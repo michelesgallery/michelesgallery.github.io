@@ -2,12 +2,7 @@
 group: navigation-03
 title: Angebot/Preise
 ---
-Mein Angebot umfasst:
-- Peoplefotografie
-- Pferdefotografie
-- Hundefotografie
-- Bewerbungsfotos
-- Reportagen
+Peoplefotografie - Tierfotografie - Reportagen
 
 Die Fotoshootings und Bewerbungsfotos finden Outdoor oder in einer passenden Location statt.
 
