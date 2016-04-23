@@ -2,9 +2,9 @@
 group: navigation-03
 title: Angebot/Preise
 ---
-Peoplefotografie: sinnliche Portraits
-Tierfotografie: insbesondere Pferde und Hunde
-Reportagen: Hochzeit, Taufe, Geburtstag etc.
+-   Peoplefotografie: sinnliche Portraits
+-   Tierfotografie: insbesondere Pferde und Hunde
+-   Reportagen: Hochzeit, Taufe, Geburtstag etc.
 
 Alle Fotoshootings (inkl. Bewerbungsfotos) finden Outdoor oder in einer passenden Location statt.
 
