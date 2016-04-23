@@ -5,7 +5,8 @@ title: Angebot/Preise
 Was | Bezeichnung | Preis | Anzahl Fotos
 ---|---|---|---
 Fotoshooting People Outdoor | Mini | 160.- | 7 Bilder
-Sinnliche Portraits | ca. 1.5 h | 160.- | 15 Bilder
+Fotoshooting People/Tiere Outdoor | S | 200.- | 12 Bilder
+Fotoshooting People/Tiere Outdoor | M | 250.- | 20 Bilder
 
 <br>
 Zzgl. Fahrtkosten von -.80/km 
