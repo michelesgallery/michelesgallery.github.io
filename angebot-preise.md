@@ -2,9 +2,9 @@
 group: navigation-03
 title: Angebot/Preise
 ---
-Was | Dauer | Preis | Anzahl Fotos
+Was | Bezeichnung | Preis | Anzahl Fotos
 ---|---|---|---
-Pferd/Hund mit Zweibeiner | ca. 1.5 h | 160.- | 15 Bilder
+Fotoshooting People Outdoor | Mini | 160.- | 7 Bilder
 Sinnliche Portraits | ca. 1.5 h | 160.- | 15 Bilder
 
 <br>
