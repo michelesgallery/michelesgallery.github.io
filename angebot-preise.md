@@ -2,7 +2,9 @@
 group: navigation-03
 title: Angebot/Preise
 ---
-Peoplefotografie - Pferde- und Hundefotografie - Reportagen
+Peoplefotografie: sinnliche Portraits
+Tierfotografie: insbesondere Pferde und Hunde
+Reportagen: Hochzeit, Taufe, Geburtstag etc.
 
 Alle Fotoshootings (inkl. Bewerbungsfotos) finden Outdoor oder in einer passenden Location statt.
 
@@ -16,7 +18,7 @@ Fotoshooting People/Tiere | S | 200.- | 12 Fotos
 Fotoshooting People/Tiere | M | 250.- | 20 Fotos
 Fotoshooting People/Tiere | L | 280.- | 25 Fotos
 Bewerbungsfotos | CV | 90.- | 7 Bilder
-Reportagen: Hochzeit, Taufe, Geburtstag etc. |  | auf Anfrage | 
+Reportagen |  | auf Anfrage | 
 Styling nach Bedarf |  | auf Anfrage |
 
 <br>
