@@ -13,7 +13,7 @@ Fotoshooting People/Tiere Outdoor | M | 250.- | 20 Fotos
 Fotoshooting People/Tiere Outdoor | L | 280.- | 25 Fotos
 Bewerbungsfotos Outdoor | CV | 90.- | 7 Bilder
 Reportagen: Hochzeit, Taufe, Geburtstag etc. |  | auf Anfrage | 
-Styling |  | auf Anfrage |
+Styling nach Bedarf |  | auf Anfrage |
 
 <br>
 Die Preise umfassen die Zeit für die Vorbereitung, das Shooting von max. 1.5h und die Nachbearbeitung der abzuliefernden Fotos. Die Lieferung der Fotos erfolgt auf einem Stick in hochauflösender Qualität ohne Signatur der Fotografin. 
