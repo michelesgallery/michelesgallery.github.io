@@ -2,6 +2,7 @@
 group: navigation-03
 title: Angebot/Preise
 ---
+- xy
 Alle Fotoshootings finden Outdoor oder in einer passenden Location statt.
 
 Schenken Sie Erinnerungen!
