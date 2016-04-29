@@ -17,15 +17,15 @@ Reportagen | Hochzeit, Taufe, Geburtstag etc. | auf Anfrage |
 
 <br>
 Der Grundpreis enthält:  
-- Shooting von 1.5 - 2h
-- eine Person, ein Tier + eine Person
-- Nachbearbeitung 
-- 15 Fotos in hochauflösender Qualität ohne Signatur der Fotografin (der Kunde wählt aus)
+-   Shooting von 1.5 - 2h
+-   eine Person, ein Tier + eine Person
+-   Nachbearbeitung 
+-   15 Fotos in hochauflösender Qualität ohne Signatur der Fotografin (der Kunde wählt aus)
 
 Mögliche Zusatzkosten:
-- Styling 
-- weitere Bilder: 10.-/Bild
-- weitere Personen/Tiere: je 20.-
+-   Styling 
+-   weitere Bilder: 10.-/Bild
+-   weitere Personen/Tiere: je 20.-
 
 
 
