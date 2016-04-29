@@ -10,8 +10,8 @@ Für besondere Wünsche und Geschenkgutscheine können Sie mich unverbindlich an
 Angebot | Bezeichnung | Preis 
 ---|---|---|---
 People | sinnliche Portraits | 160.- |
-Pferdefotografie | Pferd + Mensch | 200.- |
-Hundefotografie | Hund + Mensch | 200.- | 
+Hundefotografie | Hund + Mensch | 190.- | 
+Pferdefotografie | Pferd + Mensch | 220.- |
 Reportagen | Hochzeit, Taufe, Geburtstag etc. | auf Anfrage | 
 
 <br>
@@ -27,7 +27,8 @@ Der Grundpreis enthält:
 Mögliche Zusatzkosten:
 -   Styling 
 -   weitere Bilder: 10.-/Bild
--   weitere Personen/Tiere: je 20.-
+-   weitere Personen/Hunde (2h): je 60.-
+-   weitere Pferde (2 - 2.5h): je 90.-
 -   sonstige besondere Wünsche
 
 
