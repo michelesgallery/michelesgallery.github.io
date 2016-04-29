@@ -31,7 +31,7 @@ Der Grundpreis enthält:
 Mögliche Zusatzkosten:
 -   Styling 
 -   weitere Bilder: 10.-/Bild
--   weitere Personen/Hunde (2h): je 60.-
+-   weitere Personen/Hunde (2h): je 30.-
 -   weitere Pferde (2 - 2.5h): je 90.-
 -   sonstige besondere Wünsche
 
