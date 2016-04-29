@@ -9,15 +9,23 @@ Für besondere Wünsche und Geschenkgutscheine können Sie mich unverbindlich an
 
 Angebot | Bezeichnung | Preis 
 ---|---|---|---
-Peoplefotografie | sinnliche Portraits | ab 160.- |
-Pferdefotografie |  | ab 200.- |
-Hundefotografie |  | ab 200.- | 
-Bewerbungsfotos | CV | ab 50.- | 
+People | sinnliche Portraits | ab 160.- |
+Pferdefotografie | Pferd + Mensch | ab 200.- |
+Hundefotografie | Hund + Mensch | ab 200.- | 
+Bewerbungsfotos | 7 Fotos, Outdoor | 50.- | 
 Reportagen | Hochzeit, Taufe, Geburtstag etc. | auf Anfrage | 
-Styling nach Bedarf |  | auf Anfrage |
 
 <br>
-Die Preise umfassen die Zeit für die Vorbereitung, das Shooting von max. 1.5h und die Nachbearbeitung der abzuliefernden Fotos. Die Lieferung der Fotos erfolgt auf einem Stick in hochauflösender Qualität ohne Signatur der Fotografin. 
+Der Grundpreis enthält:  
+- Shooting von 1.5 - 2h
+- eine Person, ein Tier + eine Person
+- Nachbearbeitung 
+- 15 Fotos in hochauflösender Qualität ohne Signatur der Fotografin (der Kunde wählt aus)
+
+Mögliche Zusatzkosten:
+- Styling 
+- weitere Bilder: 10.-/Bild
+- weitere Personen/Tiere: je 20.-
 
 
 
