@@ -9,7 +9,7 @@ Für besondere Wünsche und Geschenkgutscheine können Sie mich unverbindlich an
 
 Angebot | Bezeichnung | Preis 
 ---|---|---|---
-Peoplefotografi | sinnliche Portraits | ab 160.- |
+Peoplefotografie | sinnliche Portraits | ab 160.- |
 Pferdefotografie |  | ab 200.- |
 Hundefotografie |  | ab 200.- | 
 Bewerbungsfotos | CV | ab 50.- | 
