@@ -2,7 +2,13 @@
 group: navigation-03
 title: Angebot/Preise
 ---
-- xy
+Der Grundpreis enthält:
+- Shooting von 1.5-2h
+- eine Person, ein Tier + eine Person
+- Nachbearbeitung
+- 15 Fotos in hochauflösender Qualität ohne Signatur der Fotografin (der Kunde wählt aus)
+- Fotos auf USB-Stick
+
 Alle Fotoshootings finden Outdoor oder in einer passenden Location statt.
 
 Schenken Sie Erinnerungen!
@@ -18,12 +24,6 @@ Reportagen | Hochzeit, Taufe, Geburtstag etc. | auf Anfrage |
 <br>
 Die Fahrkosten werden mit -.80/km zuzüglich berechnet. 
 
-Der Grundpreis enthält:  
--   Shooting von 1.5 - 2h
--   eine Person, ein Tier + eine Person
--   Nachbearbeitung 
--   15 Fotos in hochauflösender Qualität ohne Signatur der Fotografin (der Kunde wählt       aus)
--   Fotos auf USB-Stick
 
 Mögliche Zusatzkosten:
 -   Styling 
