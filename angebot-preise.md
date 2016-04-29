@@ -9,25 +9,26 @@ Für besondere Wünsche und Geschenkgutscheine können Sie mich unverbindlich an
 
 Angebot | Bezeichnung | Preis 
 ---|---|---|---
-People | sinnliche Portraits | ab 160.- |
-Pferdefotografie | Pferd + Mensch | ab 200.- |
-Hundefotografie | Hund + Mensch | ab 200.- | 
+People | sinnliche Portraits | 160.- |
+Pferdefotografie | Pferd + Mensch | 200.- |
+Hundefotografie | Hund + Mensch | 200.- | 
 Reportagen | Hochzeit, Taufe, Geburtstag etc. | auf Anfrage | 
 
 <br>
 Die Fahrkosten werden mit -.80/km zuzüglich berechnet. 
 
 Der Grundpreis enthält:  
-    -   Shooting von 1.5 - 2h
-    -   eine Person, ein Tier + eine Person
-    -   Nachbearbeitung 
-    -   15 Fotos in hochauflösender Qualität ohne Signatur der Fotografin (der Kunde wählt       aus)
-    -   Fotos auf USB-Stick
+-   Shooting von 1.5 - 2h
+-   eine Person, ein Tier + eine Person
+-   Nachbearbeitung 
+-   15 Fotos in hochauflösender Qualität ohne Signatur der Fotografin (der Kunde wählt       aus)
+-   Fotos auf USB-Stick
 
 Mögliche Zusatzkosten:
-    -   Styling 
-    -   weitere Bilder: 10.-/Bild
-    -   weitere Personen/Tiere: je 20.-
+-   Styling 
+-   weitere Bilder: 10.-/Bild
+-   weitere Personen/Tiere: je 20.-
+-   sonstige besondere Wünsche
 
 
 
