@@ -2,7 +2,7 @@
 group: navigation-03
 title: Angebot/Preise
 ---
-Alle Fotoshootings (inkl. Bewerbungsfotos) finden Outdoor oder in einer passenden Location statt.
+Alle Fotoshootings finden Outdoor oder in einer passenden Location statt.
 
 Schenken Sie Erinnerungen!
 Für besondere Wünsche und Geschenkgutscheine können Sie mich unverbindlich anfragen.
@@ -12,8 +12,9 @@ Angebot | Bezeichnung | Preis
 People | sinnliche Portraits | ab 160.- |
 Pferdefotografie | Pferd + Mensch | ab 200.- |
 Hundefotografie | Hund + Mensch | ab 200.- | 
-Bewerbungsfotos | 7 Fotos, Outdoor | 50.- | 
 Reportagen | Hochzeit, Taufe, Geburtstag etc. | auf Anfrage | 
+
+Die Fahrkosten werden mit -.80/km zuzüglich berechnet. 
 
 <br>
 Der Grundpreis enthält:  
@@ -29,7 +30,7 @@ Mögliche Zusatzkosten:
 
 
 
-Die Fahrkosten werden mit -.80/km zuzüglich berechnet. 
+
  
 
 
