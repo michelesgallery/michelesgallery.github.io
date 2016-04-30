@@ -36,7 +36,7 @@ gallery:
         alttext: vivi
 ---
 Ich war bei Vivien und ihrem Vizsla Moritz in Uri zu Besuch und ich habe mich in die Gegend verliebt.
-Wir waren am Vierwaldstättersee und es erinnerte eher an einen kleinen Nordseestrand - sooo idyllisch! Und soo viele tolle Plätze zum Fotografieren, das Licht war auch toll, nur der Wind liess uns doch ein wenig frieren. Dennoch, es war ein toller Abend mit den zwei Süssen.
+Wir waren am Vierwaldstättersee und es erinnerte eher an einen kleinen Nordseestrand - sooo idyllisch! Und soo viele tolle Plätze zum Fotografieren, das Licht war auch toll, nur der Wind liess uns doch ein wenig frieren. Dennoch, es war ein toller Abend mit den zwei Süssen, die ein so unglaublich tolles Team sind.
 
 
 &lt;3
