@@ -20,5 +20,21 @@ gallery:
         alttext: hund
       - filename: hund6.jpg
         alttext: hund
+      - filename: hund7.jpg
+        alttext: hund
+      - filename: hund8.jpg
+        alttext: hund
+      - filename: hund9.jpg
+        alttext: hund
+      - filename: hund10.jpg
+        alttext: hund
+      - filename: hund11.jpg
+        alttext: hund
+      - filename: hund12.jpg
+        alttext: hund
+      - filename: hund13.jpg
+        alttext: hund
+      - filename: hund14.jpg
+        alttext: hund
 ---
 <!-- beschreibender Text hier -->
