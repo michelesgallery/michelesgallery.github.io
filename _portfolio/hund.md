@@ -34,7 +34,5 @@ gallery:
         alttext: hund
       - filename: hund13.jpg
         alttext: hund
-      - filename: hund14.jpg
-        alttext: hund
 ---
 <!-- beschreibender Text hier -->
