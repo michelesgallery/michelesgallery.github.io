@@ -10,7 +10,7 @@ Für besondere Wünsche und Geschenkgutscheine können Sie mich unverbindlich an
 
 Angebot | Bezeichnung | Preis 
 ---|---|---|---
-People | sinnliche Portraits | 160.- |
+People | sinnliche Portraits, Paare, Familien | 160.- |
 Hundefotografie | Hund + Mensch | 190.- | 
 Pferdefotografie | Pferd + Mensch | 220.- |
 Reportagen | Hochzeit, Taufe, Geburtstag etc. | auf Anfrage | 
