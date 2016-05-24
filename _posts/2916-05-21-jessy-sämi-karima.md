@@ -3,7 +3,7 @@ title: Jessy mit Sämi & Karima
 header-pic: jessy6.jpg
 # header: true
 # site-title-display: false
-folder: blog-12-jessy-sämi-karima
+folder: blog-12-jessy-sami-karima
 gallery: 
     - images:
       - filename: jessy1.jpg
