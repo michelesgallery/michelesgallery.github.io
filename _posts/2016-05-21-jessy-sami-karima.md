@@ -1,5 +1,5 @@
 ---
-title: Jessy mit Sämi & Karima
+title: Jessy mit Al Samira & Karima al Mandara
 header-pic: jessy6.jpg
 # header: true
 # site-title-display: false
