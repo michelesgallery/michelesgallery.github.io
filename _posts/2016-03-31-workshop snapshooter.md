@@ -3,7 +3,7 @@ title: Workshop "Sensual Dream"
 header-pic: franzi1.jpg
 # header: true
 # site-title-display: false
-folder: blog-workshop-snapshooter-franzi
+folder: blog-7-workshop-snapshooter-franzi
 gallery: 
     - images:
       - filename: franzi1.jpg

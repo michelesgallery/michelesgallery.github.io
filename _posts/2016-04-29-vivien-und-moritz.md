@@ -3,7 +3,7 @@ title: Vivien & Moritz
 header-pic: vivi4.jpg
 # header: true
 # site-title-display: false
-folder: blog-vivi-moritz
+folder: blog-10-vivi-moritz
 gallery: 
     - images:
       - filename: vivi2.jpg

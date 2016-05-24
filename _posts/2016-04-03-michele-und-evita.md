@@ -3,7 +3,7 @@ title: Michèle & Evita
 header-pic: mischi3.jpg
 # header: true
 # site-title-display: false
-folder: blog-mischi-und-evita
+folder: blog-8-mischi-und-evita
 gallery: 
     - images:
       - filename: mischi1.jpg

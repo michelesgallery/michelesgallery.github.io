@@ -3,7 +3,7 @@ title: Vanessa
 header-pic: vani1.jpg
 # header: true
 # site-title-display: false
-folder: blog-vanessa
+folder: blog-9-vanessa
 gallery: 
     - images:
       - filename: vani1.jpg

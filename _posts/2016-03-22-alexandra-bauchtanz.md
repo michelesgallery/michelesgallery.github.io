@@ -3,7 +3,7 @@ title: Bellydance
 header-pic: alex13.jpg
 # header: true
 # site-title-display: false
-folder: blog-alexandra-bauchtanz
+folder: blog-6-alexandra-bauchtanz
 gallery: 
     - images:
       - filename: alex1.jpg
