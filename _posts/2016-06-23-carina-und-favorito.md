@@ -1,27 +1,27 @@
 ---
 title: Carina & Favorito CXV
-header-pic: carina6.jpg
+header-pic: favo6.jpg
 # header: true
 # site-title-display: false
 folder: blog-13-carina-und-favorito
 gallery: 
     - images:
-      - filename: carina1.jpg
-        alttext: carina
-      - filename: carina2.jpg
-        alttext: carina
-      - filename: carina3.jpg
-        alttext: carina
-      - filename: carina4.jpg
-        alttext: carina
-      - filename: carina5.jpg
-        alttext: carina
-      - filename: carina6.jpg
-        alttext: carina
-      - filename: carina7.jpg
-        alttext: carina
-      - filename: carina8.jpg
-        alttext: carina
+      - filename: favo1.jpg
+        alttext: favo
+      - filename: favo2.jpg
+        alttext: favo
+      - filename: favo3.jpg
+        alttext: favo
+      - filename: favo4.jpg
+        alttext: favo
+      - filename: favo5.jpg
+        alttext: favo
+      - filename: favo6.jpg
+        alttext: favo
+      - filename: favo7.jpg
+        alttext: favo
+      - filename: favo8.jpg
+        alttext: favo
      
 ---
 Am zweiten Hitzetag dieses Jahres war ich wieder einmal bei Carina und Favorito. 
