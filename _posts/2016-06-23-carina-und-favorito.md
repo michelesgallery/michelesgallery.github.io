@@ -21,7 +21,7 @@ gallery:
       - filename: favo7.jpg
         alttext: favo
       - filename: favo8.jpg
-        alttext: 
+        alttext: favo
      
 ---
 Am zweiten Hitzetag dieses Jahres war ich wieder einmal bei Carina und Favorito. 
