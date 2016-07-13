@@ -1,6 +1,6 @@
 ---
 title: Jenny & Marvin
-header-pic: marvin.jpg
+header-pic: marvin7.jpg
 # header: true
 # site-title-display: false
 folder: blog-14-jenny-marvin
