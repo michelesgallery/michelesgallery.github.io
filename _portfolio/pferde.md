@@ -5,7 +5,7 @@ title: Pferde
 subtitle: majestätische Vierbeiner
 Alle aktuellen Fotostrecken findest Du auf meinem Blog!
 category: [pferd, mensch, tier]
-# header-pic: pferd2.jpg
+# header-pic: pferd1.jpg
 folder: galerie-pferd
 gallery:
     - images:
