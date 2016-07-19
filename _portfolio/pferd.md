@@ -16,13 +16,11 @@ gallery:
         alttext: pferd
       - filename: pferd5.jpg
         alttext: pferd
+      - filename: pferd6.jpg
+        alttext: pferd
+      - filename: pferd7.jpg
+        alttext: pferd
       - filename: pferd12.jpg
-        alttext: pferd
-      - filename: pferd13.jpg
-        alttext: pferd
-      - filename: pferd14.jpg
-        alttext: pferd
-      - filename: pferd16.jpg
         alttext: pferd
       - filename: pferd19.jpg
         alttext: pferd
