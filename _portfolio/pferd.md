@@ -3,6 +3,7 @@ parent-id: galerie
 number: 1
 title: Pferde
 subtitle: majestätische Vierbeiner
+Alle aktuellen Fotostrecken findest Du auf meinem Blog!
 category: [pferd, mensch, tier]
 # header-pic: pferd2.jpg
 folder: galerie-pferd
@@ -14,35 +15,35 @@ gallery:
         alttext: pferd      
       - filename: pferd3.jpg
         alttext: pferd
+      - filename: pferd4.jpg
+        alttext: pferd
       - filename: pferd5.jpg
         alttext: pferd
       - filename: pferd6.jpg
         alttext: pferd
       - filename: pferd7.jpg
         alttext: pferd
+      - filename: pferd8.jpg
+        alttext: pferd
+      - filename: pferd9.jpg
+        alttext: pferd
+      - filename: pferd10.jpg
+        alttext: pferd
+      - filename: pferd11.jpg
+        alttext: pferd
       - filename: pferd12.jpg
         alttext: pferd
-      - filename: pferd19.jpg
-        alttext: pferd
-      - filename: pferd20.jpg
-        alttext: pferd
-      - filename: pferd21.jpg
-        alttext: pferd
-      - filename: pferd22.jpg
-        alttext: pferd
-      - filename: pferd23.jpg
-        alttext: pferd
-      - filename: pferd24.jpg
+      - filename: pferd13.jpg
         alttext: pferd  
-      - filename: pferd26.jpg
+      - filename: pferd14.jpg
         alttext: pferd
-      - filename: pferd27.jpg
+      - filename: pferd15.jpg
         alttext: pferd
-      - filename: pferd28.jpg
+      - filename: pferd16.jpg
         alttext: pferd
-      - filename: pferd29.jpg
+      - filename: pferd17.jpg
         alttext: pferd
-      - filename: pferd30.jpg
+      - filename: pferd18.jpg
         alttext: pferd
 ---
 <!-- beschreibender Text hier -->
