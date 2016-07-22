@@ -10,6 +10,5 @@ gallery:
     - images:
       - filename: cup1.jpg
         alttext: cup
-        
 ---
 <!-- beschreibender Text hier -->
