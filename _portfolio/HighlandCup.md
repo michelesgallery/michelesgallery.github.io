@@ -2,7 +2,7 @@
 parent-id: galerie
 number: 7
 title: HighlandCup
-subtitle: Fotos vom 23.7.16
+subtitle: Für Bestellungen siehe erstes Bild, besten Dank!
 category: [pferd, turnier]
 # header-pic: bestelltalon.jpg
 folder: galerie-highland-cup
