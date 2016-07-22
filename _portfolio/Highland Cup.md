@@ -8,42 +8,42 @@ category: [portrait, mensch]
 folder: galerie-highland-cup
 gallery:
     - images:
-      - filename: .jpg
-        alttext: 
-      - filename: .jpg
-        alttext: 
-      - filename: .jpg
-        alttext: 
-      - filename: .jpg
-        alttext: 
-      - filename: .jpg
-        alttext: 
-      - filename: .jpg
-        alttext: 
-      - filename: .jpg
-        alttext: 
-      - filename: .jpg
-        alttext: 
-      - filename: .jpg
-        alttext: 
-      - filename: .jpg
-        alttext: 
-      - filename: .jpg
-        alttext: 
-      - filename: .jpg
-        alttext: 
-      - filename: .jpg
-        alttext: 
-      - filename: .jpg
-        alttext: 
-      - filename: .jpg
-        alttext: 
-      - filename: .jpg
-        alttext:     
-      - filename: .jpg
-        alttext: 
-      - filename: .jpg
-        alttext: 
+      - filename: cup1.jpg
+        alttext: cup
+      - filename: cup.jpg
+        alttext: cup
+      - filename: cup.jpg
+        alttext: cup
+      - filename: cup.jpg
+        alttext: cup
+      - filename: cup.jpg
+        alttext: cup
+      - filename: cup.jpg
+        alttext: cup
+      - filename: cup.jpg
+        alttext: cup
+      - filename: cup.jpg
+        alttext: cup
+      - filename: cup.jpg
+        alttext: cup
+      - filename: cup.jpg
+        alttext: cup
+      - filename: cup.jpg
+        alttext: cup
+      - filename: cup.jpg
+        alttext: cup
+      - filename: cup.jpg
+        alttext: cup
+      - filename: cup.jpg
+        alttext: cup
+      - filename: cup.jpg
+        alttext: cup
+      - filename: cup.jpg
+        alttext:  cup   
+      - filename: cup.jpg
+        alttext: cup
+      - filename: cup.jpg
+        alttext: cup
         
 ---
 <!-- beschreibender Text hier -->
