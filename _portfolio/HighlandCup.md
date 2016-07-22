@@ -4,11 +4,11 @@ number: 7
 title: HighlandCup
 subtitle: Fotos vom 23.7.16
 category: [pferd, turnier]
-# header-pic: cup1.jpg
+# header-pic: bestelltalon.jpg
 folder: galerie-highland-cup
 gallery:
     - images:
-      - filename: cup1.jpg
+      - filename: bestelltalon.jpg
         alttext: cup
 ---
 <!-- beschreibender Text hier -->
