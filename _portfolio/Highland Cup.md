@@ -2,7 +2,7 @@
 parent-id: galerie
 number: 7
 title: Highland Cup
-subtitle: 23.7.16
+subtitle: Fotos vom 23.7.16
 category: [portrait, mensch]
 # header-pic: cup1.jpg
 folder: galerie-highland-cup
