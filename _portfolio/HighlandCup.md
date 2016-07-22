@@ -1,7 +1,7 @@
 ---
 parent-id: galerie
 number: 7
-title: Highland Cup
+title: HighlandCup
 subtitle: Fotos vom 23.7.16
 category: [pferd, turnier]
 # header-pic: cup1.jpg
