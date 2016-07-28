@@ -8,7 +8,7 @@ category: [pferd, turnier]
 folder: galerie-highland-cup
 gallery:
     - images:
-      - filename: bestelltalon1.jpg
+      - filename: bestelltalon2.jpg
         alttext: cup
 ---
 <!-- beschreibender Text hier -->
