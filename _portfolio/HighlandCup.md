@@ -2,7 +2,7 @@
 parent-id: galerie
 number: 7
 title: HighlandCup
-subtitle: Für Bestellungen siehe erstes Bild, besten Dank!
+subtitle: Fotogalerie folgt...
 category: [pferd, turnier]
 # header-pic: bestelltalon1.jpg
 folder: galerie-highland-cup
