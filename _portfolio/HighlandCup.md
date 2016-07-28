@@ -2,9 +2,9 @@
 parent-id: galerie
 number: 7
 title: HighlandCup
-subtitle: Fotogalerie: ["KLICK"](https://drive.google.com/open?id=0B3s1tTwBbDVgS0ZPRVBNeWxRUWc/)
+subtitle: Fotogalerie: [drive.google.com](https://drive.google.com/open?id=0B3s1tTwBbDVgS0ZPRVBNeWxRUWc/)
 category: [pferd, turnier]
-# header-pic: bestelltalon1.jpg
+# header-pic: bestelltalon2.jpg
 folder: galerie-highland-cup
 gallery:
     - images:
