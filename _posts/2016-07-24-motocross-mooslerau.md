@@ -30,6 +30,20 @@ gallery:
         alttext: moto
       - filename: moto12.jpg
         alttext: moto
+      - filename: moto13.jpg
+        alttext: moto
+      - filename: moto14.jpg
+        alttext: moto
+      - filename: moto15.jpg
+        alttext: moto
+      - filename: moto16.jpg
+        alttext: moto
+      - filename: moto17.jpg
+        alttext: moto
+      - filename: moto18.jpg
+        alttext: moto
+      - filename: moto19.jpg
+        alttext: moto
 
      
 ---
