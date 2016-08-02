@@ -2,7 +2,7 @@
 parent-id: galerie
 number: 5
 title: Motocross
-subtitle: Action auf zwei Rädern
+subtitle: Buche mich exklusiv für dein nächstes Training oder Rennen!
 category: [motocross, mensch, sport]
 # header-pic: motocross11.jpg
 folder: galerie-motocross
