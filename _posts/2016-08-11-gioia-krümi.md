@@ -31,9 +31,7 @@ gallery:
       - filename: gioia12.jpg
         alttext: reto
       - filename: gioia13.jpg
-        alttext: gioia
-  
-     
+        alttext: gioia   
 ---
 Am Donnerstag durfte ich Gioia und Krümi fotografieren. Krümi ist ein deutsches Sportreitpony und voller Energie. Die beiden sind so super süss zusammen und ein tolles Team. Wir hatten zwar nicht spezifisch ein Zauberlichtshooting geplant, aber da die Sonne schien hofften wir doch auf die schöne goldene Stunde. Leider ging die Sonne schon ziemlich früh in den Schleierwolken unter. Dennoch war es super mit den beiden.
 
