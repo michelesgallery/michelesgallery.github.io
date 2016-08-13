@@ -3,7 +3,7 @@ title: Gioia & Krümi
 header-pic: gioia7.jpg
 # header: true
 # site-title-display: false
-folder: blog-18-gioia-krümi
+folder: blog-18-gioia-kruemi
 gallery: 
     - images:
       - filename: gioia1.jpg
