@@ -80,8 +80,6 @@ gallery:
         alttext: walde
       - filename: walde36.jpg
         alttext: walde 
-      - filename: walde37.jpg
-        alttext: walde
       - filename: walde38.jpg
         alttext: walde
       - filename: walde39.jpg
