@@ -2,9 +2,10 @@
 parent-id: galerie
 number: 7
 title: Agility
-subtitle: Galerie folgt...
-# header-pic: bestelltalon2.jpg
-folder: galerie-agility-cup
+subtitle: Galerie HIER&colon; <a href="https://drive.google.com/open?id=0B3s1tTwBbDVgZ3hVdVJvbG1telE">"Klick"</a> 
+category:[hund, agility, turnier]
+# header-pic: bestelltalon.jpg
+folder: galerie-agility-turnier
 gallery:
 
 ---
