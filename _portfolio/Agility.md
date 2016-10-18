@@ -8,6 +8,6 @@ folder: galerie-agility-turnier
 gallery:
     - images:
       - filename: bestelltalonA.jpg
-        alttext: bestelltalon
+        alttext: bestelltalonA
 ---
 <!-- beschreibender Text hier -->
