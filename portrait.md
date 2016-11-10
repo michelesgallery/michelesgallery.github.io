@@ -3,7 +3,7 @@ group: "navigation-01"
 title: Portrait
 description: Ein paar Worte über mich.
 side-img: true
-side-img-file: michele-dekker.jpg
+side-img-file: michele-dekker1.jpg
 ---
 Ich heisse Michèle Dekker.
 
