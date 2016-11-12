@@ -1,0 +1,26 @@
+---
+group: navigation-05
+title: Archiv
+---
+{% if site.baseurl != '' or null %}
+    {% assign base = site.baseurl %}
+{% else %}
+    {% assign base = '' %}
+{% endif %}
+
+{% assign posts = site.posts %}
+<table>
+    <thead>
+        <tr>
+            <th>Datum</th>
+            <th>Titel</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for post in posts%}
+        <tr>
+            <td>{% include date.html %}</td>
+            <td><a href="{{ post.url | prepend: base }}">{{ post.title }}</a></td>
+    {% endfor %}
+    </tbody>
+</table>
