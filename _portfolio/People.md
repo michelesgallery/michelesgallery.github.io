@@ -1,8 +1,8 @@
 ---
 parent-id: galerie
 number: 3
-title: Portraits
-subtitle: Sinnliche Portraits
+title: People
+subtitle: Paare, Familien, sinnliche Portraits
 category: [portrait, mensch]
 # header-pic: portrait2.jpg
 folder: galerie-portraits
