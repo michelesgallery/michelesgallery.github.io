@@ -1,5 +1,5 @@
 ---
-title: Mia and the Mouse - Frühlingsoutfits
+title: Mia and the Mouse - Frühlingstrend
 header-pic: mi4.jpg
 # header: true
 # site-title-display: false
