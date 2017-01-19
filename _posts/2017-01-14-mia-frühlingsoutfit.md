@@ -40,8 +40,9 @@ gallery:
         alttext: mi
       - filename: mi17.jpg
         alttext: mi   
-      - filename: mi18.jpg
+      - filename: mi19.jpg
         alttext: mi
+        
 ---
 Passend zum schneevollen Winter bis ahnhin durfte ich für Mia Frühlingstrends 2017 ablichten. Die Herausforderung war also, eine Location zu finden, in der es möglichst nicht nach Winter aussah. 
 Als wir uns traffen schneite es. Wir beschlossen im Eingangsbereich eines Hotels zu shooten. Der Schnee setzte zum Glück nicht weiter an, es fing auf zu schneien und sodann gingen wir auch noch raus. Vor dem Hotel hatte es passend zu unserem Motto zufälligerweise total viele Pflanzen, in die wir uns verliebten. 
