@@ -48,7 +48,4 @@ Als wir uns traffen schneite es. Wir beschlossen im Eingangsbereich eines Hotels
 Somit haben wir die Herausforderung sehr gut gemeistert wie ich finde. 
 Es war toll mit Mia zu shooten! Schaut auf ihrem Blog vorbei, wenn ihr ihren Artikel zum Thema Frühlingstrend lesen wollt!
 
-Model: Mia von [www.miaandthemouse.com](https://www.miaandthemouse.com)
-Kleider: [www.chicoree.ch](https://www.chicoree.ch)
-
 &lt;3
