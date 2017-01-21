@@ -1,6 +1,6 @@
 ---
 title: Jessy im Winterzauber
-header-pic: je9.jpg
+header-pic: jes9.jpg
 # header: true
 # site-title-display: false
 folder: blog-29-jessy
@@ -22,7 +22,7 @@ gallery:
         alttext: je
       - filename: je8.jpg
         alttext: je
-      - filename: je9.jpg
+      - filename: jes9.jpg
         alttext: je
       - filename: je10.jpg
         alttext: je
