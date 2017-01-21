@@ -1,6 +1,6 @@
 ---
 title: Jessy im Winterzauber
-header-pic: vino9.jpg
+header-pic: je9.jpg
 # header: true
 # site-title-display: false
 folder: blog-29-jessy
@@ -40,7 +40,8 @@ gallery:
         alttext: je
 
 ---
-
+Bevor der Schnee wieder ganz weg ist, haben Jessy und ich die Zeit noch schnell genützt. 
+Es war ein wundervoller Nachmittag am Sempachersee. Wir haben viel gelacht aber auch gefroren. Unser treffen hat mir wiedermal gezeigt, dass Shootings einfach auch unheimlich viel Spass machen (sollten), natürlich neben den tollen Bildern, die man macht. :D 
 
 
 &lt;3
