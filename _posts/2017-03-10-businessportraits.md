@@ -1,6 +1,6 @@
 ---
 title: Businessportraits
-header-pic: p1.jpg
+header-pic: p2.jpg
 # header: true
 # site-title-display: false
 folder: blog-30-portraits
