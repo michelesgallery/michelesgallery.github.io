@@ -63,8 +63,9 @@ module.exports = function(grunt) {
 
         postcss: {
             options: {
+                map: false,
                 processors: [
-                    require('autoprefixer-core')({browsers: '> 1%'}), // add vendor prefixes
+                    require('autoprefixer')({browsers: '> 1%'}), // add vendor prefixes
                 ]
             },
             dist: {
