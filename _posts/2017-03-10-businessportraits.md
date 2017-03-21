@@ -20,7 +20,8 @@ gallery:
         alttext: p
       - filename: p7.jpg
         alttext: p
-
+      - filename: p8.jpg
+        alttext: p
 ---
 
 Stolz darf ich verkünden, dass ich in den letzten Wochen ganz viele Personen portraitieren durfte für ihren Webauftritt.
