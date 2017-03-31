@@ -2,7 +2,7 @@
 parent-id: galerie
 number: 3
 title: People
-subtitle: Paare, Familien, sinnliche Portraits
+subtitle: 
 category: [portrait, mensch]
 # header-pic: portrait2.jpg
 folder: galerie-portraits

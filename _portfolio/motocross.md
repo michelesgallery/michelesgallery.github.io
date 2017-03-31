@@ -2,7 +2,7 @@
 parent-id: galerie
 number: 5
 title: Motocross
-subtitle: Stilvolle Mx-Fotos in top Qualität
+subtitle: 
 category: [motocross, mensch, sport]
 # header-pic: motocross1.jpg
 folder: galerie-mx
