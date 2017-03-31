@@ -265,12 +265,6 @@
   </url>
   
   <url>
-    <loc>http://micheledekker.ch/angebot-preise/</loc>
-    
-    
-  </url>
-  
-  <url>
     <loc>http://micheledekker.ch/archiv/</loc>
     
     
@@ -289,13 +283,13 @@
   </url>
   
   <url>
-    <loc>http://micheledekker.ch/galerie/</loc>
+    <loc>http://micheledekker.ch/</loc>
     
     
   </url>
   
   <url>
-    <loc>http://micheledekker.ch/</loc>
+    <loc>http://micheledekker.ch/infos/</loc>
     
     
   </url>
@@ -307,13 +301,19 @@
   </url>
   
   <url>
-    <loc>http://micheledekker.ch/portrait/</loc>
+    <loc>http://micheledekker.ch/portfolio/</loc>
     
     
   </url>
   
   <url>
     <loc>http://micheledekker.ch/sitemaps.xml</loc>
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://micheledekker.ch/%C3%BCber-mich/</loc>
     
     
   </url>
