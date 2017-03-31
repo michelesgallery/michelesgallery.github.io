@@ -12,7 +12,7 @@ Angebot | Bezeichnung | Preis
 ---|---|---|---
 Pferdefotografie | Pferd + Mensch | 220.- |
 Hundefotografie | Hund + Mensch | 190.- | 
-People | sinnliche Portraits, Paare, Familien | 160.- |
+People | sinnliche Portraits, Paare, Familien | ab 160.- |
 Reportagen | Motocross, Pferdeturniere, Hochzeit, Taufe, Geburtstag etc. | auf Anfrage | 
 
 <br>
