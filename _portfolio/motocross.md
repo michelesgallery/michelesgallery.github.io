@@ -4,7 +4,7 @@ number: 5
 title: Motocross
 subtitle: Stilvolle Mx-Fotos in top Qualität
 category: [motocross, mensch, sport]
-# header-pic: motocross11.jpg
+# header-pic: motocross1.jpg
 folder: galerie-motocross
 gallery:
     - images:
