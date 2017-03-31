@@ -1,10 +1,11 @@
 ---
 group: "navigation-01"
-title: Michèle Dekker
+title: Über mich
 description: Ein paar Worte über mich.
 side-img: true
 side-img-file: michele-dekker1.jpg
 ---
+Michèle Dekker
 
 
 Fotografieren ist meine grosse Leidenschaft. 
