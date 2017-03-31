@@ -88,5 +88,9 @@ gallery:
         alttext: mx
       - filename: mx40.jpg
         alttext: mx
+      - filename: mx41.jpg
+        alttext: mx
+      - filename: mx42.jpg
+        alttext: mx
 ---
 <!-- beschreibender Text hier -->
