@@ -2,7 +2,7 @@
 parent-id: galerie
 number: 5
 title: Motocross
-subtitle: Buche mich exklusiv für dein nächstes Training oder Rennen!
+subtitle: Stilvolle Mx-Fotos in top Qualität
 category: [motocross, mensch, sport]
 # header-pic: motocross11.jpg
 folder: galerie-motocross
@@ -77,6 +77,14 @@ gallery:
       - filename: motocross35.jpg
         alttext: motocross
       - filename: motocross36.jpg
+        alttext: motocross
+      - filename: motocross37.jpg
+        alttext: motocross
+      - filename: motocross38.jpg
+        alttext: motocros
+      - filename: motocross39.jpg
+        alttext: motocross
+      - filename: motocross40.jpg
         alttext: motocross
 ---
 <!-- beschreibender Text hier -->
