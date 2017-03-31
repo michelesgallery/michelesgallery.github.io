@@ -8,6 +8,4 @@ E-Mail: [michele.dekker@gmx.ch](mailto:michele.dekker@gmx.ch)
 
 Telefon: 079 261 01 26
 
-Standort: 
-
-Schwerzenbach ZH
+Standort: Schwerzenbach ZH
