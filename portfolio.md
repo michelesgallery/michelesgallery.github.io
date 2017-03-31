@@ -1,5 +1,5 @@
 ---
-title: Galerie
+title: Portfolio
 group: navigation-02
 page-id: galerie
 is-parent: true
