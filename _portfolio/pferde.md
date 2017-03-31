@@ -5,7 +5,7 @@ title: Pferde
 subtitle: 
 category: [pferd, mensch, tier]
 # header-pic: pferd1.jpg
-folder: galerie-pferd
+folder: galerie-pferde
 gallery:
     - images:
       - filename: pferd1.jpg
@@ -43,6 +43,18 @@ gallery:
       - filename: pferd17.jpg
         alttext: pferd
       - filename: pferd18.jpg
+        alttext: pferd
+      - filename: pferd19.jpg
+        alttext: pferd
+      - filename: pferd20.jpg
+        alttext: pferd  
+      - filename: pferd21.jpg
+        alttext: pferd
+      - filename: pferd22.jpg
+        alttext: pferd
+      - filename: pferd23.jpg
+        alttext: pferd
+      - filename: pferd24.jpg
         alttext: pferd
 ---
 <!-- beschreibender Text hier -->
