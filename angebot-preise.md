@@ -24,7 +24,7 @@ Der Grundpreis enthält:
 - eine Person, ein Tier + eine Person
 - Nachbearbeitung
 - 15 Fotos in hochauflösender Qualität ohne Signatur der Fotografin (der Kunde wählt aus)
-- Fotos auf USB-Stick
+- Fotos auf CD
 
 
 
