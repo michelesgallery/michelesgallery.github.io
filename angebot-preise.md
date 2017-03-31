@@ -10,10 +10,10 @@ Für besondere Wünsche und Geschenkgutscheine können Sie mich unverbindlich an
 
 Angebot | Bezeichnung | Preis 
 ---|---|---|---
-Pferdefotografie | Pferd + Mensch | 220.- |
-Hundefotografie | Hund + Mensch | 190.- | 
+Pferde | Pferd + Mensch | 220.- |
+Kleintiere | Hund/Katze + Mensch | 190.- | 
 People | sinnliche Portraits, Paare, Familien | ab 160.- |
-Reportagen | Motocross, Pferdeturniere, Hochzeit, Taufe, Geburtstag etc. | auf Anfrage | 
+
 
 <br>
 Die Fahrkosten werden mit -.80/km zuzüglich berechnet. 
