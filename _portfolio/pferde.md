@@ -8,53 +8,53 @@ category: [pferd, mensch, tier]
 folder: galerie-pferde
 gallery:
     - images:
-      - filename: pferd1.jpg
-        alttext: pferd
-      - filename: pferd2.jpg
-        alttext: pferd      
-      - filename: pferd3.jpg
-        alttext: pferd
-      - filename: pferd4.jpg
-        alttext: pferd
-      - filename: pferd5.jpg
-        alttext: pferd
-      - filename: pferd6.jpg
-        alttext: pferd
-      - filename: pferd7.jpg
-        alttext: pferd
-      - filename: pferd8.jpg
-        alttext: pferd
-      - filename: pferd9.jpg
-        alttext: pferd
-      - filename: pferd10.jpg
-        alttext: pferd
-      - filename: pferd11.jpg
-        alttext: pferd
-      - filename: pferd12.jpg
-        alttext: pferd
-      - filename: pferd13.jpg
-        alttext: pferd  
-      - filename: pferd14.jpg
-        alttext: pferd
-      - filename: pferd15.jpg
-        alttext: pferd
-      - filename: pferd16.jpg
-        alttext: pferd
-      - filename: pferd17.jpg
-        alttext: pferd
-      - filename: pferd18.jpg
-        alttext: pferd
-      - filename: pferd19.jpg
-        alttext: pferd
-      - filename: pferd20.jpg
-        alttext: pferd  
-      - filename: pferd21.jpg
-        alttext: pferd
-      - filename: pferd22.jpg
-        alttext: pferd
-      - filename: pferd23.jpg
-        alttext: pferd
-      - filename: pferd24.jpg
-        alttext: pferd
+      - filename: pferde1.jpg
+        alttext: pferde
+      - filename: pferde2.jpg
+        alttext: pferd e     
+      - filename: pferde3.jpg
+        alttext: pferde
+      - filename: pferde4.jpg
+        alttext: pferde
+      - filename: pferde5.jpg
+        alttext: pferde
+      - filename: pferde6.jpg
+        alttext: pferde
+      - filename: pferde7.jpg
+        alttext: pferde
+      - filename: pferde8.jpg
+        alttext: pferde
+      - filename: pferde9.jpg
+        alttext: pferde
+      - filename: pferde10.jpg
+        alttext: pferde
+      - filename: pferde11.jpg
+        alttext: pferde
+      - filename: pferd1e2.jpg
+        alttext: pferde
+      - filename: pferde13.jpg
+        alttext: pferd e 
+      - filename: pferde14.jpg
+        alttext: pferde
+      - filename: pferde15.jpg
+        alttext: pferde
+      - filename: pferde16.jpg
+        alttext: pferde
+      - filename: pferde17.jpg
+        alttext: pferde
+      - filename: pferde18.jpg
+        alttext: pferde
+      - filename: pferde19.jpg
+        alttext: pferde
+      - filename: pferde20.jpg
+        alttext: pferd e 
+      - filename: pferde21.jpg
+        alttext: pferde
+      - filename: pferde22.jpg
+        alttext: pferde
+      - filename: pferde23.jpg
+        alttext: pferde
+      - filename: pferde24.jpg
+        alttext: pferde
 ---
 <!-- beschreibender Text hier -->
