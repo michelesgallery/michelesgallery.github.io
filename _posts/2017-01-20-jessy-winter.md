@@ -43,7 +43,7 @@ gallery:
 Bevor der Schnee wieder ganz weg ist, haben Jessy und ich die Zeit noch schnell genützt. 
 Es war ein wundervoller Nachmittag am Sempachersee. Wir haben viel gelacht aber auch gefroren. Unser treffen hat mir wiedermal gezeigt, dass Shootings einfach auch unheimlich viel Spass machen (sollten), natürlich neben den tollen Bildern, die man macht. :D 
 
-Model: Jessy [ihre Fotografieseite:](http://jmw-fotografie.blogspot.ch)
+Model: Jessy [ihre Fotografieseite: HIER](http://jmw-fotografie.blogspot.ch)
 
 
 &lt;3
