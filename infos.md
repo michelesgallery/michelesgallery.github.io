@@ -1,6 +1,6 @@
 ---
 group: navigation-03
-title: Infos
+title: Preise
 ---
 
 Alle Fotoshootings finden Outdoor oder in einer passenden Location statt.
