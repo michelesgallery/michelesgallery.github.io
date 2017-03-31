@@ -30,10 +30,10 @@ gallery:
         alttext: pferde
       - filename: pferde11.jpg
         alttext: pferde
-      - filename: pferd1e2.jpg
+      - filename: pferde2.jpg
         alttext: pferde
       - filename: pferde13.jpg
-        alttext: pferd e 
+        alttext: pferde 
       - filename: pferde14.jpg
         alttext: pferde
       - filename: pferde15.jpg
