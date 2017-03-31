@@ -23,9 +23,9 @@ Die Fahrkosten werden mit -.80/km zuzüglich berechnet.
 
 Der Grundpreis enthält:
 - Shooting von 1.5-2h
-- eine Person, ein Tier + eine Person
 - Nachbearbeitung
-- 15 Fotos in hochauflösender Qualität ohne Signatur der Fotografin (der Kunde wählt aus)
+- Onlinegalerie zur Auswahl der Fotos
+- 12 Fotos in hochauflösender Qualität ohne Signatur der Fotografin 
 - Fotos auf CD
 
 
