@@ -11,5 +11,4 @@ Telefon: 079 261 01 26
 Standort: 
 
 Einhard-Weg 5
-
 Schwerzenbach ZH
