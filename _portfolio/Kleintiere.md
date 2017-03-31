@@ -1,7 +1,7 @@
 ---
 parent-id: galerie
 number: 2
-title: Hunde & Katzen
+title: Kleintiere
 subtitle: der beste Freund des Menschen
 category: [hund, mensch, tier]
 # header-pic: hund3.jpg
