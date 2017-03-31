@@ -5,7 +5,7 @@ title: Motocross
 subtitle: Stilvolle Mx-Fotos in top Qualität
 category: [motocross, mensch, sport]
 # header-pic: motocross1.jpg
-folder: galerie-motocross
+folder: galerie-mx
 gallery:
     - images:
       - filename: motocross1.jpg
