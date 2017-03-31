@@ -2,7 +2,7 @@
 parent-id: galerie
 number: 1
 title: Pferde
-subtitle: majestätische Vierbeiner
+subtitle: 
 category: [pferd, mensch, tier]
 # header-pic: pferd1.jpg
 folder: galerie-pferd
