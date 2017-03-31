@@ -1,5 +1,5 @@
 ---
-title: Babybauchshooting November
+title: Babybauchshooting 
 header-pic: bb9.jpg
 # header: true
 # site-title-display: false
