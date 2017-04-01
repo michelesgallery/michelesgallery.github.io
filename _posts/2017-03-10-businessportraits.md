@@ -18,8 +18,6 @@ gallery:
         alttext: p
       - filename: p6.jpg
         alttext: p
-      - filename: p7.jpg
-        alttext: p
 
 ---
 

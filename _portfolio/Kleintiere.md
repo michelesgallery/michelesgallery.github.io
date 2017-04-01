@@ -1,8 +1,8 @@
 ---
 parent-id: galerie
 number: 2
-title: Haustiere
-subtitle: 
+title: Kleintiere
+subtitle: Hunde & Katzen
 category: [hund, mensch, tier]
 # header-pic: hund3.jpg
 folder: galerie-kleintiere
@@ -57,6 +57,18 @@ gallery:
       - filename: k24.jpg
         alttext: k
       - filename: k25.jpg
+        alttext: k
+      - filename: k26.jpg
+        alttext: k
+      - filename: k27.jpg
+        alttext: k
+      - filename: k28.jpg
+        alttext: k
+      - filename: k29.jpg
+        alttext: k
+      - filename: k30.jpg
+        alttext: k
+      - filename: k31.jpg
         alttext: k
 ---
 <!-- beschreibender Text hier -->
