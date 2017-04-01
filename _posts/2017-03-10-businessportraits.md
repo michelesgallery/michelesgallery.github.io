@@ -16,8 +16,6 @@ gallery:
         alttext: p
       - filename: p5.jpg
         alttext: p
-      - filename: p6.jpg
-        alttext: p
 
 ---
 
