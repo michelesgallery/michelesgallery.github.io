@@ -12,9 +12,9 @@ Für besondere Wünsche und Geschenkgutscheine können Sie mich unverbindlich an
 
 Angebot | Bezeichnung | Preis 
 ---|---|---|---
-Pferde | Pferd + Mensch | 220.- |
-Kleintiere | Hund/Katze + Mensch | 190.- | 
-People | sinnliche Portraits, Paare, Familien | ab 160.- |
+Pferd | Pferd + Mensch | ab 220.- |
+Hund/Katze | Hund/Katze + Mensch | ab 190.- | 
+Mensch | Einzelportraits, Paare, Familien | ab 160.- |
 
 
 <br>
@@ -31,7 +31,6 @@ Der Grundpreis enthält:
 
 
 Mögliche Zusatzkosten:
--   Styling 
 -   weitere Bilder: 10.-/Bild
 -   weitere Personen/Hunde (2h): je 30.-
 -   weitere Pferde (2 - 3h): je 60.-
