@@ -8,13 +8,19 @@ side-img-file: michele-dekker1.jpg
 
 
 
-Fotografieren ist meine grosse Leidenschaft.
+Die Fotografie hat mich gefunden und ist nun meine grosse Leidenschaft.
+Es fasziniert mich Bilder zu kreieren, die emotional sind. Dazu gehört ein 
+geschultes Auge für das Licht und den Hintergrund, sowie die Fähigkeit die Modelle
+richtig in Szene zu setzen. Das perfekte Zusammenspiel dieser genannten Faktoren 
+ist mir sehr wichtig. 
+Da ich mit Pferden, Hunden und Katzen aufgewachsen bin, liegt mir die Tierfotografie sehr am Herzen. 
+
 
 
 
 Mein fotografischer Werdegang:
 
-2013: Grundkurs bei Daniel Werder ([www.fotowerder.ch])(http://fotowerder.ch)
+2013: Grundkurs bei Daniel Werder [www.fotowerder.ch](http://fotowerder.ch)
 
 2014: Portraitkurs und 2 monatiges Praktikum bei Daniel Werder [www.fotowerder.ch](http://fotowerder.ch)
 
