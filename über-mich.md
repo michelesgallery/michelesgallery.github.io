@@ -8,17 +8,17 @@ side-img-file: michele-dekker1.jpg
 
 
 
-Fotografieren ist meine grosse Leidenschaft. 
-Fotografie bedeutet für mich Kunst, Inspiration und 
-Motivation in Einem. Fotos übermitteln mehr als nur 
-Bilder. Sie lassen Gefühle und Träume entstehen 
-und entführen uns in eine Wunderwelt.
+Fotografieren ist meine grosse Leidenschaft.
 
-Pferde – eine weitere Leidenschaft von mir. 
-Auf dem Rücken eines Pferdes zu sitzen, lässt ein 
-Gefühl der Freiheit entstehen. Das fasziniert mich 
-gleichermassen, wie ihre majestätische Ausstrahlung, 
-die sie auch auf den Bildern zum Ausdruck bringen.
+
+
+Mein fotografischer Werdegang:
+
+2013: Grundkurs bei Daniel Werder [www.fotowerder.ch](http://fotowerder.ch)
+2014: Portraitkurs und 2 monatiges Praktikum bei Daniel Werder [www.fotowerder.ch](http://fotowerder.ch)
+2016: "Sensual-Dream" - Workshop bei Roger Schüeber [www.snapshooter.ch](https://www.snapshooter.ch)
+
+
 
 Neben dem Fotografieren studiere ich zur Zeit 
 Rechtswissenschaften an der Universität Luzern.
