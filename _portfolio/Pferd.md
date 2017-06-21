@@ -56,5 +56,11 @@ gallery:
         alttext: pferde
       - filename: pferde24.jpg
         alttext: pferde
+      - filename: pferde25.jpg
+        alttext: pferde
+      - filename: pferde26.jpg
+        alttext: pferde
+      - filename: pferde27.jpg
+        alttext: pferde
 ---
 <!-- beschreibender Text hier -->
