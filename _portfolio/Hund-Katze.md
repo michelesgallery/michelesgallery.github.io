@@ -70,5 +70,11 @@ gallery:
         alttext: k
       - filename: k31.jpg
         alttext: k
+      - filename: k32.jpg
+        alttext: k
+      - filename: k33.jpg
+        alttext: k
+      - filename: k34.jpg
+        alttext: k
 ---
 <!-- beschreibender Text hier -->
