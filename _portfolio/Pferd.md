@@ -62,5 +62,7 @@ gallery:
         alttext: pferde
       - filename: pferd27.jpg
         alttext: pferde
+      - filename: pferd28.jpg
+        alttext: pferde
 ---
 <!-- beschreibender Text hier -->
