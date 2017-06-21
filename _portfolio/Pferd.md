@@ -10,57 +10,57 @@ gallery:
     - images:
       - filename: pferd1.jpg
         alttext: pferd
-      - filename: pferde2.jpg
+      - filename: pferd2.jpg
         alttext: pferde     
-      - filename: pferde3.jpg
+      - filename: pferd3.jpg
         alttext: pferde
-      - filename: pferde4.jpg
+      - filename: pferd4.jpg
         alttext: pferde
-      - filename: pferde5.jpg
+      - filename: pferd5.jpg
         alttext: pferde
-      - filename: pferde6.jpg
+      - filename: pferd6.jpg
         alttext: pferde
-      - filename: pferde7.jpg
+      - filename: pferd7.jpg
         alttext: pferde
-      - filename: pferde8.jpg
+      - filename: pferd8.jpg
         alttext: pferde
-      - filename: pferde9.jpg
+      - filename: pferd9.jpg
         alttext: pferde
-      - filename: pferde10.jpg
+      - filename: pferd10.jpg
         alttext: pferde
-      - filename: pferde11.jpg
+      - filename: pferd11.jpg
         alttext: pferde
-      - filename: pferde12.jpg
+      - filename: pferd12.jpg
         alttext: pferde
-      - filename: pferde13.jpg
+      - filename: pferd13.jpg
         alttext: pferde 
-      - filename: pferde14.jpg
+      - filename: pferd14.jpg
         alttext: pferde
-      - filename: pferde15.jpg
+      - filename: pferd15.jpg
         alttext: pferde
-      - filename: pferde16.jpg
+      - filename: pferd16.jpg
         alttext: pferde
-      - filename: pferde17.jpg
+      - filename: pferd17.jpg
         alttext: pferde
-      - filename: pferde18.jpg
+      - filename: pferd18.jpg
         alttext: pferde
-      - filename: pferde19.jpg
+      - filename: pferd19.jpg
         alttext: pferde
-      - filename: pferde20.jpg
-        alttext: pferd e 
-      - filename: pferde21.jpg
+      - filename: pferd20.jpg
+        alttext: pferde 
+      - filename: pferd21.jpg
         alttext: pferde
-      - filename: pferde22.jpg
+      - filename: pferd22.jpg
         alttext: pferde
-      - filename: pferde23.jpg
+      - filename: pferd23.jpg
         alttext: pferde
-      - filename: pferde24.jpg
+      - filename: pferd24.jpg
         alttext: pferde
-      - filename: pferde25.jpg
+      - filename: pferd25.jpg
         alttext: pferde
-      - filename: pferde26.jpg
+      - filename: pferd26.jpg
         alttext: pferde
-      - filename: pferde27.jpg
+      - filename: pferd27.jpg
         alttext: pferde
 ---
 <!-- beschreibender Text hier -->
