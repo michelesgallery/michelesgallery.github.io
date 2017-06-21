@@ -80,6 +80,10 @@ gallery:
         alttext: portrait
       - filename: portrait44.jpg
         alttext: portrait
+      - filename: portrait45.jpg
+        alttext: portrait
+      - filename: portrait46.jpg
+        alttext: portrait
         
 ---
 <!-- beschreibender Text hier -->
