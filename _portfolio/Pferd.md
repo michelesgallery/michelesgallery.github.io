@@ -8,7 +8,7 @@ category: [pferd, mensch, tier]
 folder: galerie-pferde
 gallery:
     - images:
-      - filename: pferde1.jpg
+      - filename: pferd1.jpg
         alttext: pferd
       - filename: pferde2.jpg
         alttext: pferde     
