@@ -11,7 +11,7 @@ gallery:
       - filename: pferde1.jpg
         alttext: pferde
       - filename: pferde2.jpg
-        alttext: pferd e     
+        alttext: pferde     
       - filename: pferde3.jpg
         alttext: pferde
       - filename: pferde4.jpg
