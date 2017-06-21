@@ -4,12 +4,12 @@ number: 1
 title: Pferd
 subtitle: 
 category: [pferd, mensch, tier]
-# header-pic: pferd1.jpg
+# header-pic: pferde1.jpg
 folder: galerie-pferde
 gallery:
     - images:
       - filename: pferde1.jpg
-        alttext: pferde
+        alttext: pferd
       - filename: pferde2.jpg
         alttext: pferde     
       - filename: pferde3.jpg
