@@ -1,0 +1,19 @@
+doctype html
+html(lang="de")
+
+    include includes/head.pug
+
+    body.index(class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %}")
+        
+        include includes/nav.pug
+        
+        .image-wrapper
+            img(src="{{ site.img_dir }}/slider/placeholder.jpg")            
+            | {{ content }}
+            span.logo
+                img(src="{{ site.img_dir }}/logo_weiss.png", alt="michèle dekker logo") 
+                    
+        include includes/footer.pug
+        
+    // body end
+// html end

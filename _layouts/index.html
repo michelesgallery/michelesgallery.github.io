@@ -21,7 +21,7 @@
         <div class="left"><span class="toggle menu-toggle">Menu</span>
           <ul class="responsive">
             <li><span class="toggle"><i class="fa fa-close"></i></span></li>
-            <li>       <a href="{{ base }}/" class="homelink {% if page.title == 'Home' %}active{% endif %}"><span>Home</span></a></li>{% assign pages_list = site.pages | sort:"group" %}
+            <li>       <a class="homelink {% if page.title == 'Home' %}active{% endif %}" href="{{ base }}/"><span>Home</span></a></li>{% assign pages_list = site.pages | sort:"group" %}
             {% assign group = 'navigation' %}{% for item in pages_list %}
     {% if group == null or item.group contains group %}
         <li>
@@ -48,12 +48,12 @@
       <!-- .menu end-->
     </nav>
     <!-- nav end-->
-    <div class="head"><img src="{{ site.img_dir }}/michele-dekker-logo.png" alt="michèle dekker logo"></div>{{ content }}
+    <div class="image-wrapper"><img src="{{ site.img_dir }}/slider/placeholder.jpg">{{ content }}<span class="logo"><img src="{{ site.img_dir }}/logo_weiss.png" alt="michèle dekker logo"></span></div>
     <footer>
       <div class="foot">
         <div class="container">
-          <div class="left"><span class="copyright"><i class="fa fa-copyright"></i> {{ site.name }}</span>&nbsp;&middot;&nbsp;<span class="copyright">Webdesign and <i class="fa fa-code"></i> by <a href="http://halfapx.com">&frac12; a px&period;</a></span>&nbsp;&middot;&nbsp;<span class="year">2016</span></div>
-          <div class="right"><a href="https://www.facebook.com/michelesgallery/"><i class="fa fa-facebook"></i></a>&nbsp;<a href="https://www.instagram.com/michelesgallery/"><i class="fa fa-instagram"></i></a>{% if page.layout == "post" %}
+          <div class="left"><span class="copyright"><i class="fa fa-copyright"></i> {{ site.name }}</span>&nbsp;&middot;&nbsp;<span class="copyright">Webdesign and <i class="fa fa-code"></i> by <a href="http://halfapx.com">&frac12; a px&period;</a></span>&nbsp;&middot;&nbsp;<span class="year">2017</span></div>
+          <div class="right"><a href="{{ site.facebook }}"><i class="fa fa-facebook"></i></a>&nbsp;<a href="{{ site.instagram }}"><i class="fa fa-instagram"></i></a>{% if page.layout == "post" %}
             &nbsp;<span class="backtotop">back to top</span>{% endif %}
           </div>
         </div>

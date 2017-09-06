@@ -1,13 +1,13 @@
 doctype html
 html(lang="{{page.lang}}")
 
-    include includes/head.jade
+    include includes/head.pug
 
-    body.page.portfolio.post(class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %} {{ page.lang | prepend: 'lang-' }}")
+    body.page.post(class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %} {{ page.lang | prepend: 'lang-' }}")
     
-        include includes/nav.jade
+        include includes/nav.pug
         
-        include includes/header.jade
+        include includes/header.pug
 
         .wrapper
             section.main_container
@@ -16,16 +16,15 @@ html(lang="{{page.lang}}")
                     
                         .title
                             h1 {{ page.title }}
-                            {% if page.subtitle %}
+                            | {% if page.subtitle %}
                             h2.subtitle {{ page.subtitle }}
-                            {% endif %}
+                            | {% endif %}
                             
-                        // - 
-                            .meta
-                                here would be the place for things like date, category, tags or other info
-                        
+                        .meta
+                            span.date {% include date.html %}
+                                
                         .content {{ content }}
-                            {% include gallery.html %}
+                            | {% include gallery_basic.html %}
 
                         include includes/disqus.html
                         
@@ -36,7 +35,7 @@ html(lang="{{page.lang}}")
             // section end
         // .wrapper end
         
-        include includes/footer.jade
+        include includes/footer.pug
 
     // body end
 // html end

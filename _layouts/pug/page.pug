@@ -1,38 +1,38 @@
 doctype html
 html(lang="{{page.lang}}")
-    include includes/head.jade
+    include includes/head.pug
 
     body.page(class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %} {{ page.lang | prepend: 'lang-' }}")
-        include includes/nav.jade
+        include includes/nav.pug
         
-        include includes/header.jade
+        include includes/header.pug
 
         .wrapper
             section.main_container
                 .container
                     article
-                        {% if page.page-title == "yes" %}
+                        | {% if page.page-title == "yes" %}
                         h1.title {{ page.title }}
-                        {% endif %}
+                        | {% endif %}
                         
-                        {% if page.subtitle %}
+                        | {% if page.subtitle %}
                         h2.subtitle {{ page.subtitle }}
-                        {% endif %}
+                        | {% endif %}
                         
                         div(class="content {% if page.side-img == true %}has-side-img{%endif%}")
-                            {% if page.side-img == true %}
+                            | {% if page.side-img == true %}
                             .side-img
                                 img(src="{{ site.img_dir }}/{{ page.side-img-file }}", alt="{{ page.side-img-file }}")
                             .side-content {{ content }}
-                            {% else %}
-                            {{ content }}
-                            {% endif %}
+                            | {% else %}
+                            | {{ content }}
+                            | {% endif %}
                     // article end
                 // .container end
             // section end
         // .wrapper end
 
-        include includes/footer.jade
+        include includes/footer.pug
         
     // body end
 // html end

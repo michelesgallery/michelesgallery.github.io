@@ -10,8 +10,8 @@ nav.open
                 li        
                     a(href="{{ base }}/", class="homelink {% if page.title == 'Home' %}active{% endif %}")
                         span Home
-                {% assign pages_list = site.pages | sort:"group" %}
-                {% assign group = 'navigation' %}
+                | {% assign pages_list = site.pages | sort:"group" %}
+                | {% assign group = 'navigation' %}
                 include menu_content.html
             // .responsive end
         //- .center

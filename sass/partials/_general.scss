@@ -1,12 +1,12 @@
 .pagination{
     @include clearfix();
-    
+
     .prev{
         float: left;
         @extend .btn;
         line-height: 1.5 !important;
     }
-    
+
     .next{
         float: right;
         @extend .btn;
@@ -19,10 +19,10 @@
     &:after {
         content: ",";
     }
-    
+
     &:last-of-type:after{
         content: "";
-    }    
+    }
 }
 
 .btn {
@@ -34,24 +34,31 @@
     line-height: 2.5;
     margin: 7px;
     font-weight: $main-font-weight;
-    
+
     &:hover {
         color: $color-3;
-        cursor: pointer; 
-    }    
+        cursor: pointer;
+    }
 }
 
 input,
 textarea {
+    width: 100%;
     font-family: $main-font;
     font-size: $root-font-size;
     font-weight: $main-font-weight;
-    
+
     &.btn{
-        line-height: $basic-line-height;     
+        line-height: $basic-line-height;
+        width: auto;
+        margin-left: 0;
     }
 }
 
+label{
+    margin-top: 5px;
+    display: block;
+}
 // Tables
 table,
 th,
@@ -199,7 +206,7 @@ p + {
         padding-bottom: 30px;
         border-bottom: $line;
         margin-bottom: 30px;
-        
+
         &.has-feat-img{
             @include flexbox(row, wrap, space-between, flex-start);
 
@@ -223,13 +230,13 @@ p + {
             .post-info{
                 width: 70%;
             }
-            
+
             @media screen and (max-width: $feat-img-hiding-point){
-                .feat-img{ 
-                    display: none; 
+                .feat-img{
+                    display: none;
                 }
                 .post-info{
-                    width: 100%; 
+                    width: 100%;
                 }
             }
         }
@@ -258,7 +265,7 @@ p + {
                     margin-bottom: 35px;
                     width: 100%;
                 }
-                
+
             }
 
             .sidebar{
@@ -267,7 +274,7 @@ p + {
                 border: 1px solid rgba(black, .1);
                 border-radius: 3px;
                 width: 100%;
-                
+
                 @media screen and (min-width: $sidebar-collapse + 1){
                     width: 300px;
                     margin-left: 20px;
@@ -278,10 +285,10 @@ p + {
 }
 
 %head-color{
-    color: $darkgreen;    
+    color: $darkgreen;
 }
 
-@for $i from 1 through 6 {    
+@for $i from 1 through 6 {
     h#{$i} {
         @extend %head-color;
     }
@@ -303,4 +310,17 @@ p + {
 p{
     font-size: 1.1em;
     color: saturate($darkpurple, 40%);
+}
+
+.parted{
+    @include flexbox(row, wrap, space-between, flex-start);
+    margin-top: 20px;
+
+    > div{
+        width: 50%;
+        box-sizing: border-box;
+        @media screen and (max-width: 700px){
+          width: 100%;
+        }
+    }
 }

@@ -3,20 +3,20 @@ footer
         .container
             .left
                 span.copyright #[i.fa.fa-copyright] {{ site.name }}
-                &nbsp;&middot;&nbsp;
+                | &nbsp;&middot;&nbsp;
                 span.copyright Webdesign and #[i.fa.fa-code] by #[a(href="http://halfapx.com") &frac12; a px&period;]
-                &nbsp;&middot;&nbsp;
-                span.year 2016
+                | &nbsp;&middot;&nbsp;
+                span.year 2017
             .right
-                a(href="https://www.facebook.com/michelesgallery/")
+                a(href="{{ site.facebook }}")
                     i.fa.fa-facebook
-                &nbsp;
-                a(href="https://www.instagram.com/michelesgallery/")
+                | &nbsp;
+                a(href="{{ site.instagram }}")
                     i.fa.fa-instagram
-                {% if page.layout == "post" %}
-                &nbsp;
+                | {% if page.layout == "post" %}
+                | &nbsp;
                 span.backtotop back to top
-                {% endif %}
+                | {% endif %}
         // .container end
     // .foot end
 // footer end

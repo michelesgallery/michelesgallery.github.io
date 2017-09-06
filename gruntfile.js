@@ -48,7 +48,7 @@ module.exports = function(grunt) {
 
         sass: {
             options: {
-                outputStyle: 'compressed',
+                outputStyle: 'compressed'
             },
             main: {
                 files: [{
@@ -63,23 +63,16 @@ module.exports = function(grunt) {
 
         postcss: {
             options: {
-                map: false,
                 processors: [
-                    require('autoprefixer')({browsers: '> 1%'}), // add vendor prefixes
+                    require('autoprefixer')({browsers: '> 1%'})
                 ]
             },
             dist: {
-                files: [{
-                    expand: true,
-                    cwd: '',
-                    src: ['{,*/}{,*/}{,*/}{,*/}*.css'],
-                    dest: '',
-                    ext: '.css'
-                }]
+                src: 'jekyllbuild/css/*.css'
             }
         },
 
-        jade: {
+        pug: {
             compile: {
                 options: {
                     pretty: true
@@ -87,7 +80,7 @@ module.exports = function(grunt) {
                 files: [{
                     expand: true,
                     cwd: '',
-                    src: [ '_layouts/jade/*.jade' ],
+                    src: [ '_layouts/pug/*.pug' ],
                     dest: '_layouts',
                     flatten: true,
                     ext: '.html'
@@ -151,9 +144,9 @@ module.exports = function(grunt) {
                 files: ['js/{,*/}*.js'],
                 tasks: ["uglify"]
             },
-            jade: {
-                files: ["{,*/}{,*/}{,*/}*.jade", "_layouts/jade/{,*/}*.html", "demo/{,*/}*.jade", "!jekyllbuild/**"],
-                tasks: ["jade"]
+            pug: {
+                files: ["{,*/}{,*/}{,*/}*.pug", "_layouts/pug/{,*/}*.html", "demo/{,*/}*.pug", "!jekyllbuild/**"],
+                tasks: ["pug"]
             },
             css: {
                 files: ["sass/{,*/}{,*/}{,*/}*.scss"],
@@ -173,9 +166,9 @@ module.exports = function(grunt) {
     require('load-grunt-tasks')(grunt);
 
     // Default task(s).
-    grunt.registerTask("default", ["responsive_images", "uglify", "sass", "postcss", "jade", "shell:jekyllBuild", "open", "watch"]);
+    grunt.registerTask("default", ["responsive_images", "uglify", "sass", "postcss", "pug", "shell:jekyllBuild", "open", "watch"]);
     grunt.registerTask("serve", ["shell:jekyllServe"]);
-    grunt.registerTask("build", ["responsive_images", "uglify", "sass", "postcss", "jade", "shell:jekyllBuild"]);
+    grunt.registerTask("build", ["responsive_images", "uglify", "sass", "postcss", "pug", "shell:jekyllBuild"]);
     grunt.registerTask("post", ["responsive_images", "shell:jekyllBuild", "open", "watch"]);
     grunt.registerTask("deploy", ["minifyHtml", "buildcontrol:pages"]);
     grunt.registerTask("deploy-pretty", ["prettify", "buildcontrol:pages"]);

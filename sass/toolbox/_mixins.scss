@@ -7,14 +7,57 @@
         $p: (($i * $img-width) + ($i * $dur));
         $l: ($i * 100% * -1);
         $s: $p + $img-width;
-        
+
         #{$p} { left: $l; }
-        
+
         @if $s <= 100% {
             #{$s} { left: $l; }
         }
     }
 }
+
+@mixin generate-fades($numSlides){
+    $fadeoutTime: 100% / $numSlides;
+    $fadePercentage: 5%;
+
+    0%{
+        opacity: 1;
+    }
+    #{$fadeoutTime - $fadePercentage}{
+        opacity: 1;
+    }
+    #{$fadeoutTime}{
+        opacity: 0;
+    }
+    #{100% - $fadePercentage}{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+@mixin generate-slide-content-keyframes($picNum, $total){
+    $i: $picNum - 1;
+    $img-width: (100 / $total);
+    $dur: (100% * ($total - ($total - 1))) / ($total * ($total - 1));
+    $p: (($i * $img-width) + ($i * $dur));
+    $s: $p + $img-width;
+
+    #{$p} {
+        opacity: 0;
+    }
+    #{$p + .1}{
+        opacity: 1;
+    }
+    #{$s - .1}{
+        opacity: 1;
+    }
+    #{$s} {
+        opacity: 0;
+    }
+}
+
 
 // TOOLBOX MIXINS
 //---------------------------------------------------------------------

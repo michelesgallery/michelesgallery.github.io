@@ -21,7 +21,7 @@
         <div class="left"><span class="toggle menu-toggle">Menu</span>
           <ul class="responsive">
             <li><span class="toggle"><i class="fa fa-close"></i></span></li>
-            <li>       <a href="{{ base }}/" class="homelink {% if page.title == 'Home' %}active{% endif %}"><span>Home</span></a></li>{% assign pages_list = site.pages | sort:"group" %}
+            <li>       <a class="homelink {% if page.title == 'Home' %}active{% endif %}" href="{{ base }}/"><span>Home</span></a></li>{% assign pages_list = site.pages | sort:"group" %}
             {% assign group = 'navigation' %}{% for item in pages_list %}
     {% if group == null or item.group contains group %}
         <li>
@@ -48,9 +48,9 @@
       <!-- .menu end-->
     </nav>
     <!-- nav end-->
-    <header style="background-image: {% if page.header-pic and page.header == true %}url({{ site.img_dir | prepend: base }}/{{ page.header-pic }}){% else %}none{% endif %}" class="header">
+    <header class="header" style="background-image: {% if page.header-pic and page.header == true %}url({{ site.img_dir | prepend: base }}/{{ page.header-pic }}){% else %}none{% endif %};">
       <div class="container">
-        <h1 style="{% if page.site-title-display == false %}opacity: 0{% else %}opacity: 1{% endif %}"><a href="{{ base }}/" class="homelink"><img src="{{ site.img_dir }}/michele-dekker-logo.png" alt="michèle dekker logo"></a></h1>
+        <h1 style="{% if page.site-title-display == false %}opacity: 0{% else %}opacity: 1{% endif %};"><a class="homelink" href="{{ base }}/"><img src="{{ site.img_dir }}/michele-dekker-logo.png" alt="michèle dekker logo"></a></h1>
       </div>
       <!-- .container end-->
     </header>
@@ -69,9 +69,7 @@
             
             -->
             <div class="content">
-              {{ content }}
-              {% include gallery.html %}
-            </div><!-- include your disqus code here for comments -->{% assign  document = site.posts | sort: "date" | reversed %}
+              {{ content }}{% include gallery.html %}</div><!-- include your disqus code here for comments -->{% assign  document = site.posts | sort: "date" | reversed %}
 {% for links in document %}
     {% if links.title == page.title %}
         {% unless forloop.first %}
@@ -117,8 +115,8 @@
     <footer>
       <div class="foot">
         <div class="container">
-          <div class="left"><span class="copyright"><i class="fa fa-copyright"></i> {{ site.name }}</span>&nbsp;&middot;&nbsp;<span class="copyright">Webdesign and <i class="fa fa-code"></i> by <a href="http://halfapx.com">&frac12; a px&period;</a></span>&nbsp;&middot;&nbsp;<span class="year">2016</span></div>
-          <div class="right"><a href="https://www.facebook.com/michelesgallery/"><i class="fa fa-facebook"></i></a>&nbsp;<a href="https://www.instagram.com/michelesgallery/"><i class="fa fa-instagram"></i></a>{% if page.layout == "post" %}
+          <div class="left"><span class="copyright"><i class="fa fa-copyright"></i> {{ site.name }}</span>&nbsp;&middot;&nbsp;<span class="copyright">Webdesign and <i class="fa fa-code"></i> by <a href="http://halfapx.com">&frac12; a px&period;</a></span>&nbsp;&middot;&nbsp;<span class="year">2017</span></div>
+          <div class="right"><a href="{{ site.facebook }}"><i class="fa fa-facebook"></i></a>&nbsp;<a href="{{ site.instagram }}"><i class="fa fa-instagram"></i></a>{% if page.layout == "post" %}
             &nbsp;<span class="backtotop">back to top</span>{% endif %}
           </div>
         </div>
