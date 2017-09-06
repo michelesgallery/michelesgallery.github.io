@@ -168,7 +168,7 @@ module.exports = function(grunt) {
     // Default task(s).
     grunt.registerTask("default", ["responsive_images", "uglify", "sass", "postcss", "pug", "shell:jekyllBuild", "open", "watch"]);
     grunt.registerTask("serve", ["shell:jekyllServe"]);
-    grunt.registerTask("build", ["responsive_images", "uglify", "sass", "postcss", "pug", "shell:jekyllBuild"]);
+    grunt.registerTask("build", ["uglify", "sass", "postcss", "pug", "shell:jekyllBuild"]);
     grunt.registerTask("post", ["responsive_images", "shell:jekyllBuild", "open", "watch"]);
     grunt.registerTask("deploy", ["minifyHtml", "buildcontrol:pages"]);
     grunt.registerTask("deploy-pretty", ["prettify", "buildcontrol:pages"]);

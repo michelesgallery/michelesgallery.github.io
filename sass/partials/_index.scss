@@ -92,6 +92,7 @@ $animation-time: $slide-time * $amount-slider-imgs;
         background: rgba(white, 0.2);
         box-sizing: border-box;
         z-index: 100;
+        left: 0;
         img {
             width: 30%;
             max-width: 300px;
