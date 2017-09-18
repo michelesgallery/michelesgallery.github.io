@@ -1,7 +1,7 @@
 ---
 parent-id: galerie
 number: 3
-title: Mensch
+title: Menschen
 subtitle: Einzelportraits - Paare - Familien
 category: [portrait, mensch]
 # header-pic: portrait2.jpg
