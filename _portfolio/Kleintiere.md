@@ -4,7 +4,7 @@ number: 2
 title: Kleintiere
 subtitle: 
 category: [hund, mensch, tier]
-# header-pic: hund3.jpg
+# header-pic: k1.jpg
 folder: galerie-kleintiere
 gallery:
     - images:
