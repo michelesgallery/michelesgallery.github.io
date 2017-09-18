@@ -1,7 +1,7 @@
 ---
 parent-id: galerie
 number: 2
-title: Hund/Katze
+title: Kleintiere
 subtitle: 
 category: [hund, mensch, tier]
 # header-pic: hund3.jpg
