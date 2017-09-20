@@ -119,6 +119,11 @@ $animation-time: $slide-time * $amount-slider-imgs;
         a{
             color: white;
         }
+        .responsive.active{
+            a{
+                color: $nav-color;
+            }
+        }
     }
     footer{
         position: fixed;
