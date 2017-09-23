@@ -1,6 +1,6 @@
 ---
 group: "navigation-01"
-title: Michèle Dekker
+title: Michèle 
 description: Ein paar Worte über mich.
 side-img: true
 side-img-file: michele-dekker.jpg
