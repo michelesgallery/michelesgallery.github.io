@@ -7,7 +7,7 @@ side-img-file: michele-dekker.jpg
 ---
 
 
-
+<br>
 Die Fotografie hat mich gefunden und ist nun meine grosse Leidenschaft.
 Es fasziniert mich Bilder zu kreieren, die emotional sind. Dazu gehört ein 
 geschultes Auge für das Licht und den Hintergrund, sowie die Fähigkeit die Modelle
@@ -24,8 +24,9 @@ Mein fotografischer Werdegang:
 
 2016: "Sensual-Dream" - Workshop bei [Roger Schüeber](https://www.snapshooter.ch)
 
-2017: Pferdefotografie-Workshop bei [Alexandra Evang](http://www.alexandraevang.de)
+2017: Pferdefotografie Workshop bei [Alexandra Evang](http://www.alexandraevang.de)
 
+2017: Pferdefotografie Coaching bei [Carina Maiwald](http://www.fotografie-maiwald.com)
 
 <br>
 Neben dem Fotografieren studiere ich zur Zeit 
