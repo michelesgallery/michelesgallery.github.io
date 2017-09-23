@@ -20,7 +20,7 @@ gallery:
         alttext: pferde
       - filename: pferd55.jpg
         alttext: pferde
-      - filename: pferd70.jpg
+      - filename: pferd56.jpg
         alttext: pferde
       - filename: pferd57.jpg
         alttext: pferde
