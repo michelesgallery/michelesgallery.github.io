@@ -8,7 +8,7 @@ category: [pferd, mensch, tier]
 folder: galerie-pferde
 gallery:
     - images:
-      - filename: pferd0.jpg
+      - filename: pferd50.jpg
         alttext: pferd
       - filename: pferd51.jpg
         alttext: pferde     
@@ -20,7 +20,7 @@ gallery:
         alttext: pferde
       - filename: pferd55.jpg
         alttext: pferde
-      - filename: pferd56.jpg
+      - filename: pferd70.jpg
         alttext: pferde
       - filename: pferd57.jpg
         alttext: pferde
