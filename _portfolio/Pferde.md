@@ -1,7 +1,7 @@
 ---
 parent-id: galerie
 number: 1
-title: Pferde & Menschen
+title: Pferde 
 subtitle: 
 category: [pferd, mensch, tier]
 # header-pic: pferde1.jpg
@@ -42,26 +42,7 @@ gallery:
         alttext: pferde
       - filename: pferd17.jpg
         alttext: pferde
-      - filename: pferd18.jpg
-        alttext: pferde
-      - filename: pferd19.jpg
-        alttext: pferde
-      - filename: pferd20.jpg
-        alttext: pferde 
-      - filename: pferd21.jpg
-        alttext: pferde
-      - filename: pferd22.jpg
-        alttext: pferde
-      - filename: pferd23.jpg
-        alttext: pferde
-      - filename: pferd24.jpg
-        alttext: pferde
-      - filename: pferd25.jpg
-        alttext: pferde
-      - filename: pferd26.jpg
-        alttext: pferde
-      - filename: pferd27.jpg
-        alttext: pferde
+
 
 ---
 <!-- beschreibender Text hier -->
