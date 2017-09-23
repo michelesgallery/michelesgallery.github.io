@@ -8,41 +8,42 @@ category: [pferd, mensch, tier]
 folder: galerie-pferde
 gallery:
     - images:
-      - filename: pferd1.jpg
+      - filename: pferd30.jpg
         alttext: pferd
-      - filename: pferd2.jpg
+      - filename: pferd31.jpg
         alttext: pferde     
-      - filename: pferd3.jpg
+      - filename: pferd32.jpg
         alttext: pferde
-      - filename: pferd4.jpg
+      - filename: pferd33.jpg
         alttext: pferde
-      - filename: pferd5.jpg
+      - filename: pferd34.jpg
         alttext: pferde
-      - filename: pferd6.jpg
+      - filename: pferd35.jpg
         alttext: pferde
-      - filename: pferd7.jpg
+      - filename: pferd36.jpg
         alttext: pferde
-      - filename: pferd8.jpg
+      - filename: pferd37.jpg
         alttext: pferde
-      - filename: pferd9.jpg
+      - filename: pferd38.jpg
         alttext: pferde
-      - filename: pferd10.jpg
+      - filename: pferd39.jpg
         alttext: pferde
-      - filename: pferd11.jpg
+      - filename: pferd40.jpg
         alttext: pferde
-      - filename: pferd12.jpg
+      - filename: pferd41.jpg
         alttext: pferde
-      - filename: pferd13.jpg
+      - filename: pferd42.jpg
         alttext: pferde 
-      - filename: pferd14.jpg
+      - filename: pferd43.jpg
         alttext: pferde
-      - filename: pferd15.jpg
+      - filename: pferd44.jpg
         alttext: pferde
-      - filename: pferd16.jpg
+      - filename: pferd45.jpg
         alttext: pferde
-      - filename: pferd17.jpg
+      - filename: pferd46.jpg
         alttext: pferde
-
+      - filename: pferd47.jpg
+        alttext: pferde
 
 ---
 <!-- beschreibender Text hier -->
