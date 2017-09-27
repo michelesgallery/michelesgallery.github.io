@@ -8,27 +8,40 @@ side-img-file: michele-dekker.jpg
 
 
 <br>
-Die Fotografie hat mich gefunden und ist nun meine grosse Leidenschaft.
-Es fasziniert mich Bilder zu kreieren, die emotional sind. Dazu gehört ein 
-geschultes Auge für das Licht und den Hintergrund, sowie die Fähigkeit die Modelle
-richtig in Szene zu setzen. Das perfekte Zusammenspiel dieser genannten Faktoren 
-ist mir sehr wichtig. 
-Da ich mit Pferden, Hunden und Katzen aufgewachsen bin, liegt mir die Tierfotografie sehr am Herzen. 
+
+
+Schon immer interessierte mich Kunst. Es war schon immer DAS Lieblingsfach.
+Es begann mit basteln, ging über Wasserfarben zu Ölfarben und endete 
+schliesslich in der Fotografie. Was als Hobby begann weckte Ehrgeiz in mir 
+und entfachte ein Feuer. Die Fotografie wurde meine grosse Leidenschaft.
 
 <br>
-Mein fotografischer Werdegang:
+Art is not only what you see, it is what you feel."
+<br>
 
-2013: Grundkurs bei [Daniel Werder](http://fotowerder.ch)
-
-2014: Portraitkurs und 2 monatiges Praktikum bei [Daniel Werder](http://fotowerder.ch)
-
-2016: "Sensual-Dream" - Workshop bei [Roger Schüeber](https://www.snapshooter.ch)
-
-2017: Pferdefotografie Workshop bei [Alexandra Evang](http://www.alexandraevang.de)
-
-2017: Pferdefotografie Coaching bei [Carina Maiwald](http://www.fotografie-maiwald.com)
+Obwohl ich nicht direkt auf dem Land gross geworden bin, war ich von klein auf 
+viel in der Natur, viel um Tiere. Am meisten fasziniertem mich aber schon 
+immer Pferde. Diese grossen Lebewesen mit ihrem gutmütigen Ausdruck. 
+Daher kann ich nicht anders, als mich in der puren Natur aufhalten und am 
+liebsten Pferde zu fotografieren. 
 
 <br>
-Neben dem Fotografieren studiere ich zur Zeit 
+"The earth has music for those who listen." - Shakespear
+<br>
+
+Ein Pferd kommt selten allein. Es kommt mit seinem Menschen.
+Ich liebe es die emotionale Bindung zwischen Pferd & Mensch einzufangen. 
+Damit möchte ich zeigen, dass ein Pferd nicht nur ein Tier ist.
+Das Pferd ist ein Freund, ein Freund den man gut behandeln muss und dafür
+so viel zurückbekommt. 
+
+<br>
+"Horses teach you a lot. Very little of it actually has to do with horses." - Anthony Lothian
+<br>
+
+
+
+<br>
+Totales Kontrastprogramm: Neben dem Fotografieren studiere ich zur Zeit 
 Rechtswissenschaften an der Universität Luzern.
 
