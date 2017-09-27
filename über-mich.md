@@ -17,7 +17,7 @@ und entfachte ein Feuer. Die Fotografie wurde meine grosse Leidenschaft.
 "Art is not only what you see, it is what you feel."
 <br>
 
-
+<br>
 Obwohl ich nicht direkt auf dem Land gross geworden bin, war ich von klein auf 
 viel in der Natur, viel um Tiere. Am meisten fasziniertem mich aber schon 
 immer Pferde. Diese grossen Lebewesen mit ihrem gutmütigen Ausdruck. 
@@ -28,7 +28,7 @@ liebsten Pferde zu fotografieren.
 "The earth has music for those who listen." - Shakespear
 <br>
 
-
+<br>
 Ein Pferd kommt selten allein. Es kommt mit seinem Menschen.
 Ich liebe es die emotionale Bindung zwischen Pferd & Mensch einzufangen. 
 Damit möchte ich zeigen, dass ein Pferd nicht nur ein Tier ist.
