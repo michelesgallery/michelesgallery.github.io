@@ -2,88 +2,54 @@
 parent-id: galerie
 number: 3
 title: Menschen
-subtitle: Einzelportraits - Paare - Familien
+subtitle: 
 category: [portrait, mensch]
 # header-pic: portrait2.jpg
 folder: galerie-portraits
 gallery:
     - images:
-      - filename: portrait1.jpg
-        alttext: portrait
-      - filename: portrait2.jpg
-        alttext: portrait
-      - filename: portrait3.jpg
-        alttext: portrait
-      - filename: portrait4.jpg
-        alttext: portrait
-      - filename: portrait5.jpg
-        alttext: portrait
-      - filename: portrait6.jpg
-        alttext: portrait
-      - filename: portrait7.jpg
-        alttext: portrait
-      - filename: portrait8.jpg
-        alttext: portrait
-      - filename: portrait10.jpg
-        alttext: portrait
-      - filename: portrait13.jpg
-        alttext: portrait
-      - filename: portrait15.jpg
-        alttext: portrait
-      - filename: portrait17.jpg
-        alttext: portrait
-      - filename: portrait20.jpg
-        alttext: portrait
-      - filename: portrait21.jpg
-        alttext: portrait
-      - filename: portrait22.jpg
-        alttext: portrait
-      - filename: portrait23.jpg
-        alttext: portrait    
-      - filename: portrait25.jpg
-        alttext: portrait
-      - filename: portrait26.jpg
-        alttext: portrait
-      - filename: portrait27.jpg
-        alttext: portrait
-      - filename: portrait28.jpg
-        alttext: portrait
-      - filename: portrait29.jpg
-        alttext: portrait
-      - filename: portrait30.jpg
-        alttext: portrait
-      - filename: portrait31.jpg
-        alttext: portrait
-      - filename: portrait32.jpg
-        alttext: portrait
-      - filename: portrait33.jpg
-        alttext: portrait
-      - filename: portrait34.jpg
-        alttext: portrait
-      - filename: portrait35.jpg
-        alttext: portrait
-      - filename: portrait36.jpg
-        alttext: portrait
-      - filename: portrait37.jpg
-        alttext: portrait
-      - filename: portrait38.jpg
-        alttext: portrait
-      - filename: portrait39.jpg
-        alttext: portrait
-      - filename: portrait40.jpg
-        alttext: portrait
-      - filename: portrait41.jpg
-        alttext: portrait    
-      - filename: portrait42.jpg
-        alttext: portrait
-      - filename: portrait43.jpg
-        alttext: portrait
-      - filename: portrait44.jpg
-        alttext: portrait
-      - filename: portrait45.jpg
-        alttext: portrait
-      - filename: portrait46.jpg
-        alttext: portrait
+      - filename: Menschen1.jpg
+        alttext: Menschen
+      - filename: Menschen2.jpg
+        alttext: Menschen
+      - filename: Menschen3.jpg
+        alttext: Menschen
+      - filename: Menschen4.jpg
+        alttext: Menschen
+      - filename: Menschen5.jpg
+        alttext: Menschen
+      - filename: Menschen6.jpg
+        alttext: Menschen
+      - filename: Menschen7.jpg
+        alttext: Menschen
+      - filename: Menschen8.jpg
+        alttext: Menschen
+      - filename: Menschen9.jpg
+        alttext: Menschen
+      - filename: Menschen10.jpg
+        alttext: Menschen
+      - filename: Menschen11.jpg
+        alttext: Menschen
+      - filename: Menschen12.jpg
+        alttext: Menschen
+      - filename: Menschen13.jpg
+        alttext: Menschen
+      - filename: Menschen14.jpg
+        alttext: Menschen
+      - filename: Menschen15.jpg
+        alttext: Menschen
+      - filename: Menschen16.jpg
+        alttext: Menschen    
+      - filename: Menschen17.jpg
+        alttext: Menschen
+      - filename: Menschen18.jpg
+        alttext: Menschen
+      - filename: Menschen19.jpg
+        alttext: Menschen
+      - filename: Menschen20.jpg
+        alttext: Menschen
+      - filename: Menschen21.jpg
+        alttext: Menschen
         
 ---
 <!-- beschreibender Text hier -->
