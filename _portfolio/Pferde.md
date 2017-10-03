@@ -2,7 +2,7 @@
 parent-id: galerie
 number: 1
 title: Pferde 
-subtitle: "Es muss von Herzen kommen, was auf Herzen wirken soll." - Johann Wolfgang von Goethe
+subtitle: 
 category: [pferd, mensch, tier]
 # header-pic: pferde1.jpg
 folder: galerie-pferde
