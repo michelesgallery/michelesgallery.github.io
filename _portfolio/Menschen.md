@@ -50,6 +50,10 @@ gallery:
         alttext: Menschen
       - filename: Menschen21.jpg
         alttext: Menschen
+      - filename: Menschen22.jpg
+        alttext: Menschen
+      - filename: Menschen23.jpg
+        alttext: Menschen
         
 ---
 <!-- beschreibender Text hier -->
