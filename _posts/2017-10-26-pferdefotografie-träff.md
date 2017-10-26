@@ -16,11 +16,11 @@ gallery:
 <br>
 Hallo ihr lieben Fotografen &lt;3
 <br>
+<br>
 Wir organisieren ein Fotografietreffen mit Pferd und Model. 
 <br>
 <br>
 An wen richtet sich der Träff?
-<br>
 <br>
 o	An alle Schweizer Fotografen, egal ob in der Pferdefotografie zuhause oder nicht, die Lust haben sich auszutauschen und zusammen zu fotografieren.
 <br>
