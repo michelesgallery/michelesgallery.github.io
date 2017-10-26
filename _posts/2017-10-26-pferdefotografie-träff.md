@@ -61,7 +61,7 @@ o	50.- (inkl. Essen und Getränke)
 <br>
 Anmeldung:
 <br>
-o	E-Mail an: info@micheledekker.ch
+o	E-Mail an: [info@micheledekker.ch](http://micheledekker.ch/kontakt/)
 <br>
 o	Betreff: Pferdefotografie-Träff
 <br>
@@ -70,6 +70,7 @@ o	Wir schicken dir dann noch ein Anmeldeformular zu.
 <br>
 <br>
 Wir freuen uns auf einen tollen Tag! &lt;3
+<br>
 Michèle & Jessy
 
 
