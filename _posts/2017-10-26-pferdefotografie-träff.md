@@ -75,6 +75,7 @@ Michèle & Jessy
 <br>
 <br>
 [www.micheledekker.ch](http://micheledekker.ch)
+<br>
 [www.jmw-fotografie.blogspot.ch](http://jmw-fotografie.blogspot.ch)
 <br>
 <br>
