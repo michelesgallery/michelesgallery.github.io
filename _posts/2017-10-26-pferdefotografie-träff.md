@@ -72,6 +72,11 @@ o	Wir schicken dir dann noch ein Anmeldeformular zu.
 Wir freuen uns auf einen tollen Tag! &lt;3
 <br>
 Michèle & Jessy
-
+<br>
+<br>
+[www.micheledekker.ch](http://micheledekker.ch)
+[www.jmw-fotografie.blogspot.ch](http://jmw-fotografie.blogspot.ch)
+<br>
+<br>
 
 
