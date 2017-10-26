@@ -49,7 +49,7 @@ o	Bis 18 Uhr können wir die Ergebnisse vergleichen und uns weiter austauschen. 
 <br>
 Wo und mit Wem findet der Träff statt?
 <br>
-o	Anita & Dollybaja (Instagram: (dollymiro)[https://www.instagram.com/dollymiro/]) stehen uns als Models zur Verfügung. Anbei noch ein Foto von den beiden (Foto von Eliane van Schaik).
+o	Anita & Dollybaja (Instagram: [dollymiro](https://www.instagram.com/dollymiro/)) stehen uns als Models zur Verfügung. Anbei noch ein Foto von den beiden (Foto von Eliane van Schaik).
 <br>
 o	3711 Wimmis (BE), keine ÖV direkt zum Stall, wir könnten dich aber am Bahnhof abholen, oder es bilden sich Fahrgemeinschaften.
 <br>
