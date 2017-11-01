@@ -6,7 +6,7 @@ side-img: true
 side-img-file: michele-dekker.jpg
 ---
 
-<blockquote>
+
 <p>
 <em>„Kunst ist nicht nur was man sieht, sondern auch was man fühlt.“</em>
 </p>
