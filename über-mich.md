@@ -25,7 +25,9 @@ reisen, surfen, Yoga, Details, Farben, Positivität, gutes Essen, Vegetarisch, V
 <p>
 Totales Kontrastprogramm: ich studiere zur Zeit Rechtswissenschaften in Luzern.
 </p>
-
+<br>
+<br>
+<br>
 <p>
 MEINE PHILOSOPHIE
 <br>
@@ -38,6 +40,8 @@ MEINE PHILOSOPHIE
 •	Ruhe
 •	Freude
 •	Gelassenheit
+•
+<br>
 <br>
 Diese Komponenten bilden das Fundament meiner Fotoshootings.  
 </p>
