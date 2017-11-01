@@ -39,6 +39,7 @@ MEINE PHILOSOPHIE
 <em>„Dein Shooting soll ein tolles Erlebnis sein!“</em>
 <br>
 <br>
+<br>
 •	Gefühl
 •	Vertrauen
 •	Harmonie
