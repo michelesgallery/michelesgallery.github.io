@@ -26,3 +26,18 @@ reisen, surfen, Yoga, Details, Farben, Positivität, gutes Essen, Vegetarisch, V
 Totales Kontrastprogramm: ich studiere zur Zeit Rechtswissenschaften in Luzern.
 </p>
 
+<p>
+MEINE PHILOSOPHIE
+<br>
+<em>„Dein Shooting soll ein tolles Erlebnis sein!“</em>
+<br>
+<br>
+•	Gefühl
+•	Vertrauen
+•	Harmonie
+•	Ruhe
+•	Freude
+•	Gelassenheit
+<br>
+Diese Komponenten bilden das Fundament meiner Fotoshootings.  
+</p>
