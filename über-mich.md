@@ -13,9 +13,9 @@ Es begann mit basteln, ging über Wasserfarben zu Ölfarben und endete
 schliesslich in der Fotografie. Was als Hobby begann weckte Ehrgeiz in mir 
 und entfachte ein Feuer. Die Fotografie wurde meine grosse Leidenschaft.
 
-<br>
-"Art is not only what you see, it is what you feel."
-<br>
+<p>
+<em>"Art is not only what you see, it is what you feel."</em>
+</p>
 
 <br>
 Obwohl ich nicht direkt auf dem Land gross geworden bin, war ich von klein auf 
