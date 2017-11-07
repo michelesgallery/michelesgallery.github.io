@@ -16,22 +16,17 @@ side-img-file: michele-dekker.jpg
 liebe Besucherin, lieber Besucher meiner Website 
 <br>
 Ich liebe die Schönheit der Natur und bin ein Pferdemädchen seit ich denken kann. 
-<br>
-Seien es Menschen oder Tiere, outdoor und natürliches Licht stehen für mich im Focus. Gefühl, Vertrauen, Harmonie sowie Ruhe, Freude und Gelassenheit bilden die Eckwerte meiner Fotoshootings. Mein Motto lautet denn auch:
+<br>Seien es Menschen oder Tiere, outdoor und natürliches Licht stehen für mich im Focus. Gefühl, Vertrauen, Harmonie sowie Ruhe, Freude und Gelassenheit bilden die Eckwerte meiner Fotoshootings. Mein Motto lautet denn auch:
 </p>
-
 <p>
 <em>"Dein Shooting soll ein tolles Erlebnis sein."“</em>
 </p>
 <br>
-
 <p>
 Neben meiner fotografischen Tätigkeit studiere ich hauptberuflich Rechtswissenschaft an der Universität Luzern.
 </p>
 <br>
-
 <p>
 herzliche Grüsse
-<br>
-Michèle
+<br>Michèle
 </p>
