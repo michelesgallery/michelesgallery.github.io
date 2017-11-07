@@ -28,5 +28,5 @@ Neben meiner fotografischen Tätigkeit studiere ich hauptberuflich Rechtswissens
 <br>
 <p>
 herzliche Grüsse
-<br>Michèle
+<br>Michèle &lt;3
 </p>
