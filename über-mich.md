@@ -13,41 +13,27 @@ side-img-file: michele-dekker.jpg
 
 <br>
 <p>
+liebe Besucherin, lieber Besucher meiner Website 
+<br>
 Ich liebe die Schönheit der Natur und bin ein Pferdemädchen seit ich denken kann. 
-<br>
-Die Fotografie entdeckte ich 2013 und sie entpuppte sich als mein Weg, meine Gefühle 
-<br>
-in einem Bild festhalten zu können.Aus Liebe zur Natur habe ich mich auf die 
-<br>
-Outdoor-Fotografie mit natürlichem Licht spezialisiert. 
 </p>
 <br>
 <p> 
-Das mag auch noch: 
-reisen, surfen, Yoga, Details, Farben, Positivität, gutes Essen, Vegetarisch, Tiere
+Seien es Menschen oder Tiere, outdoor und natürliches Licht stehen für mich im Focus. Gefühl, Vertrauen, Harmonie sowie Ruhe, Freude und Gelassenheit bilden die Eckwerte meiner Fotoshootings. Mein Motto lautet denn auch:
 </p>
 <br>
 <p>
-Totales Kontrastprogramm: ich studiere zur Zeit Rechtswissenschaften in Luzern.
+<em>"Dein Shooting soll ein tolles Erlebnis sein."“</em>
 </p>
 <br>
 <br>
+<p>
+Neben meiner fotografischen Tätigkeit studiere ich hauptberuflich Rechtswissenschaft an der Universität Luzern.
+</p>
+<br>
 <br>
 <p>
-MEINE PHILOSOPHIE
+herzliche Grüsse
 <br>
-<em>„Dein Shooting soll ein tolles Erlebnis sein!“</em>
-<br>
-<br>
-<br>
-•	Gefühl
-•	Vertrauen
-•	Harmonie
-•	Ruhe
-•	Freude
-•	Gelassenheit
-•
-<br>
-<br>
-Diese Komponenten bilden das Fundament meiner Fotoshootings.  
+Michèle
 </p>
