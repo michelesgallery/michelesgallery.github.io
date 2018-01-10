@@ -16,11 +16,7 @@ gallery:
         alttext: Menschen
       - filename: Menschen4.jpg
         alttext: Menschen
-      - filename: Menschen5.jpg
-        alttext: Menschen
       - filename: Menschen6.jpg
-        alttext: Menschen
-      - filename: Menschen7.jpg
         alttext: Menschen
       - filename: Menschen8.jpg
         alttext: Menschen
@@ -31,8 +27,6 @@ gallery:
       - filename: Menschen11.jpg
         alttext: Menschen
       - filename: Menschen12.jpg
-        alttext: Menschen
-      - filename: Menschen13.jpg
         alttext: Menschen
       - filename: Menschen14.jpg
         alttext: Menschen
@@ -49,10 +43,6 @@ gallery:
       - filename: Menschen20.jpg
         alttext: Menschen
       - filename: Menschen21.jpg
-        alttext: Menschen
-      - filename: Menschen22.jpg
-        alttext: Menschen
-      - filename: Menschen23.jpg
         alttext: Menschen
         
 ---
