@@ -1,7 +1,7 @@
 ---
 parent-id: galerie
 number: 1
-title: Pferde 
+title:  
 subtitle: 
 category: [pferd, mensch, tier]
 # header-pic: pferd1.jpg
