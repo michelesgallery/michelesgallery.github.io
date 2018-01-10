@@ -4,46 +4,51 @@ number: 1
 title: Pferde 
 subtitle: 
 category: [pferd, mensch, tier]
-# header-pic: pferde1.jpg
+# header-pic: pferd1.jpg
 folder: galerie-pferde
 gallery:
     - images:
-      - filename: pferd50.jpg
+      - filename: pferd1.jpg
         alttext: pferd
-      - filename: pferd51.jpg
+      - filename: pferd2.jpg
         alttext: pferd   
-      - filename: pferd52.jpg
+      - filename: pferd3.jpg
         alttext: pferd
-      - filename: pferd53.jpg
+      - filename: pferd4.jpg
         alttext: pferd
-      - filename: pferd54.jpg
+      - filename: pferd5.jpg
         alttext: pferd
-      - filename: pferd55.jpg
+      - filename: pferd6.jpg
         alttext: pferd
-      - filename: pferd56.jpg
+      - filename: pferd7.jpg
         alttext: pferd
-      - filename: pferd57.jpg
+      - filename: pferd8.jpg
         alttext: pferd
-      - filename: pferd58.jpg
+      - filename: pferd9.jpg
         alttext: pferd
-      - filename: pferd59.jpg
+      - filename: pferd10.jpg
         alttext: pferd
-      - filename: pferd60.jpg
+      - filename: pferd11.jpg
         alttext: pferd
-      - filename: pferd61.jpg
+      - filename: pferd12.jpg
         alttext: pferd
-      - filename: pferd62.jpg
+      - filename: pferd13.jpg
         alttext: pferde
-      - filename: pferd63.jpg
+      - filename: pferd14.jpg
         alttext: pferd
-      - filename: pferd64.jpg
+      - filename: pferd15.jpg
         alttext: pferd
-      - filename: pferd65.jpg
+      - filename: pferd16.jpg
         alttext: pferd
-      - filename: pferd66.jpg
+      - filename: pferd17.jpg
         alttext: pferd
-      - filename: pferd67.jpg
+      - filename: pferd18.jpg
         alttext: pferd
-
+      - filename: pferd19.jpg
+        alttext: pferd
+      - filename: pferd20.jpg
+        alttext: pferd
+      - filename: pferd21.jpg
+        alttext: pferd
 ---
 <!-- beschreibender Text hier -->
