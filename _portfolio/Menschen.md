@@ -4,7 +4,7 @@ number: 3
 title: 
 subtitle: 
 category: [portrait, mensch]
-# header-pic: portrait2.jpg
+# header-pic: Mensch1.jpg
 folder: galerie-portraits
 gallery:
     - images:
