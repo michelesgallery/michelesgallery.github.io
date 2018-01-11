@@ -5,7 +5,7 @@ title:
 subtitle: 
 category: [portrait, mensch]
 # header-pic: Mensch1.jpg
-folder: galerie-portraits
+folder: galerie-people
 gallery:
     - images:
       - filename: Mensch1.jpg
