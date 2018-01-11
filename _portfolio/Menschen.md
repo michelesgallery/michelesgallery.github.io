@@ -16,7 +16,11 @@ gallery:
         alttext: Mensch
       - filename: Mensch4.jpg
         alttext: Mensch
+      - filename: Mensch5.jpg
+        alttext: Mensch
       - filename: Mensch6.jpg
+        alttext: Mensch
+      - filename: Mensch7.jpg
         alttext: Mensch
       - filename: Mensch8.jpg
         alttext: Mensch
@@ -28,10 +32,11 @@ gallery:
         alttext: Mensch
       - filename: Mensch12.jpg
         alttext: Mensch
+      - filename: Mensch13.jpg
+        alttext: Mensch
       - filename: Mensch14.jpg
         alttext: Mensch
       - filename: Mensch15.jpg
         alttext: Mensch
-
 ---
 <!-- beschreibender Text hier -->
