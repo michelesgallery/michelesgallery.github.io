@@ -12,6 +12,6 @@ gallery:
         alttext: pferd
       
 ---
-Klicke  [Galerie](https://www.pictrs.com/micheledekkerfotografie?l=de) und du gelangst zu meinem Onlineshop.
+Klicke  ["HIER"](https://www.pictrs.com/micheledekkerfotografie?l=de) und du gelangst zu meinem Onlineshop.
 
 <!-- beschreibender Text hier -->
