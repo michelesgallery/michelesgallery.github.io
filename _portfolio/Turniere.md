@@ -1,7 +1,7 @@
 ---
 parent-id: galerie
 number: 3
-title:  [Galerie](https://www.pictrs.com/micheledekkerfotografie?l=de)
+title:  
 subtitle: 
 category: [pferd, mensch, tier]
 # header-pic: pferd1.jpg
