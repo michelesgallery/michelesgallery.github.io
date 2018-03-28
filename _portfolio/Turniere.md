@@ -1,7 +1,7 @@
 ---
 parent-id: galerie
 number: 3
-title:  
+title:  [Galerie](https://www.pictrs.com/micheledekkerfotografie?l=de)
 subtitle: 
 category: [pferd, mensch, tier]
 # header-pic: pferd1.jpg
@@ -12,6 +12,6 @@ gallery:
         alttext: pferd
       
 ---
-Klicke  ["hier"](https://www.pictrs.com/micheledekkerfotografie?l=de) und du gelangst zu meinem Onlineshop.
+Klicke  [Galerie](https://www.pictrs.com/micheledekkerfotografie?l=de) und du gelangst zu meinem Onlineshop.
 
 <!-- beschreibender Text hier -->
