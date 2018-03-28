@@ -14,7 +14,7 @@ gallery:
         alttext: pferd   
       - filename: pferd2b.jpg
         alttext: pferd 
-      - filename: pferd3.jpg
+      - filename: pferd2c.jpg
         alttext: pferd
       - filename: pferd4.jpg
         alttext: pferd
@@ -36,7 +36,7 @@ gallery:
         alttext: pferd
       - filename: pferd12.jpg
         alttext: pferd
-      - filename: pferd13.jpg
+      - filename: pferd12a.jpg
         alttext: pferde
       - filename: pferd14.jpg
         alttext: pferd
@@ -44,7 +44,7 @@ gallery:
         alttext: pferd
       - filename: pferd16.jpg
         alttext: pferd
-      - filename: pferd16b.jpg
+      - filename: pferd16a.jpg
         alttext: pferd
       - filename: pferd17.jpg
         alttext: pferd
