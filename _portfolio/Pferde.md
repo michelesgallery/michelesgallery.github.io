@@ -12,9 +12,11 @@ gallery:
         alttext: pferd
       - filename: pferd2.jpg
         alttext: pferd   
-      - filename: pferd2b.jpg
+      - filename: pferd3.jpg
         alttext: pferd 
-      - filename: pferd2c.jpg
+      - filename: pferd3b.jpg
+        alttext: pferd
+      - filename: pferd3c.jpg
         alttext: pferd
       - filename: pferd4.jpg
         alttext: pferd
@@ -24,11 +26,23 @@ gallery:
         alttext: pferd
       - filename: pferd7.jpg
         alttext: pferd
+      - filename: pferd7.jpg
+        alttext: pferd
       - filename: pferd8.jpg
         alttext: pferd
       - filename: pferd9.jpg
         alttext: pferd
       - filename: pferd9b.jpg
+        alttext: pferd
+      - filename: pferd9c.jpg
+        alttext: pferd
+      - filename: pferd9d.jpg
+        alttext: pferde
+      - filename: pferd9e.jpg
+        alttext: pferd
+      - filename: pferd9f.jpg
+        alttext: pferd
+      - filename: pferd9g.jpg
         alttext: pferd
       - filename: pferd10.jpg
         alttext: pferd
@@ -36,15 +50,15 @@ gallery:
         alttext: pferd
       - filename: pferd12.jpg
         alttext: pferd
-      - filename: pferd12a.jpg
-        alttext: pferde
+      - filename: pferd13.jpg
+        alttext: pferd
       - filename: pferd14.jpg
         alttext: pferd
       - filename: pferd15.jpg
         alttext: pferd
       - filename: pferd16.jpg
         alttext: pferd
-      - filename: pferd16a.jpg
+      - filename: pferd12.jpg
         alttext: pferd
       - filename: pferd17.jpg
         alttext: pferd
@@ -53,8 +67,6 @@ gallery:
       - filename: pferd19.jpg
         alttext: pferd
       - filename: pferd20.jpg
-        alttext: pferd
-      - filename: pferd21.jpg
         alttext: pferd
         
 ---
