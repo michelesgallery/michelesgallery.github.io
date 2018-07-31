@@ -56,5 +56,6 @@ gallery:
         alttext: pferd
       - filename: pferd21.jpg
         alttext: pferd
+        
 ---
 <!-- beschreibender Text hier -->
